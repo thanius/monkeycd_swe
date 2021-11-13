@@ -1,0 +1,34 @@
+DISK_0001/LECF/LFLF_0010/SCRP_0022
+
+# Left column - *16*
+# Middle column - *48*
+# Right column - 
+# Top row - **9B**
+# Middle row - **AB**
+# Bottom row - **BB**
+# Function - _0i_
+
+# Left column
+Give - _04_ <09 02> (47 69 76 65) 00 <13 12> [67] <05> *16* 00 **9B** <00 06 FF 7A>
+Open - _02_ <09 02> (4F 70 65 6E) 00 <13 12> [6F] <05> *16* 00 **AB** <00 06 FF 7A>
+Close - _03_ <09 02> (43 6C 6F 73 65) 00 <13 12> [63] <05> *16* 00 **BB** <00 66 FF 7A>
+
+# Middle column
+Pick up - _09_ <09 02> (50 69 33 6B 20 75 70) 00 <13 12> [70] 05 *48* 00 **9B** <00 06 FF 7A>
+Look at - _08_ <09 02> (4C 6F 6F 6B 20 61 74) 00 <13 12> [6C] 05 *48* 00 **AB** <00 06 FF 7A>
+Talk to - _0A_ <09 02> (54 61 6C 6B 20 74 6F) 00 <13 12> [74] 05 *48* 00 **BB** <00 06 FF 7A>
+
+# Right column
+Use - _07_ <09 02> (55 73 65) 00 <13 12> [75] 05 *7C* 00 **9B** 00 <06 FF 7A>
+Push - _05_ <09 02> (50 75 73 68) 00 <13 12> [73] 05 *7C* 00 **AB** 00 <06 FF 7A>
+Pull - _06_ <09 02> (50 75 6C 6C) 00 <13 12> [79] 05 *7C* 00 **BB** 00 <06 FF 7A>
+
+Give - Ge
+Open - Öppna
+Close - Stäng
+Pick up - Ta
+Look at - Titta på
+Talk to - Tala till
+Use - Använd
+Push - Putta
+Pull - Dra

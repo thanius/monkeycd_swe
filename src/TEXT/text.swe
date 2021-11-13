@@ -1,0 +1,4437 @@
+djungel
+roddbåt och åror
+djungel
+djungel
+djungel
+Det är en äcklig gammal flaska.\255\003Jag vill inte ha den.
+flaska
+lapp
+Herman Tandröta
+Det finns ett meddelande inuti!
+Det är ett PM^
+Hmm.\255\003Verkar vara Lagtextiska.\255\003Jag tror inte jag kan översätta resten.
+strand
+strand
+spricka
+ 
+@@@@@@@
+gam
+@@@@@@@
+@@@@@@@
+....................................................................................................
+....................................................................................................
+strand
+fästning
+damm
+bifurkation
+uttorkad flodbädd
+flod
+damm
+uttorkad flodbädd
+glänta
+strand
+flod
+strand
+by
+dammig bok
+bläck
+Jag har inget viktigt att skriva ned.\255\003Det har jag aldrig.
+Det ser ut som en kulspetsfjäderpenna.
+fjäderpenna
+Det ser ut som en tom kista.
+Det ser ut som en gammal skattkista.
+kista
+Den är för tung för att bära någon annanstans.
+Titta där! En pappersbit.
+Och några kanelstänger.
+Kistan är tom.
+Det är den där tunga metallkistan jag bar dit bort.
+kista
+kista
+Det ser ut som en väldigt tung metallkista.
+kista
+Byrån är redan öppet.
+Den verkar vara ordentligt låst.
+Det är Kaptenens tjusiga ekbyrå.
+byrå
+Det finns en gammal, dammig bok där inne.\255\003Låt oss se vad det är.
+Den är tom.
+Det ser ut som en kaptens låda.
+låda
+dörr
+Det är toppen av ett flingpaket som används som ett bokmärke.
+bokmärke
+pappersbit
+kanelstänger
+Den är redan bäddad!\255\003Skeppet har förmodligen "rekonditionerats" innan försäljning.
+Det kommer finnas tid för sånt senare.
+Kaptenens säng
+Jag är körd.
+Det står:\255\003"Kaptenens logg, 10:e Mars."\255\003"Första styrman Tandröta och jag har letat efter Apön\015 i över en månad utan någon lycka."
+"Vägbeskrivningen vi köpte på Gruffotumult visade sig vara ett recept och inte en karta som vi först trodde."
+"Kaptenens logg, 12:e Mars."\255\003"Jag önskar att Tandröta kunde ta ett bad."
+"Kaptenens logg, 17:e Mars."\255\003"Jag önskar att Tandröta kunde sluta snarka."
+"Kaptenens logg, 23:e Mars."\255\003"Tandröta håller verkligen på att gå mig på nerverna. Jag antar att det bara är en tidsfråga innan vi ryker ihop."
+"Kaptenens logg, 2:a April."\255\003"Som en gest för att återställa vår vänskap har Tandröta erbjudit sig att fixa middagen ikväll."
+"Kaptenens logg, 3:e April."\255\003"Jag vet inte hur vi lyckades, men vi har anlänt till Apön\015."\255\003"Både Tandröta och jag slocknade efter soppan han lagade till igår kväll, och när vi vaknade vilade Apön\015 intill bågen."
+"Kaptenens logg, 4:e April."\255\003"Tandröta och jag fyllde roddbåten med proviant och är redo att bege oss mot Apön\015."
+"Vi är båda exalterade över tanken om att vara de första civiliserade människorna att ta reda på Apöns Hemlighet\015."
+"Kaptenens logg, 4:e April."\255\003"Vi var tvungna att återvända till skeppet. Tandröta glömde bort att gå på toaletten innan vi åkte."\255\003"Vi åker ut imorgon igen."
+Det var det sista inlägget.
+ 
+Jösses, snacka om tungt. Den är säkerligen fylld med guld och juveler.
+stege
+WOW! Krut!\255\003Jag tror jag tar lite.
+Jag tar lite till.
+Jag har tillräckligt med krut nu.
+Det ser ut som tunnor med krut.
+tunnor
+Det är en \255\006\100\000.
+repbit
+kort repbit
+liten bit rep
+fjantigt litet rep
+sjukt kort rep
+gigantisk bit rep@@@@@@@@@@@@@@@@@@@@@@
+Det finns ett VÄLDIGT fint vin här inne.\255\003Jag tar det.
+ 
+Den är tom.
+Det ser ut som en gammal piratkista.
+kista
+De är igenrostade.
+Det är bara gamla rostiga väskor.
+kofferter
+De är tomma.
+De är bara gamla tomma tunnor.
+tunnor
+Ser explosivt ut.
+krut
+De är alla igenrostade.
+De är bara gamla rostiga kistor.
+kistor
+Den är igenrostad.
+Det är bara en gammal rostig kista.
+svart kista
+Ah, det har en fin bouquet.
+Jag tror det behöver luftas i rumtemperatur liten stund till.
+Jag är ingen oenolog, men av den djupa röda färgen att döma^\255\003^Är detta ett väldigt fint vin.
+fint vin@@@@@@@@
+Usch!\255\003Den omisskännliga stanken av apor!\255\003Hela skeppet luktar av ångande, svettiga primater.\255\003Jag önskar att jag tagit den på en provsegling innan.
+Jag tror jag kommer bli sjösjuk.
+Det är ordentligt stängt.
+fönster
+stege
+lucka
+dörr
+@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+Apöns Hemlighet - CD-ROM-version 2.3b\255\001Översättning version 1.0
+Spelet pausat. Tryck MELLANSLAG.
+Stoppa disk %c och tryck på valfri tangent för att fortsätta.
+Kunde inte hitta %s, (%c%d) Tryck valfri tangent.
+Kunde inte läsa disk %c, (%c%d) Tryck valfri tangent.
+Är du säker på att du vill starta om? (Y/N)Y
+Är du säker på att du vill avsluta? (Y/N)Y
+Omstart
+Nuvarande kod
+Mata in kod
+Felaktig kod
+Är du säker?
+Spara
+Ladda
+Spela
+Avbryt
+Avsluta
+OK
+Mata in spardiskett
+Du måste mata in ett namn
+Spelet sparades INTE
+Spelet laddades INTE
+Sparar '%s'
+Laddar '%s'
+Döp din sparfil
+Välj en sparfil att LADDA
+Kajbrusk
+bubbelvatten
+bubbelvatten
+bubbelvatten
+Det är för mörkt att se den.
+Jag kan inte nå den.
+Jag tror jag kan nå bättre resultat med papegojen.
+Den verkar inte gå att öppna.
+Jag kan inte rubba den.
+Jag ser inget särskilt.
+Jag kan inte plocka upp den där.
+Jag når inte den härifrån.
+Det där verkar inte fungera.
+Melassmaskin.
+Legal maskin.
+Trans-warpfärdsmaskin.
+Disketter
+Hårddisk
+Vald aktör är \255\004\001\000
+Dialogfärg \255\004\139\001
+Maskingradering är \255\004\103\001 hastighet \255\004\006\000
+Är du säker på att du vill vinna? (Y/N)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+\255\005\107\000\255\007\049\000\255\006\108\000 \255\005\110\000 \255\006\109\000
+\255\005\107\000\255\007\049\000\255\005\110\000 \255\006\109\000
+\255\005\001\064
+Ge mig bara det förbannade skeppet.
+Sväll
+Flyt
+ 
+ 
+ 
+Köp spelguide
+ Ruttna
+ Guppa
+ 
+\001\002\254\001\005\006\254\001\007\008
+\254\001\005\006\254\001\003\004
+\255\007\036\000
+Gå till
+Ge
+Öppna
+Stäng
+Ta
+\021\021\021\021Titta \016\017
+\021\021\021\021Tala \018\019\020
+\021Använd
+Putta
+Dra
+Stör
+Stick
+Känn
+Kittla
+Stryk
+Klappa
+Slå
+Peta
+Reta
+i
+med
+på
+till
+<REKLAM>
+\255\006\000\064
+ 
+Hmm. Den här dörren verkar vara låst.
+Försökte avklara prövning \255\004\000\064 två gånger. DETTA ÄR ILLA!
+Försökte avklara ogiltig prövning:\255\004\000\064. DETTA ÄR ILLA!
+Drevskog
+Djupt inne i Karibien\255\002
+ 
+Gruffotumultön\015\255\002
+ 
+ 
+TM & (c) 1990 LucasArts Entertainment Company. Alla rättigheter förbehållna.\255\001\255\001Översättning: Tobias Hellgren (2018-2021)
+ 
+Skapat och designat av\255\001Ron Gilbert\255\002
+ 
+ 
+Skrivet och programmerat av\255\001Dave Grossman, Tim Schafer\255\001och Ron Gilbert\255\002
+Skrivet och programmerat av\255\001Tim Schafer, Ron Gilbert\255\001och Dave Grossman\255\002
+Skrivet och programmerat av\255\001Ron Gilbert, Dave Grossman\255\001och Tim Schafer\255\002
+ 
+ 
+Konvertering till CD-ROM av\255\001Aric Wilmunder, Wallace Poulter,\255\001och Sean Clark
+ 
+ 
+Bakgrundsgrafik av\255\001Steve Purcell, Mark Ferrari\255\001och Mike Ebert\255\002
+ 
+ 
+Animationer av\255\001Steve Purcell, Mike Ebert\255\001och Martin Cameron som "Bucky"\255\002
+ 
+ 
+ 
+Ytterligare grafik av Tami\250Borowick, James\250Dollar, Bill\250Eaken, Avril\250Harrison, Iain\250McCaig, Jim\250McLeod, Michael\250Stemmle, Sean\250Turner samt speciellt tack till\255\001Brad\250Taylor, Peter\250Chan och Ron\250Lussier\255\002
+ 
+Originell musik av\255\001Michael Land^\255\002
+ 
+^Barney Jones och Andy Newell\255\001från earwax productions^\255\002
+ 
+^och\255\001Patrick Mundy\255\002
+ 
+ 
+PC Speaker-ljudmotor av\255\001Michael Land, Peter McConnell,\255\001och J. Anthony White\255\002
+ 
+ 
+Huvudtestning av\255\001Judith Lucero och Kirk Roulston\255\001 \255\002
+ 
+ 
+Huvudtestning för CD-ROM-version av\255\001Chip Hinnenberg\255\001\255\002
+ 
+ 
+Testare\255\001Bret\250Barrett, Mark\250Cartwright, Wayne\250Cline, Jim\250Current, Dave\250Dahle, Justin\250Graham, Carla\250Green, James\250Hampton, 
+ \255\001Mike\250Kerry, Kirk\250Lesser, Bret\250Mogilefsky, Aaron\250Muszalski, Liz\250Nagy, Ezra\250Palmer-Persen, Barry\250Gysbers, Jo\250Ashburn, Jon\250Van, och J\250'Fretless'\250Anthony\250White
+Projektledare för IBM CD-ROM-version:\255\001Aric Wilmunder\255\002
+ 
+ 
+IBM CD-ROM-system av\255\001Aric Wilmunder\255\001 \255\002
+ 
+ 
+Producerat av\255\001Greg Hammond\255\002
+ 
+ 
+IBM CD-ROM-projekt\255\001producerat av\255\001Brenna Kruppa-Holden\255\002
+ 
+ 
+"SCUMM"-äventyrsmotor av\255\001Ron Gilbert, Aric Wilmunder,\255\001Brad Taylor och Vince Lee\255\002
+ 
+ 
+stig
+Det är samma sten som jag lade där.
+Det ser ut som om någon har lagt den här med vilja.
+Det var nog svårt att få den hit.
+Jag tror inte jag vill ha den.
+sten
+stenhög
+Wow!\255\003Det ser ut som om den träffade det stora bananträdet!\255\003Jag slår vad om att oddsen för det är otroliga!
+Det var nära, men jag tror inte den kommer att träffa igen.\255\003Den träffen var en på ziljonen!
+Jag lägger den bara här.
+Det finns redan en här.
+Vad ska jag göra med en stor sten?
+Gummiträd!
+Herman Tandröta
+Hoppsan^
+Alltså, det där är det näst största aphuvud jag någonsin sett!
+gigantiskt aphuvud
+djungel
+Jisses.
+dödskallar
+Hjälp.
+dödskallar
+Den kan inte röra sig åt det hållet.
+Wow!
+Jag tror inte att jag kan få den att stanna där.
+näsa
+totempåle
+totempåle
+lik
+lik
+lik
+"PRIVAT OMRÅDE"\255\003"Tillbedjan är tillåtet, men var god TRÄD EJ IN i Aphuvudet."\255\003"- SP. LeChuck"
+skylt
+Gosse, vad han borde vara trött.
+Ook\255\003Ook\255\003Eep
+apa
+KeBabben Larsson
+KeJohan Glans
+KeLasse Brandeby
+Konstnären har ristat in sitt namn på den:
+"Skapad av Röda Skallen."
+"Skapad av Skarptand."
+Herman Tandröta
+Den är full av skräp. Jag hoppas jag slipper äta det här.
+Den ser ut som en helt vanlig skeppskastrull.
+Jag tänkte inte lägga i något annat i den där kastrullen!
+Jag har inget recept. Jag har inte ens någon aning om hur man lagar soppa.
+Bara en droppe.
+Öh^ Det här borde bli bra.
+Det borde räcka.
+Bra att jag har en miljon stycken av de här.
+Jag älskar kanel.
+Det är på tiden att jag gjorde mig av med den här värdelösa artefakten.
+Jag tror att jag har tillräckligt med fiber, jag behåller den hellre.
+Aldrig i livet! Jag har jobbat jättehårt för de här pengarna!
+Det här billiga, plastiga kompasset är för frän att kasta bort.
+Den här sjöfarande litteraturen är läsvärd, jag tror jag behåller den.
+Det är tillräckligt varmt som det är.
+Jag vill inte ha något av denna soppa.
+Jag har betalat fina pengar för den här, jag behåller den.
+kastrull
+Varm och fin.
+Aj, det var varmt!
+När jag tänker efter, så är det bara dansinstruktioner.
+Varför bränna alldeles utmärkt mat?
+Säkert, som om jag verkligen vill döda mig själv.
+Jag kan behöva den här senare.
+Jag kommer bara att bränna dem alla.
+Jag tror inte att den kommer att fatta eld.
+Aj, det var varmt!
+glödhet eld
+Hmmmm^\255\003Jag älskade verkligen de här som barn.\255\003Jag gillade hur flingorna skrapade sönder gommen i munnen.
+Fras
+HÄFTIGT!\255\003Det finns en leksak inuti.
+Jag mår för dåligt för att äta mer.
+flingor
+Hmmmm^\255\003Jag älskade verkligen de här som barn.\255\003Jag gillade hur flingorna skrapade sönder gommen i munnen.
+flingor
+skåp
+Den är ungefär lika stor som mitt huvud.
+Jag tar bara på mig den om jag ABSOLUT måste.
+kastrull
+stege
+Jisses!
+Den brinner redan.
+Jag skulle nog inte sätta eld på den där.
+flammande massa
+Det här är ingen leksak!\255\003Det är en liten nyckel med en fint graverad apa på den.
+Det är en liten nyckel med en fint graverad apa på den.
+liten nyckel
+Den här nyckeln verkar inte passa någonstans.
+liten nyckel
+ 
+Jag mår pyton.
+Fsspt.
+Grrfk.
+Psspert.
+Aaak.
+Blfftp.
+Jisses!
+Jag tror jag blir yr!
+Överväldigad av all rök och alla odörer, tappar Kajbrusk snabbt medvetandet.
+En kort stund senare slår voodootrolldomen till, som styr skeppet mot okänd destination och vidare på sin mystiska sjöresa.
+Dagar passerar^\255\002
+ 
+leksak
+trappsteg
+krut
+fördämning
+Visst. Gå till solen.
+Jag vill väl inte bli blind, heller!
+solen
+Jag tar den här flintan också.
+Jag tar den här intressanta stenen också.
+lapp under sten
+Jag är ingen geolog, men av det mussliga brottet att döma^\255\003^Skulle jag tro att detta är en bit flinta!
+flinta
+Som jag sa, det är flinta.
+Jag kollar in den här lappen när jag ändå håller på.
+Flinta fungerar bäst med saker som är gjorda av stål.
+sten ovanpå lapp
+stig till djungel
+stig till djungel
+fördämning
+Jösses, vad det är VARMT här.
+Det är för skuggigt här borta.
+flod
+fotstöd
+lapp
+stig ned
+Antingen är det en skarp symbol för mäns fåfänglighet^\255\003^Eller så är det en stock och ett par stenar.
+primitiv konst
+primitiv konst
+Den vill inte flyttas längre åt det hållet.
+The ocean is pretty from here^
+^Det är några spillror till höger.
+^Och där är mitt skepp till höger.
+Det är några flytande spillror där mitt skepp brukade vara!
+Jag kan se mitt skepp härifrån!\255\003Vilken skräphög!
+Det är några spillror till vänster^
+Där är mitt skepp till vänster^
+^Och det stora trädet på stranden till höger.
+Jag kan se det där stora bananträdet på stranden!
+Wow, vilken djungel!\255\003Där är det där stora bananträdet på stranden till vänster.
+Djungeln är ganska tjock^\255\003Allt jag kan se är ett gäng djur som äter varandra!
+Jag kan se utkiksmannen på Gruffotumultön\015!\255\003Han tittar rakt mot mig!
+Vad skulle jag inte ge för en stor, fin vattenballong just nu.
+skeppsdäck
+En riktigt fin flagga.\255\003Darra månde mina ben bara av att titta på den.
+Jolly Roger
+Ser stadig ut.
+stadig stubbe
+djungel
+Ser stark ut.
+stark gren
+Jag tror inte jag kan fånga dem med lasso.
+Det är ett par åror.
+åror
+Inga bananer här.
+Repet är inte tillräckligt långt att nå botten av kanjonen från trädet.
+Jag försöker med den där grenen.
+träd
+Det är läskigt här, och jag tänker inte gå längre in.
+Vad är det där nere i sprickan?
+dörr
+lucka
+Det finns ingen plats här bak att stoppa i krutet.
+Det där kommer inte att fungera.
+Det finns ingen stubin.
+kanon
+D\130ja vu!
+Det där kommer inte att fungera.
+Jag har ingen som helst önskan att skjuta ut mig till havs.
+Aldrig i livet! Jag kommer att spräcka skallen när jag landar.
+Va? Det hände inget!
+Det är för farligt att klättra dit ut utan någon anledning.
+kanonmunstycke
+Den är fastbunden.
+repstege
+Snacka om lata svin.
+Ursäkta, vad sa du?
+Ingenting.
+Ja du, vad skulle jag inte ge för att kunna hänga dem.
+Jag känner att göra detta skulle inte förbättra situtationen.
+Jag har en känsla att de är inte de enda som är utnyttjade här.
+Jag tror inte våld är lösningen^\255\003Även om jag skulle ha mått bättre utav det.
+Ursäkta, vad sa du?
+Ingenting.
+myterisk besättning
+Det är för långt att gå till, och dessutom, jag kan inte simma.
+WOW! Det där var verkligen värt 599kr inklusive moms.
+Apön\015
+stubin
+Först av allt^
+Skulle jag vilja säga att det är härligt att få jobba med en sån fin besättning.
+Resan framför oss kommer inte att vara enkel.\255\003Det kommer att krävas skicklighet, uthållighet och framför allt^\255\003LAGARBETE.
+Först skulle jag vilja dela ut lite uppgifter.
+Vad var det vi hade blivit lurade till att göra nu igen?
+Jag har gjort en lista.
+Grundlurade, rent utav.
+Jag fattar inte grejen med att rädda Guvernören.\255\003Hon kan uppenbart ta hand om sig själv.
+Som jag ser det^\255\003Så har vi det här ENASTÅENDE skeppet-
+Eller, nja^\255\003Vi har ett skepp, i alla fall.\255\003Vad sägs om att slänga upp fötterna, knyta ett rep om rodret och bara glida en stund?\255\003Jag skulle behövt bättra på lite på min solbränna.
+När jag tänker efter, så har jag faktiskt varit lite stressad på sistone.\255\003Jag skulle behövt få vila lite, ändå.
+Då är det bestämt^\255\003Vi kryssar Karibien.
+Suck.
+Lyssna^
+^Vi har tagit oss till Apön\015^
+Säg till när du hittat Guvernören^\255\003Vi har en extra stol hon kan använda.
+Jag tror inte de kommer vara till mycket hjälp.
+Du hajar.
+Jag tror inte de kommer vara till mycket hjälp.
+Vad var det där?
+Inget.
+Hörni, vad händer?
+Finns det något jag kan göra för att få er att hjälpa mig?
+Jag hörde att vädret är ganska fint borta vid Apön\015.
+Hörni! Jag har hittat en karta till Apön\015.
+Jag kommer att ge er myterister fem sekunder att \254\008  komma till sans!
+Jag tror jag återgår till att sköta skeppet.
+Stick, Kajbrusk.
+Bra försök, Kajbrusk, men nära skjuter ingen apa.
+Sen kommer jag att börja sparka lite röv!
+Ursäkta mig, Kajbrusk^\255\003^Men betyder ordet "kölhalning" något för dig?
+Okej, jag fattar vinken.
+Kölhalning (\128\129lha\132lni\131)\254\001  1: att straffa eller tortera (besättningsman på fartyg)\254\001    genom att med tåg draga honom under kölen
+Okej, jag fattar vinken.
+Äh, ursäkta mig, Kajbrusk^\255\003Du skymmer solen.
+Än sen?
+Ja!\255\003Än sen?
+Heliga apblåsor!\255\003Det är Apön\015!
+ 
+ 
+Bäst jag lämnar den här.
+pappersbit
+De ser ut att vara nära på att ramla av när som helst.
+läckra, saftiga bananer
+Mmm. De där bananerna ser läckra ut!
+träd
+Jag slår vad om att man kan se hela ön härifrån.
+Det där är det där stället med den fina utsikten.
+hög klippa
+Djup.\255\003Mörk.\255\003Förbjuden.
+djungel
+Det var konstigt^\255\003Det står "Sjöapan" på den.
+roddbåt@@@@@@@@@
+Några bananer ramlade av trädet!
+bananer
+Den är gul.
+banan
+Den är gul.
+banan
+Den ser ut som en gigantisk bomullspinne.
+nyckel till Aphuvudet
+Den är gul.
+banan
+PM@@@@@@@@@@@@@@@@
+roddbåt med åror
+roddbåt med åror
+Jag kan ro den med de här årorna.
+Jag har inget att ro med.
+apa
+ooh
+ooh
+ooh
+ah
+ah
+ 
+ 
+Hej!\255\003Jag är Herman Tandröta!
+Nej, bemöda dig inte med att hälsa.\255\003Det gör mig inget, jag har bara väntat tjugo år på att få prata med någon civiliserad.
+Som du vill.
+Förresten, du kanske borde släcka den där elden.\255\003Någon kan skada sig.
+ 
+"NOTIS OM OPINIONSMÖTE"\255\003"Det kommer att hållas möte onsdag kväll för diskussion kring spökpiraten LeChucks belägring av Det Heliga Aphuvudet^"
+"^samt den påföljande inverkan på miljön och turismen."\255\003"Alla kannibaler på Apön\015 uppmanas att närvara."
+ 
+Jag blir aldrig trött på den här utsikten.
+Även om jag HAR tittat på den i över tjugo år nu.\255\003Och även om det är den ENDA utsikten på ön.
+Det här är en gammal vän till vän, den som jag seglade hit med.
+Han har gått ned i vikt.\255\003Han har aldrig sett bättre ut.
+Det där aphuvudet är verkligen något att beskåda, eller hur?
+Den har dock byggt upp läskigt mycket vax.
+Oj, hej!\255\003Jag letade bara efter infödingarna, så jag kan få dem att lämna tillbaka min bananplockare^
+^men jag tycks inte finna dem någonstans.
+Titta på det makalösa skeppet där ute!
+Kom hit du i det?
+Åkte du hit med skeppet jag såg där ute?
+Du är modigare än vad du ser ut.\255\003Det liknar faktiskt ett skepp som jag ägde en gång i tiden^
+ 
+Ja, det ÄR en fin utsikt.
+Jag tycker den inte är något särskilt.
+Vad hände med honom?
+Han ser inte så kry ut^
+Jag såg en apa lämna just. Han måste ha gjort det.
+Öh, ursäkta.
+Jag tänkte knacka, men jag kunde inte hitta en dörr.
+Jag knackadel. Du hörde säkert inte bara.
+Ja, det är väldigt imponerande.
+Vad?
+Jag blev lurad av en kille som heter Sture^
+Vad menar du, "modigare än vad jag ser ut"?
+Lämna mig ifred, okej?
+Öh^\255\003Jag är ledsen men jag måste gå nu.\255\003Brådskande affärer, vet du.
+(Hi, hi)
+Var inte en tölp.
+Det var en hemsk olycka.\255\003Han försökte sätta upp en gunga.
+Den skulle blivit en bra turistattraktion, om någon någonsin kunde hitta ön.
+Det är okej\255\003Var lite mer försiktig nästa gång.
+Sture som i Stures Begagnade Transportmedel?\255\003På Gruffotumultön\015?
+He, he, he, he
+Hörru, knacka inte på den.
+Det är den enda jag har.
+Då borde du ha sett honom medan han fortfarande levde!
+Mig lurar du inte, gosse.
+Ingenting.
+Glöm det.
+Är du skeppsbruten på något vis?
+Ser jag ut som en vaktmästare, eller?
+Den här killen, va:\255\003"Skeppsbruten på något vis?"\255\003Heh.
+ 
+Jag trodde den här ön var obebodd.
+Vem är du?
+Vem pratar du med?
+Jag tror jag borde gå nu.
+Då trodde du fel.
+Jag?
+Tittarna, så klart.
+Öh^ Visst.
+Mitt namn är Tandröta. Herman Tandröta.\255\003Jag bor här.
+Eller, inte PRECIS här.
+Uppe i fortet på vulkanen.
+Blev du strandsatt?
+Tror du att jag stannat här för hälsans skull?
+Jösses Amalia.
+ 
+ 
+Hur blev du skeppsbruten här?
+Så du är inte den enda på ön?
+Är du den enda på ön?
+Lånade du ut något till kannibalerna?
+Jag är Kajbrusk. Jag är här för att rädda någon.
+Sa du att du fick en nyckel från infödingarna?
+Jag har din bananplockare.
+Varför kan du inte bara ge mig nyckeln till Aphuvudet?
+Vad har hänt med dina byxor?
+Ursäkta mig, jag har brådskande affärer att ta hand om.
+Ja, jag också.
+(Hi, hi, hi)
+Ja du, jag seglade hit med en vän för tjugo år sen.\255\003Vi hoppades på att upptäcka Apöns Hemlighet\015.\255\003Men min vän var med om en hemsk och tragisk olycka^\255\003^Som tog hans liv^\255\003^Och jag kunde inte segla skeppet tillbaka själv.
+Jag tränade ett gäng chimpanser att bemanna skeppet och segla det tillbaka till Gruffotumultön\015.\255\003Det var meningen att de skulle hämta hjälp och komma tillbaka efter mig^\255\003^Något måste ha hänt.
+Varför kunde du inte bara ha åkt tillsammans med chimpanserna?
+VECKOR på en båt full med apor.
+Oj, vad skoj.
+ 
+Jag är den enda CIVILISERADE personen på ön.\255\003Det finns en urinvånarstam med jägare/samlare-\255\003-Eller, tja, snarare HUVUDjägare/samlare.
+Men jag pratar inte med dem.\255\003De ÄR kannibaler, men de är inte farliga^\255\003^Såvida du inte lånar ut något åt dem.
+ 
+Ja, här är jag.\255\003Vad kul att du kom för att rädda mig-\255\003-Men du kunde ha kommit lite tidigare.\255\003Förseningsavgiften på den där biblioteksboken borde vara ganska hög vid det här laget.\255\003Kom, så går vi.
+Öh^\255\003Det var inte precis det jag menade.\255\003Jag seglade hit i jakt på Guvernören av Gruffotumultön\015, som har blivit kidnappad av ett spöke.
+Visst, fint, rädda mig INTE då.\255\003Jag trivs här.
+Regnet på mitt huvud, vinden mot min rygg^\255\003^Krypen på min tallrik^
+Öh^\255\003Alltså, jag skulle kanske kunna ta dig med tillbaka också^
+^Men jag måste hitta Guvernören först.
+Jaha, det borde inte vara något problem.
+Jag är säker på att hon är på spökskeppet i det hemliga underjordiska gömstället.
+Är det sant?\255\003Hur vet du det?\255\003Hur tar jag mig dit?
+Enklaste vägen in är genom den stora aphuvudstatyn.
+Jag gick in dit själv för många år sen.\255\003Du kommer behöva en nyckel för att öppna upp den.
+Jag fick en från några av infödingarna.
+^Men jag måste rädda Guvernören först.\255\003Jag tror hon är på det där spökskeppet under ön.
+Jaha, okej.
+ 
+Jag lånade dem min bananplockare och de lämnade aldrig tillbaka den.
+De gav mig den här gigantiska bomullspinnen som säkerhet.
+Du förstår, den öppnar upp Aphuvudet.
+Den öppnar upp det stora aphuvudet de tillber.
+Inte för att jag någonsin behöver gå in i Aphuvudet^\255\003^Men om de vill ha den tillbaka, får de återlämna min plockare först.\255\003Det handlar om stolthet, vet du.
+ 
+Visst berättade jag om hur de lånade min bananplockare och aldrig återlämnade den?
+Vilka byxor?
+Nej, jag behöver den för att få tillbaka min bananplockare.
+ 
+ 
+ 
+Hörru, tackar!\255\003Jag trodde aldrig att jag skulle få se den igen!\255\003Här, ge infödingarna den här nyckeln till Aphuvudet.
+Okej.\255\003Och oroa dig inte, jag kommer inte att använda den eller något.
+Nej, tack, jag har redan en.\255\003Jag önskar bara att jag kunde hitta den, dock.
+Vad tusan ska jag göra med den där?
+Men du, MINTTABLETTER!
+Det här är det jag saknar mest från civilisationen.
+Pengar gör ingen större nytta här.
+Jag har redan läst igenom PM så det räcker för en livstid.
+Nej tack, jag har mina egna. Dock kastade någon ned dem i en avgrund.
+Vad tusan ska jag göra med den där?
+Det är tryckt med brevhuvud!
+"Till Kannibalerna på Apön\015:"\255\003"Vänligen sluta röra den här."\255\003"Den är väldigt fint balanserad."\255\003"- Herman Tandröta"
+"Herr Tandröta:"\255\003"Vänligen ta bort det här farliga föremålet."
+"Citronhuvud råkade putta ned en sten på den från klippan ovanför och nästan skadade en person som höll på att sätta upp en gunga på bananträdet på södra stranden."
+"Citronhuvud råkade putta ned en sten på den från klippan ovanför och nästan sänkte ett förbipasserande skepp."
+"- Kannibalerna"
+"Till spökpiraten LeChuck:"\255\003"Vi måste be er återigen att minska på era nattliga aktiviteter på området vid Heliga Aphuvudet."\255\003"Hederligt folk försöker sova!"
+"Vänligen håll nere ljudnivån."\255\003"- Kannibalerna på Apön\015"\255\003"P.S.:"\255\003"Vi såg dig bära där kvinnan med skarfen dit ned!"
+"Till Kannibalerna på Apön\015:"\255\003"Det gör mig inget att ni tillbedjer framför Heliga Aphuvudet, som agerar både som mitt hem samt hemliga operationsbas^"
+"^Men skulle ni vänligen kunna låta bli att lämna stökiga blodsoffer på min farstubro?"\255\003"LÅT ÄVEN VÄNLIGEN BLI ATT GÅ IN I APHUVUDET."\255\003"- SP. LeChuck"
+"Till spökpiraten LeChuck:"\255\003"Vi måste protestera mot ditt 'förvärvande' av vår voodoo-antirot."\255\003"Vi förstår att den utgör en fara för dig och din besättning, men detta är stöld!"\255\003"- Kannibalerna på Apön\015"
+"Herman-"\255\003"Vänligen återlämna vår nyckel till Aphuvudet."\255\003"- Kannibalerna"
+"Kannibaler-"\255\003"Jag tänker inte ge er blodsugare tillbaka nyckeln till Aphuvudet förrän ni har återlämnat min bananplockare."\255\003"- H.T."
+"Till Herman Tandröta"\255\003"Från advokatfirma Humma, Harkel och Host"\255\003"Ang. Stämningsansökan mot kannibalstam p.g.a. uppsåtligt kast av åror ned i en avgrund."
+"Jag tror vi har ett solklart fall här."\255\003"Vi kan förmodligen mjölka dem för känslomässigt lidande och möjligen även skadestånd."
+ 
+PM
+ett par PM
+flera PM
+ett gäng PM
+en hög av PM
+jättemånga PM
+för många PM
+flinta
+anmärkningsvärd sten
+Hej!
+Jag tror jag börjar bli galen.\255\003Jag måste skynda mig att rädda Guvernören och lämna den här ön!
+Jag är här för att rädda Guvernören av Gruffotumultön\015.
+Jag är en mäktig pirat.
+Sett några stora, fula, läskiga, genomskinliga pirater i krokarna?
+Finns det något gott att äta på den här ön?
+Ta mig till er ledare.
+Är det alltid så här varmt här?
+djungel
+djungel
+Jag tror inte att han är intresserad.
+Inte förrän han kommer ned.
+Han ser väldigt hungrig ut.
+Han ser fortfarande lite hungrig ut.
+Han ser glad ut.
+Guvernör Elaine Marley.
+Så, du säger att jag gav dig statyn, va?
+Så, du skulle bara låna den, va?
+Så, du tycker att min staty hör hemma i ett museum, va?
+Så, piratledarna tvingade dig att stjäla den, va?
+Så du och min staty tänkte alltså gå ut och ta nypa frisk luft?
+Öh^
+Jo^
+Alltså^
+Kors^
+Lugn, herr Drevskog.\255\003Jag vet varför du är här.
+Tro mig, du är inte den första som försökt.\255\003Men jag måste erkänna att inte många har kommit så långt som du gjort.
+Äh^
+Hm^
+Jovars^
+Såatteh^
+Min utkiksman berättade om din ankomst.\255\003Jag har velat träffa dig ända sedan jag hörde ditt fascinerande namn.
+Säg mig, Kajbrusk, varför vill du bli pirat?\255\003Du ser inte ut som en.
+Ditt ansikte är för^
+Fint.
+Blfft^
+Grlpyt^
+Hrdrl^
+Rldft^
+Du verkar inte vara så sugen på kallprat, förstår jag.
+Jag antar att du har många fler spännande saker att göra.\255\003Jag ska inte uppta någon mer av din tid, herr Drevskog.
+Bgglw!
+Mfrnkf?
+Dmnkly^
+Suck.
+ 
+Jag önskar verkligen att jag visste hur man talar med kvinnor.
+Den är låst på ett primitivt, men ändock effektivt sätt.
+Jag tror jag kan gå in dit nu.
+dörr
+Hmmm. Några fina, saftiga bananer!
+bananer
+De ser lite övermogna ut, förutom de där fina, saftiga bananerna!
+Ingenting kvar förutom dålig frukt.
+Allt jag vill ha är de här fina bananerna. Alla de andra frukterna ser ut att ha passerat sitt bäst-före-datum.
+Nej tack, resten är dåliga.
+fruktskål
+Jag tror de väntar på att jag ska ge dem något.
+kannibaler
+Jag tror de har en seriös diskussion.
+vänliga infödingar
+Jag tror inte att han skulle fungera så bra om jag gjorde det.
+Jag börjar hellre bråka med någon i min egen storlek.
+Jag tror den vill att jag ska gå åt vänster.
+Jag tror den vill att jag ska gå åt höger.
+Jag tror den vill att jag ska gå fram.
+Jag tror den vill att jag ska gå bak.
+Jag tror den är lite förvirrad.
+navigatörens huvud
+Jag tror inte den skulle fungera så bra om jag gjorde det.
+Jag vill helst inte röra den mer än nödvändigt.
+Den är slemmig och kletig och hänger runt min nacke.
+Den är slemmig och kletig.
+halsband på navigatör
+Det vore inte sådan bra idé att ta av den här.
+Han har redan på sig den.
+Jag tror jag behåller den istället.
+Det vore inte sådan bra idé att ta av den här.
+halsband på navigatör
+Du får den inte.\255\003Den är min.
+Jag behöver den inte här-\255\003Det finns inga spöken här omkring.
+Jag kan inte ta på mig den nu, jag har huvudet utstickandes.
+halsband på navigatör
+Han babblar för sig själv.
+Smutsig och utan byxor, som vanligt.
+Det vore inte så smart.
+Herman Tandröta
+Varför? Den är tom.
+hydda
+Varför? Den är tom.
+hydda
+Varför? Den är tom.
+hydda
+Varför? Den är tom.
+hydda
+Varför? Den är tom.
+hydda
+Jag kan inte se in härifrån.
+Men jag slår vad om att den är tom.
+hydda
+Den ser stor och tom ut.
+Den är redan öppen.
+Jag vill inte gå närmare den där saken.\255\003Den kanske har en fälla gillrad.
+ 
+stort stenhuvud
+djungel
+Den är gul.
+banan
+Den är gul.
+banan
+inföding
+inföding
+inföding
+Är det där en banan du har i fickan, eller är du bara glad att se oss?
+Du har då mage som vågar stjäla från de ökända Kannibalerna av Apön\015!
+Är ni kannibaler?!
+Givetvis.\255\003Men på sistone har vi försökt undvika rött kött.
+Bara av hälsoskäl.\255\003Vi är fortfarande lika våldsamma som vanligt.
+Speciellt med turister som försöker sno våra prylar som souvenirer.
+Nå, har du något att säga till ditt försvar?
+Ah, banantjuven har återvänt till brottsplatsen.
+Kanske borde vi bara äta upp honom direkt.
+Har du någon aning om hur mycket kolesterol det är i en sån här sak?
+Nu så, hur lyckades du bryta dig ut ur vår hydda och varför kom du tillbaka?
+Jaså, det var det värsta.\255\003Du är lite av en utbrytarkung, va?
+Jag sa ju att vi borde äta honom.
+Hur du tar dig ut är nästan lika stort av ett mysterium som varför du fortsätter att komma tillbaka.
+Det stora mysteriet är varför han inte sjuder tillsammans med morötter just nu.
+Jag vet inte om det här börjar bli tröttsamt för dig, men det är det definitivt för mig.
+Vad nu?
+ 
+Ät inte upp mig! Jag är en mäktig pirat!
+Ät inte upp mig! Jag ger er vad som helst!
+Jamen, ät upp mig då. Tror ni jag bryr mig?
+Titta bakom er! En trehövdad apa!
+Det betyder att hans skinn kommer vara läderartat och hans kött trådigt och svårtuggat.
+Du är inte till någon nytta för oss, sett till näringsvärde, men^
+Ja, ja. Vi vet.
+Vad som helst?\255\003Hmmm^
+Okej^
+Om du säger så!
+Ha!\255\003Vi kommer inte att gå på det där knepet IGEN.
+Hörru!
+Tror du verkligen att vi är så dumma?
+Jag skulle inte utmana ödet om jag vore du.
+Jag antar att vi äter upp dig nu.\255\003Såvida inte^
+Om du hade någon slags offergåva till oss^\255\003Något som vi kan vidarebefordra till den Stora Apan^
+ 
+Då ger vi dig en sista chans att byta något mot din frihet.
+ 
+Nå?
+Ah, nyckeln till det Stora Aphuvudet.\255\003Tack så mycket.
+Du kan få behålla den där ett tag.
+Ah, en av de där nymodiga magnetiska kompassen.
+Lite för högteknologiskt.
+Ja, hellre ett hederligt, gammaldags kroppslöst huvud.
+ 
+Vi kan inte ta emot den där, du har redan gett oss så mycket.
+Vi uppskattar de naturliga fibrerna, men nej tack.
+En gummikyckling med en remskiva i mitten?\255\003Nej tack, vi har redan en sådan.
+Ledsen, men vi har redan MASSOR av sådana.
+Ha!\255\003Dina valutor betyder ingenting för Den Stora Apan!
+Tror du verkligen att vi vill ha den där efter att du kladdat på den med dina smutsiga labbar?
+Tack, men vi har redan vår egen.
+Jag tror inte Det Stora Aphuvudet vill ha den där.
+Vi har redan en sådan.
+Usch. Nej, tack.
+Vad skulle Den Stora Apan göra med den DÄR?
+Kom igen, du kan bättre än så.
+Har du något av mer spirituellt värde?
+Det där är knappast en artefakt värdig Den Stora Apan.
+Uppenbarligen har du ingenting åt oss.
+Oj, wow!
+Det här är imponerande!
+CITRONHUVUD!
+Kom och kika på den här.
+Oooh, den var fin.
+Och det står "Gjord av Citronhuvud" på den^\255\003^Precis som en av mina!\255\003Vi borde ta den här till Den Stora Apan.
+Ja, jag instämmer.
+Vi är väldigt tacksamma för denna fina gåva.
+Om det någonsin finns något du behöver på Apön\015, kom och hälsa på oss.
+ 
+Du går ingenstans förrän du gett oss något.
+Jepp. Fortfarande tom.
+Det är en tom hydda.
+Den här hyddan är VÄLDIGT tom.
+Jösses, det här är den mest tomma hydda jag någonsin sett.
+Det råder inga tvivel - den här hyddan är tom.
+Jag slår vad om att, om jag slår upp ordet "tom" i ordboken, skulle det finnas en bild på den här hyddan!
+Har du återvänt för att låta oss återgälda dig för din fina gåva?
+Jo, faktiskt, det finns något^
+Nej, tack. Generositet är sin egna belöning. Hejdå.
+Om det någonsin finns något du behöver från oss, säg bara till.
+Tack.
+Vilken kille!
+Berätta, vad är det?
+Jag letar efter någon.
+Jag behöver ett skepp.
+Kan ni segla ett skepp?
+Pengar. Jag vill ha pengar.
+Å andra sidan, ni har redan gjort tillräckligt^
+Hur kom du hit om du inte har ett skepp?
+Ja, du^ Det var en stor sten som föll från himlen^
+Du behöver inte fortsätta, jag förstår.\255\003Ledsen, men vi har inget skepp.
+ 
+Nej, vi håller oss borta från havsresor.\255\003Det är helt enkelt för svårt att få i sig den mängd Vitamin-C som krävs när man är på ett skepp under en utdragen period.
+ 
+Det där är inte precis det vi hade i åtanke.
+ 
+Finns det något ANNAT vi kan göra för dig?
+Här?\255\003På Apön\015?
+Vi är de enda människorna på Apön\015.
+Eller i alla fall de enda civiliserade människorna.
+ 
+Det är okej. Människorna jag letar efter lever inte.
+Det är okej. Människorna jag letar efter är inte civiliserade.
+Hoppsan. Jag antar att jag har kommit till fel ö. Om ni ursäktar mig^
+Jag letar efter 30 döda killar och en kvinna.
+Jag tror inte jag vill höra något mer.
+Vänta lite, han kanske pratar om de döda piraterna.
+Just ja, DE killarna.
+Så då har ni sett spökpiraten LeChuck och hans kadaverbesättning?
+De där tölparna har besvärat oss i månader!
+Sveper in här i deras läskiga spökskepp^\255\003^Jämrar och tjuter ända in till morgonkvisten^
+^Och skrämmer iväg alla charterkryssningar.
+Vanligtvis när vi har problem med de odöda,\255\003brukar vi helt enkelt koka ihop vår vanliga exorcismbrygd och så var det med det.
+ 
+Varför gör ni inte det nu då, för?
+Vad innehåller er vanliga exorcismbrygd?
+Ge mig brygden! Jag kan använda den på LeChuck!
+Var gömmer sig LeChuck och hans män?
+Det kan vi inte.
+Varför inte?
+Därför att huvudingrediensen i brygden är en väldigt sällsynt rot^\255\003^Den enda existerande, faktiskt.
+Du förstår, vi använder bara liten bit åt gången.
+Men LeChuck stal hela roten!
+ 
+Var gömmer han den?
+Hur kommer jag till dessa katakomber?
+Vad innehåller er vanliga exorcismbrygd?
+LeChuck kom hit och stal er rot? Vilken rackare!
+Jag åker och letar efter LeChuck och hämta igen roten!
+Ja du, tror du det är bättre att stjäla bananer?
+Den Stora Apan själv är ingången till underjordens katakomber.
+Han är på ett ställa under denna ö^\255\003^Någonstans i ett stort nätverk av katakomber^
+En helvetisk plats fylld med klagan av de torterade själar som nu är för evigt fast i stenarna^\255\003Där väggarna blöder och luften är tjock av den härskna stanken av ren ondska.
+Turisterna brukade köa i timmar för att se det.
+Vad hände? Stängde Hälsoskyddsmyndigheten ned stället?
+Kan ni inte bara gå ned dit och sparka ut honom?
+Men sen kom LeChuck och förstörde allt, eller hur?
+Låter fränt. Kan jag få se det?
+Nej, vi förlorade nyckeln.
+Den blev stulen!
+Tja, vi lånade faktiskt ut den till en eremit som bor på ön.
+Och tills dess att den där gamla vresiga, byxlösa knäppskallen har lämnat tillbaka den, tänker vi behålla hans bananplockare.
+Ledsen, men det är inte bara så lätt.\255\003Att försöka hitta LeChuck kan vara väldigt farligt.
+Du kommer aldrig att hitta runt i katakomberna utan-
+Hörru!\255\003PoProratota inontote omom NoNavovigogatotörorenonsos HoHuvovudod!
+Vad för något?
+Ingenting.
+ 
+Ingenting.
+ 
+Vad är NoNavovigogatotörorenonsos HoHuvovudod?
+Varför talar ni med rövarspråket?
+HoHaror noni enon kokarortota övoveror kokatotakokomomboberornona?
+Åh, kom igen. Berätta. Jag gav er ju statyn.
+ToTyvovärorror.
+Det är en väldigt fin staty.
+Det verkar som att han blir förvirrad av vår inhemska dialekt.\255\003Bra.
+Vi kan åtminstone berätta för honom vad huvudet gör för något.
+Tja, det är ett navigationsverktyg-
+Det är ett huvud.\255\003Det tillhörde en gång en navigatör.
+Vi har hållit det vid liv med hjälp av magi så att vi kan nyttja dess naturliga känsla för navigering.
+Att ta sig genom katakomberna utan det är omöjligt.
+Men det är vårt enda navigationshuvud, och du får det inte.
+Jag antar att vi inte har något att erbjuda dig.
+Och du som gav oss den där fina statyn, till råga på allt^
+Du är välkommen att komma till Stora Apan och hälsa på din staty när som helst.
+ 
+Förresten, Citronhuvud, vad var det du sa om tropiska oljor?
+Jo^
+ 
+Harkel.
+Ursäkta oss, men vi är mitt i en viktig diskussion.
+Jag vet, men jag behöver verkligen den där navigatörs-huvud-saken.
+Som jag sa tidigare, vi har bara ett.\255\003Vi vet inte hur man får tag på ett annat.
+Ledsen.
+Som jag sa tidigare, du kan inte få vårt huvud.\255\003Vi vet inte hur man får tag på ett annat.
+ 
+Herman Tandröta
+Allt jag vill är att få tillbaka min bananplockare.
+Men kommer de ge den till mig?
+De vill ha Aphuvudets nyckel tillbaka FÖRST.
+DET kan de fetglömma!
+Tycker du inte att de är oresonliga?
+Det är inte precis som om jag ber om mycket.
+^Och nej, jag är inte kinkig.\255\003Jag skulle ÄLSKA att äta killen!
+Jamen, då gör vi det!
+Men tänk på artärerna!
+Vi är KANNIBALER, för guds skull!
+Ja, men kannibaler måste hålla koll på mättat fett precis som alla andra.
+Om jag behöver äta någon mer frukt så kommer mitt huvud förvandlas till en enda stor citrusfrukt!
+Inget illa menat, Citronhuvud.
+Hörni, titta på det här.
+Det ser ut som instruktioner på hur man får tag på ett huvud!
+Vi skulle kunna ge honom vårt huvud och använda de här instruktionerna för att få tag på ett nytt!
+Ja, jag antar att vi kan ge dig den här nu.
+Tackar.
+Visst ser det ganska bra ut för att vara ett gammalt, torkat huvud, va?
+ 
+Vi har svept in det i det här magiska halsbandet som gör det osynligt för spöken.
+Åh, titta.
+Jag tror han gillar dig.
+Följ bara hans näsa, han kommer att leda dig till LeChucks gömställe i katakomberna.\255\003Hämta tillbaka roten från LeChuck och återvänd hit^
+^Så blandar vi ihop en sats av vår speciella, enzymatiska spökupplösar-blandning.
+Så kan du hälla den över LeChuck som salt på en snigel!
+Ja!
+Lycka till.
+Vänta!
+Vad?
+Jag vet inte ens var ingången till katakomberna är!
+Just ja, det är det stora aphuvudet på östra sidan.\255\003Omöjligt att missa.\255\003Ha så!
+ 
+Vi kanske äter upp dig, eller så kanske vi låter dig gå.\255\003Vi behöver konsultera byns dietist först.
+Kom, låt mig få visa dig vår gästhydda.
+Det DÄR borde duga.
+Jag klarade det!\255\003Jag har roten!
+Wow!
+Kolla, han skojar inte!\255\003Här är den!
+Han är ingen liten fjant, trots allt!
+Kom så brygger vi trolldrycken med den här fermenterade roten.
+Vänta här. Vi kommer strax tillbaka.
+Fin apa.
+Jag har roten.
+Jag är ingen liten fjant, trots allt.
+Jag vill jättegärna stoppa upp dig.\254\001   Jag skulle tjäna en förmögenhet.
+Här är den.
+En skvätt av det där så kommer det verkligen att skita sig för de där ektoplasmapiraterna.
+Och om det blir något över, är det utsökt tillsammans med lite vaniljglass.
+Lycka till.
+Tack så mycket.
+ 
+magisk seltzerflaska
+Jag kan inte fläka ut den här inne.
+halsband på navigatör
+Bäst att jag sätter tillbaka halsbandet på samma sätt som infödingarna hade det först.
+Hmmm^
+Jag tror inte den kan känna av något.
+Näpp. Inget.
+Hej, Herr Navigatör.
+Hej.
+Du ska väl inte bråka om mitt halsband igen?
+Okej, vi är här.\255\003Vad vill du nu ha av mig?
+Ja?
+Hej, huvud.
+Kan jag snälla få det där halsbandet?
+Tack för att du ledde mig till spökskeppet.
+Tack igen för att du ledde mig till spökskeppet.
+Det har varit trevligt. Jag lägger undan dig nu.
+Hej.
+Finns det något jag kan göra för dig?
+Inga problem, du.\255\003När man bara har ett enda jobb^\255\003Så gör man det ordentligt. Hajar du?
+Jag har en känsla att du är på väg att be mig om en tjänst.
+Var?
+Bry dig inte om det, du.
+Ja, jag förstår.
+Nej, men tack för att du bad så hövligt.
+Varför kan jag inte få det?
+Åh, kom igen. Snääääälla?
+Snälla, rara?
+Snälla, SNÄLLA, rara?
+Snälla, söta rara?
+Jag kanske bara tar det^
+Jag vill inte behöva göra dig illa^
+Vad ska du göra? Bitas?
+Och jag skulle kunna dropkicka dig i lavan.
+Som du vill. Jag ville ändå inte ha den.
+Bra, för du får det inte.
+Jag får dåliga vibbar av det här stället.\255\003Jag tror att jag kan behöva det.
+Lyssna, sluta gnälla, okej?
+Du kan tigga så mycket du vill, du får det ändå inte.
+Okej då, gnällspik.\255\003Du får väl det, då.
+Du kanske borde låta bli.
+Och jag vill inte behöva få dig att ångra det.
+Kom ihåg, du behöver mig för att ta dig ut ur det här stället.\255\003Om jag ville, skulle jag kunna få dig strandsatt här för alltid.
+Å andra sidan^
+Jag menar, vad är ett halsband bra för om man inte har en hals?
+halsband på Kajbrusk
+Jag har en känsla att den här bara fungerar under mark.
+Det här känns skumt.
+Efter lite mer våldsamt paddlande^
+ 
+Jag tror att det kommer hända samma sak för mig om jag inte tar mig härifrån snart.
+Och tänk att jag höll på att sluta upp på samma vis.
+Nej, tack. Det finns fortfarande lite kött på dem.
+skål med ben
+dörr
+Jag tror inte att lösningen är att hänga mig själv.
+ranka
+Jag kan se under hyddan!
+Verkar vara lös.
+hål
+Det är redan öppet.
+Va?
+lös bräda
+Jag tror jag kan använda dörren nu.
+lös bräda
+Vilken söt liten dödskalle.
+Inget hände.
+dödskalle
+Jag tror inte att lösningen är att hänga mig själv.
+ranka
+Jag tror inte att lösningen är att hänga mig själv.
+rankor
+Jag kan inte ta mig igenom det.
+Den verkar inte gå att öppna.
+Den är redan stängd.
+fönster
+Jag tror inte att jag behöver fler bananer.
+Jag tror inte att jag behöver fler bananer.
+Den där bananen är redan plockad.
+Det finns inga bananer att plocka här.
+Det står "Om upphittad, vänligen återlämna till Herman Tandröta." på den.
+bananplockare
+PM
+hål
+Jag kanske ryms genom hålet, men jag tror inte att den här bananplockaren gör det.
+dörr
+dörr
+draperi
+Mysigt.
+För vad?
+Jag tror jag kastar i allt.
+Jag skulle kunna tillaga det, men jag skulle aldrig få ut det igen.
+Jag vill inte bränna det där.
+öppen spis
+Jag tror inte den håller mycket längre.
+Den ser ut som en fin tennsejdel.
+mugg@@@@@@@@@@@@@@
+Jag tror inte den håller mycket längre.
+Den ser ut som en fin tennsejdel.
+mugg@@@@@@@@@@@@@@
+Jag tror inte den håller mycket längre.
+Den ser ut som en fin tennsejdel.
+mugg@@@@@@@@@@@@@@
+Jag tror inte den håller mycket längre.
+Den ser ut som en fin tennsejdel.
+mugg@@@@@@@@@@@@@
+Jag tror inte den håller mycket längre.
+Den ser ut som en fin tennsejdel.
+mugg@@@@@@@@@@@@@@
+Varför skulle vi ta DET DÄR?
+pirater som ser viktiga ut
+Jag vill inte komma emellan en pirat och hans grogg.
+pirat
+Jag tror inte det är smart att väcka en sovande pirat.
+pirat
+Grrrrrr.
+Jag tror han är nöjd med sitt ben.
+hund
+Jag vill inte störa dem.\255\003De är upptagna med att lyssna på killen till vänster.
+De är upptagna med att lyssna på killen till vänster.
+pirater
+Nej tack, jag står inte ut med försäljare.
+pirat
+Han ser väldigt skakis ut^\255\003bäst att lämna honom i fred.
+pirat
+Jag tror de är upptagna.
+pirat
+Jag tror inte det är smart att väcka en sovande pirat.
+pirat
+kock
+kock
+pirater som ser viktiga ut
+Hörru!\255\003Du får inte vara här bak!
+Hörru!\255\003Gå inte in i köket!
+Jag antar att du hört talats om de tre piratprövningarna^
+Ja, ja, vi har sett den där.
+Nämen, om det inte är pojken som vill bli pirat.\255\003Hur går det i dina sökanden?
+Hur går det för dig, svärdsman?
+Hur går det för dig, tjuv?
+Hur går det för dig, guldgrävare?
+Välkommen, unga vän.
+Har du besegrat Svärdmästaren ännu?
+Har du stulit statyn ännu?
+Har du hittat skatten ännu?
+Du måste hört talats om de tre piratprövningarna^
+Vad vill du, pojk?
+Jag menar att döda er alla!
+Jag vill bli pirat.
+Jag vill bli brandman.
+Än sen då?
+Varför besvära oss?
+Hörni, glöm inte att vi har lite om personal på grund av hela den här LeChuck-grejen.
+Än sen?
+Så, inga pirater betyder inget bylte. Inga bylten betyder ingen grogg, och vi börjar få farligt ont om grogg^
+Hmm^
+Har du några speciella egenskaper?
+Jag kan hålla andan i tio minuter!
+Ja, du^\255\003Kör till, men du blir inte pirat bara för att du BER om det.
+Du måste genomgå^
+De tre prövningarna!\254\001\255\002
+      De tre prövningarna!\254\001\255\002
+   De tre prövningarna!
+ 
+Öh^\255\003Vad är det för tre prövningar?
+Det finns tre prövningar varje pirat måste genomgå.
+Du måste bemästra svärdet^
+^och tjuveriets konstform^
+^samt uppdraget.
+Vilken, vadå?
+Skattjakt, din sjöborre!
+Precis.\255\003Du måste uppvisa duglighet inom följande tre områden:
+Svärdstrid, stöld, och, öh, skattjakteri;\255\003Därefter återvända hit med bevis att du klarat av dem.
+Och sen måste du dricka grogg med oss!
+GROGG!         \255\002
+GROGG!      \255\002
+GROGG!
+ 
+ 
+Försvinn grabben, du stör oss.
+ 
+Berätta mer om att bemästra svärdet.
+Berätta igen om att bemästra svärdet.
+Jag är den dödligaste odågan som någonsin svingat ett svärd!
+Berätta mer om att bemästra stöldens ädla konst.
+Berätta igen om att snatta statyn.
+Jag är den lömskaste fotdynan bland dessa öar!
+Berätta igen om skattjakt.
+Berätta igen om den Försvunna Skatten.
+Jag hittade er 'legendariska Försvaunna Skatt'.
+Ni är bara ett gäng illaluktande, grogghinkande grisar!
+Vad är det i den där groggblaskan, förresten?
+Jag måste kila nu.
+Först, skaffa dig ett svärd.
+Du måste söka upp och besegra Svärdmästaren.
+Någon i stan kan säkert leda dig.
+Åh!\255\003Och du vill förmodligen hitta någon som tränar dig först.
+Ha, ha.\255\003Kan ni tänka er att ta sig an Svärdmästaren utan någon träning?
+Har Har Har\255\002
+    Har Har Har\255\002
+    Har Har Har
+ 
+Och träna dig först.
+Vi vill att du hämtar en liten sak åt oss^
+Guden med Många Händer^
+^i Guvernörens herrgård!
+Guvernören håller Guden med Många Händer inlåst i ett vitrinskåp i herrgården utanför stan.
+Du måste ta dig förbi vakterna, naturligtvis.
+Den svåra biten blir att ta sig förbi hundarna utanför.
+De är av en särskild ilsken ras^\255\003Du kanske kan försöka droga ned dem eller något.
+Legenden lyder att det finns en skatt nedgrävd här på ön^
+Allt du behöver göra är att finna den Legendariska Försvunna Skatten av Gruffotumultön\015 och kom tillbaka med den hit.
+Borde jag ha en karta eller något?
+Du kan ju knappast förvänta dig hitta en skatt utan en skattkarta!
+^och glöm inte:\255\003X visar var skatten är gömd!
+Har Har Har\255\002
+    Har Har Har\255\002
+    Har Har Har
+ 
+Jaså, du har redan lyckats besegra Svärdmästaren? \255\003Du var då en stark kurre!\255\003Du kan behålla den snygga t-shirten. Vi har tillräckligt av dem.
+Ah, Guden med Många Händer!\255\003Du är en modig gosse!\255\003Och tackar som stal den åt oss.
+Upptäckt Den Försvunna Skatten, va?\255\003Du är en smart pojke!\255\003Du kan behålla den stiliga t-shirten. Vi har massor.
+För att vara pirat måste du också vara en illaluktande, grogghinkande gris.
+Grogg är en hemlig blandning som innehåller en eller fler av följande:
+fotogen
+propylenglykol
+artificiella sötningsmedel
+svavelsyra
+rom
+aceton
+amarant
+scumm
+axelfett
+batterisyra
+och/eller pepperoni\255\003Som du förmodligen förstår, det är en av världens mest frätande och mest instabila substanserna som finns.
+Den här sörjan fräter rakt genom dessa muggar, kocken förlorar en förmögenhet genom att ständigt ersätta dem.
+Har Har Har\255\002
+    Har Har Har\255\002
+    Har Har Har
+ 
+Lämna oss till vårt groggande.
+Kom tillbaka senare och berätta hur det går för dig.
+Waroof! Voff.
+Baroof, ruff?
+*sniff* *sniff*
+Arf-farf^\255\003^Voff?
+A-oooooooo!
+Grrrrrrrrr.
+Grrrrr.
+Voff.
+Arf.
+Ruff.
+Grrrrrr.
+VOFF?\255\003Aruff roof!
+Voff ARF!\255\003^Arf?
+Ruff, a-roof arf!
+GRRRRRRRRRR!
+Voff-voff arf voff^\255\003^Warroof, Gruffotumultön\015!\255\003^A-roof wuf:\255\003^LeChuck!\255\003Grrrrrrr!
+ 
+Worf.
+A-ROOF!
+Wuf, 'LeChuck?'
+Bjäbb! Bjäbb! Bjäbb!
+Worf, worf.
+A-roof?\255\003Ruff.
+Grrrrrrrr!
+Worf woof woof ruff-ruff^\255\003Wor-roof wuf?\255\003Ruff arf-arf, bow-ruff^\255\003^Guvernör Marley!
+A-OOOOOOO! A-OOOOOOO!\255\003(ruff ruff ruff)\255\003Bow-roo wuf rowwf-\255\003-Arrooof-
+-LeChuck!\255\003GRRRRRRRRR!\255\003Arf, oof-oof, Apön\015!\255\003*sniff* *sniff*
+ 
+Hur är det fatt, ditt gamla fyllo?
+Var är alla piraterna?
+Ge mig en drink!
+Va? Åh, alla är och plundrar Guvernörens herrgård.
+Hur kan du tänka på sprit under en tid som denna?
+Guvernören är borta!
+LeChuck och hans spökgäng kom och tog henne!\255\003De tog med henne på spökskeppet och borttrollade henne!
+Hon var så snäll mot mig^\255\003^Lyckades alltid passande nog förlägga miljö- och hälsoskyddsrapporterna^\255\003^I utbyte mot en liten summa, självfallet.
+Hur ska det gå för mina affärer?\255\001Åh, arma mig.
+Vad kan jag göra för att rädda henne?
+Du måste skaffa dig ett skepp och bege dig efter henne!\255\003Spökskeppets tillhåll ligger på Apön\015, det vet väl alla.\255\003(Fråga mig inte hur^)
+Allt du behöver göra är att hitta ett sätt att ta dig dit.
+Varför skulle jag göra det?
+Var kan jag få tag på ett skepp?
+Vill du följa med mig?
+Då så, då ger jag mig av!
+Ge mig en drink!
+Men, min pojk, för kärleken så klart!\255\003Försök inte förneka det, det står skrivet över hela ditt ansikte.
+KÄRLEK
+Hos Smilande Stures Begagnade Skeppsvarv, så klart.\255\001Där alla får tag på sina båtar.\255\003Hälsa att jag skickade dig, vi är gamla bekanta.
+Öh^ Ack, jag kan inte bege mig till sjöss.
+En gammal krigsskada.
+Du förstår säkert.
+Lycka till!
+Kom ihåg att ta på dig vantar.\255\003Och galoscherna.
+Och glöm inte att skriva.\255\003Adjö, då.
+Den du redan har duger alldeles utmärkt.
+Gör din egen drink.
+dörr
+Stackars kycklingar^
+Bäst att låta bli. Man har nog sparat dem inför en hednisk ritual, vore synd om den blev förstörd.
+Nej, tack. Jag vill helst inte ta i något av dessa kusliga voodoogrejer.
+kycklingar
+Hmmm^\255\003En gummikyckling med en remskiva i mitten^\255\003Vad kan den möjligen användas till?
+gummikyckling
+ 
+Ingen märker säkert att den här lilla saken saknas.^
+Det finns säkert något slags användningsområde för en gummikyckling med en remskiva i mitten. Detta är inte en av dem.
+kyckling@@@@@@@@
+Stackars lilla sak^\255\003Vad än det nu var för något.
+Nej, tack. Jag vill helst inte ta i någon av dessa kusliga voodoogrejer.
+ben
+Det HÄR är en snickares kalk.
+Nej, tack. Jag vill helst inte ta i någon av dessa kusliga voodoogrejer.
+kalk
+Det ligger säkert ett lik där i.
+Nej, tack. Jag vill helst inte ta i någon av dessa kusliga voodoogrejer.
+koffert
+voodookärlekskulor
+spågumma
+Ser bekväm ut, på något spökligt vis.
+Nej, tack. Jag kan aldrig somna på konstiga ställen.
+Nej, tack. Jag vill helst inte ta i någon av dessa kusliga voodoogrejer.
+soffa
+Få se, det finns en burk med fladdermusflottyr^\255\003^En låda som det står "Blandade Fjäll" på^\255\003^En ströare full av apspån^\255\003^Och några kattknogar.
+Kattknogar?!\255\003Så barbariskt!
+ 
+Nej, tack. Jag vill helst inte ta i någon av dessa kusliga voodoogrejer.
+voodookrimskrams
+Hmmm^ Jag tycker jag hör ett väsande ljud där inne.
+Nej, tack. Något skulle säkert hoppa ut och bita mig.
+Nej, tack. Jag vill helst inte ta i någon av dessa kusliga voodoogrejer.
+korg
+Jag kan inte. Jag är rädd för den.
+kitteln av rädsla
+Kors, jag undrar vad som finns i dessa korgar.
+Å andra sidan, jag är inte SÅ nyfiken att ta reda på vad som finns inuti.\255\003Förmodligen giftormar.
+ 
+Nej, tack. Jag vill helst inte ta i någon av dessa kusliga voodoogrejer.
+korgar
+Nej, tack. Jag vill helst inte ta i någon av dessa kusliga voodoogrejer.
+staty
+Kors, jag undrar vad som finns i dessa korgar.
+Å andra sidan, jag är inte SÅ nyfiken att ta reda på vad som finns inuti.\255\003Förmodligen giftormar.
+ 
+Nej, tack. Jag vill helst inte ta i någon av dessa kusliga voodoogrejer.
+korgar
+Stackars kycklingar^
+Nej, tack. Har du aldrig hört talats om salmonella?
+kycklingar
+Vad kan jag hjälpa dig med, barn?
+Ja?
+Mitt namn är Kajbrusk Drevskog och jag är en mäktig pirat.
+Hur mycket kostar den här schysta kycklingen?
+Kan du spå i händer? Kommer jag bli rik?
+Jag har ångrat mig om att inte få reda på om min framtid^ ut med det.
+Färd? Vad kan du berätta om min färd?
+Schyst ställe du har här. Dags för mig att dra.
+Vänta^\255\003^Säg ingenting.\255\003Jag kan känna att ditt namn är^\255\003^Är^\255\003^Kajbrusk^\255\003^Kajbrusk Näshår.\255\003Nej^
+^Drevskog.\255\003Kajbrusk Drevskog.\255\003Eller hur?
+Wow! Det där var otroligt. Kan du några andra trick?
+Tursam gissning.
+Jag sysslar inte med trick.\255\003Det jag vet är sanningen.
+Hälften av alla personer jag känner heter faktiskt Kajbrusk.
+Jag föreslår att du öppnar ditt sinne. Det kommer att vara behjälpligt på din kommande färd.
+Ahhh^\255\003Jag känner dina skuldkänslor gror från att ha stulit min kyckling.
+Ta den.\255\003Den är din.
+Varför vill inte du ha den, då?\255\003Är den förhäxad av någon slags uråldrig voodooförbannelse, eller?
+Nej^\255\003^Remskivan gnisslar.
+Så^\255\003Mina tankeläsande färdigheter säger mig att det är din framtid du är intresserad av.\255\003Är du säker på att detta är något du önskar veta?
+Ja! Berätta allt som kommer att hända mig!
+Nej! Säg inget. Livet bör förbli oväntat och spännande.
+Skyll dig själv.
+Jag känner att du är less.\255\003Var snäll och gå.
+Du har ångrat dig, ser jag.
+Färd? Vad kan du berätta om min färd?
+Jag trodde att du inte ville veta din framtid?
+Ångrat dig?
+Jag får en uppenbarelse^
+^Jag ser dig åka på en resa, en lång resa.
+Jag ser dig som en kapten på ett fartyg.
+Häftigt!
+Jag ser^
+Vad?\255\003Ser vad?
+Jag ser en jätteapa.
+Jisses!
+Jag ser dig inuti jätteapan.
+Äckligt.
+Vänta^
+Det blir allt tydligare.
+Din resa kommer bestå av många delar.\255\003Du kommer se saker som hellre lämnas osedda.\255\003Du kommer höra saker som hellre lämnas ohörda.
+Du kommer lära dig saker som hellre lämnas olärda.
+Vad för saker?\255\003Jag hatar överraskningar.
+NEJ!\255\003Tiden är inte inne för dig att veta än.
+När du lärt dig ditt ändamål, återvänd hit^\255\003^Då berättar jag allt.
+Jisses!
+Jag tror inte hon kommer tillbaka igen.
+Hallå?
+Hej, jag är tillbaka och är redo att veta mer om framtiden!
+Jag antar att jag går nu, då.
+Verkar som om ingen är här.
+Jisses!
+Så du har återvänt för att lära dig om framtiden.
+Ja, jag måste följa efter Guvernören.\255\003Kan du säga mig något som kan hjälpa?
+Jag ser dig tillsammans med andra som är villiga att hjälpa dig i din sak.
+Du måste först finna andra att hjälpa dig i din sak.
+Jag hatar verkligen det där blixtrandet, det får mig att se fläckar.
+Tystnad!
+Jag får en annan uppenbarelse.
+Du måste^
+Måste vad?
+Du måste åka till Apön\015.
+Väl där måste du söka efter Spökpiraten LeChuck.
+Han gömmer sig djupt^\255\003^Djupt under Apön\015.
+Det finns bara en sak kraftfull nog att besegra LeChuck.
+Vad?
+Det är en uråldrig rot.\255\003Väl förberedd kan roten förgöra ett spöke med endast en beröring.
+Häftigt!
+Jag får fler^\255\003^Fler uppenbarelser.
+Ut med det!
+Jag ser Kannibaler som lever på Ön\015.\255\003De^\255\003^Hjälper dig^\255\003^Eller äter dig^\255\003^Svårt att säga, uppenbarelsen är inte längre tydlig.
+Strålande.
+Gå nu och finn den som älskar dig.\255\003Men var varnad^
+Ingen fara, jag ska akta mig för LeChuck.
+Inte för LeChuck^ för dig själv och för vad du kommer att finna.\255\003Vad du kommer att få reda på om dig själv och din värld.
+Det kommer att förfära dig.
+"Greppa tag i dina besparingar med GREPPMASTER\015-handtag."
+Hörrudu! Låt bli den där!
+Fiffla inte med den där!
+handtag
+"Davey Jones\015 Kista:\255\001Det allra bästa inom tjuv-, eld- och groggtåliga förvaringsapparaturer."
+ 
+Det här är ett groggtåligt kassaskåp.\255\003Det står så på det.
+Jag tror inte det kommer att öppna det.
+Det är låst.
+Det är redan stängt.
+kassaskåp
+ringklocka
+"Ring klockan för service."
+Bäst att inte röra den.\255\003Den där butiksinnehavar-snubben kanske biter av mig huvudet.
+skylt
+butiksinnehavare
+ANDEDRÄKTSMASTER\015 - För piraten som bryr sig om första intrycket.
+Ooooh! Snacka om uppfriskande!
+minttabletter
+"GRÄVMASTER\015 - Den enda spaden för seriösa skattjaktsentusiaster."
+spade
+"Jag, den gode och ärofulla butiksinnehavaren, tar härmed ansvar för de skulder som innehavaren av denna lapp dragit på sig, med värde upp till 5000 åtta-realer."
+butiksinnehavarens lapp
+dörr
+"HUGGMASTER\015 - När du vill ha ett svärd lika skarpt som ditt sinne."
+På de där hjälplösa hundarna?
+Det vore inhumant!
+svärd
+Hörru, var tog du vägen?\255\003Jag hajkar tvärs över ön för att boka in dig med Svärdmästaren-\255\003-som, förresten, hälsar att du kan hoppa i sjön-
+-och när jag kommer tillbaka, så är du väck!
+Tro inte att jag kommer att göra dig en tjänst igen, din otacksamma lilla snattare!
+Tro inte att jag kommer att göra dig en tjänst igen!
+Jag håller ett öga på dig, pojk.\255\003Jag bryter benen av dig om du stjäl något.
+Åhåj där, sprätthök.
+Hmmm^\255\003Det finns inget här förutom den här lappen.
+Hmmm^\255\003Den är tom.
+Du söker Svärdmästaren, säger du?\255\003Ser mer ut som om du letar efter lite "femfingersrabatt"!\255\003Tro inte att jag kommer att göra dig en tjänst igen, din oärliga, snattande lilla pojkvässla!
+Jag kan inte fatta att jag nästan föll för det där igen!
+Du, min unge man, är i brådskande behov av kölhalning!
+Så dyrt är det inte!\255\003Varför betalar du inte bara, snåljåp?
+Hoppas du på att jag ska få en hjärtinfarkt med allt detta rännande, va?\255\003Ha!
+Det blir bara roligare och roligare, eller hur?
+Nu kommer du hit!
+Aha!
+Nu tog jag dig allt, din lilla tjuv!
+Fångade dig igen, din lilla råtta!\255\003Att du aldrig lär dig.
+Okej, hosta upp stålarna.
+Kanske vill du betala för det du just tog?
+Kanske vill du betala för de där?
+Vad är det med den?
+Jag vill ha den.
+Vad kostar den?
+Jag vill inte ha den.
+Det slår aldrig fel!\255\003Jag lämnar disken två sekunder och så står det en fårskalle och plingar på den där idiotiska klockan! 
+Jag borde ha vetat att det var du igen.
+Svärdmästaren hälsar att du kan hoppa i sjön, förresten.
+ 
+Ledsen, ingen återbetalning.
+Ledsen, ingen återbetalning.
+Nej, tack. Jag är nöjd med min andedräkt.
+Vad är den där till för?
+Så dum är jag inte.
+Det sa jag inte att du var.\255\003Inte högt, i alla fall.
+Vi tar bara kontanter här.
+Vad vill'ru?
+Angående den här sabeln^
+Angående den här spaden^
+Jag letar efter Svärdmästaren av Gruffotumultön\015.
+Nu när jag har det här svärdet, vem kan jag testa den på?
+Jag är intresserad av att få tag i ett kreditlån.
+Jag skulle verkligen behöva en minttablett.
+Jag skulle vilja ha lite råttmedel, tack.
+Har du någon fil?
+Jag tror jag bara vill kolla runt lite.
+Jag tror jag bara vill kolla runt för stunden.
+Jag har redan sagt att den kostar 100 åtta-realer.\255\003Tog du med dig pengar den här gången?
+Det blir 100 åtta-realer.\255\003Prutat och klart.
+Jag tar den.
+Jag har inte tillräckligt med pengar.
+Jag vill inte ha den.
+Strålande.
+De bästa 100 åtta-realer du någonsin spenderat.
+Förstod det.
+Hur önskas annars slösa min tid?
+Samma pris som senast du frågade:\255\00375 åtta-realer.
+Jaså, ännu en aspirerande skattjägare?\255\003Den där kommer att kosta dig 75 åtta-realer.
+ 
+Jag tar den.
+75 åtta-realer? Jag har inte så mycket.
+Jag vill inte ha den.
+Perfekt.\255\003Den kommer betala sig själv, tro mig.\255\003Du kommer att gräva upp 75 åtta-realer på nolltid.\255\003Men hörru, lämna lite skatt kvar till oss andra, okej?\255\003Ha ha ha!
+ 
+Då kanske du borde lägga tillbaka den.
+Finns det något här som du möjligen HAR råd med?
+Ja du, om du letar efter en schysst fajt^\255\003så har vi den bästa fäktaren på hela Karibiska Havet precis här på Gruffotumultön\015.\255\003Men det är klart, ingen vet var hennes hemliga gömställe är^
+Hon vill inte träffa dig, har jag ju sagt.
+Kanske om du frågar henne igen?
+Säkert, som om jag skulle gå på den där en gång till!
+Åh, snälla.\255\003Jag lovar att inte stjäla något den här gången.
+Strax tillbaka.
+Vänta lite!
+Din lömska, kvickfingrade lilla vässla^
+Du tror väl inte att jag är så pass dum att jag försöker med samma trick tre gånger i rad?
+Du börjar verkligen gå mig på nerverna.
+Svärdmästaren av Gruffotumultön\015?\255\003Hmmm^ Jag vet inte^\255\003Ingen vet var hennes hemliga gömställe är^
+^Ingen förutom jag, det vill säga.\255\003Jag får väl gå och fråga henne om det är okej att visa dig vägen.
+Hmmm^
+Jag antar att jag får promenera hela vägen dit^
+^IGEN.
+^MEN BARA EN GÅNG.
+Strax tillbaka.
+OCH RÖR INGENTING!
+Jag håller koll på dig, pojkvässla!\255\003Försök inte med något!
+Och försök inte med några av dina gamla trick!
+Jag kan inte fatta att jag gör det här igen.
+Jag förväntar mig vara tillbaka om ungefär fem sekunder.
+OCH RÖR INGEN-
+Äh, skitsamma.
+Bla, bla, bla, ögon i nacken, bla, bla, bla^\255\003^Bla, bla, bla, vrida nacken på dig, bla, bla, bla^\255\003^Och så vidare.
+Det här börjar bli tröttsamt.
+Jaså, det är du?\255\003Har du ett jobb?
+Så du har äntligen skaffat dig ett jobb, va?
+Ja, så klart har jag det.
+I all ärlighet, herrn, så är jag arbetslös.
+Då så.\255\003Jag hämtar en av mina enkäter så fyller vi i den.
+ 
+Få se här^\255\003Vad sa du att ditt yrke var, nu igen?
+Jag är en illaluktande, groggdrinkande pirat.
+Jag är servitör på Scumm-baren.
+Jag är en akrobat hos en kringresande cirkus.
+Jag städar skepp borta hos Stures Begagnade Skeppsvarv.
+I all ärlighet, herrn, så befinner jag mig just nu mellan två jobb.
+Illaluktande, ja^\255\003Groggdrickande, måhända^\255\003Men en pirat?\255\003Jag tror knappast det.\255\003Kom tillbaka när du har ett par tatueringar, ett träben eller åtminstone en ögonlapp, för guds skull.
+ 
+^och jag är Drottningen av England.\255\003Kocken där serverar vid borden själv.
+Han gillar att spotta på sina gäster personligen.\255\003Du är inte bara arbetslös, du är en lögnare!
+ 
+Är du en av Fettucini-bröderna?\255\003Var är din fåniga brytning?\255\003Och var är dina fåniga tofflor?
+Kom tillbaka när du är anställd hos ett seriöst företag.
+ 
+Jag har inte sett ett rent skepp där på år och dar.\255\003Antingen ljuger du, eller så är du bara en kass städare.\255\003Hur som helst litar jag inte på dig.
+Jag uppskattar din ärlighet.\255\003Men jag har inte lyckats bli åttiotre år genom att vara en dumbom.
+Inget jobb, ingen kredit.\255\003Kom tillbaka när du lyckats landa ett jobb så kan vi prata om det.
+ 
+ 
+Tack för att du berättade för mig.\255\003Jag respekterar din ärlighet.\255\003Men jag har inte lyckats bli åttiotre år genom att vara en dumbom.\255\003Inget jobb, ingen kredit.
+Kom tillbaka när du har ett.
+Det säger du inte!
+Här, ta en^\255\003Snälla-\255\003Ta hela rullen!\255\003Det blir en åtta-real, tack.
+ 
+Jag har några, men de är inte gratis.
+Ha!\255\003Det skulle du säkert.\255\003Men jag har inga.
+Menar du en hängfil eller en nagelfil?
+Ja.
+Hängfil.
+Nagelfil.
+Nej, den sorts metallfil man använder för att öppna lås med.
+Jaha.\255\003Ledsen, vi har slut på sådana.
+Vad vill du annars?
+Hörru. Det här är ingen detaljshandelsbutik.\255\003Ta inte hela dagen på dig.
+Okej, men sätt inte dina läppar mot någonting.
+Sak samma.
+Okej.\255\003Väck mig om du behöver något.
+Varsågod, sprättbralla.
+ 
+Vi har rea på spadar idag^
+Kan du rappa på?\255\003Jag hoppades på att få stänga tidigt idag.
+Om du fungerar på att stjäla något, tänk om.
+Skynda dig!
+Men kom igen nu! Köp något, bara.
+Vad tror du att det här är, ett museum?
+Jag har inte hela dagen på mig.
+Kom igen, sprättbralla!
+Tänk inte, köp bara!
+Kom du bara in hit för att värma dig, eller behöver du något?
+Väntar du på att jag ska somna eller något?
+Kan jag hjälpa dig med något?
+Vi har ett bra erbjudande på svärd just nu^
+Han ser elak och ful ut.
+Jaså? Det är din fru också.
+butiksinnehavare
+dörröppning
+lås
+Prata med mördarandedräkten? Nej, tack.
+Han ser nervös ut.
+fånge
+lås
+Den är låst.
+Jag tror den är igensvetsad nu.
+Bäst att inte nöta ut den innan jag fått ut statyn.
+Jag tror inte det där kommer att öppna den.
+cell
+Den är låst.
+Jag tror den är igensvetsad nu.
+Det där behövs inte nu.
+cell
+fil
+Det är en fil i den!
+Den är tung.
+Det är en raspig metallfil.
+tårta@@@@@
+Otis
+fånge
+Har du kommit för att frita mig?
+Kommit för att förhöra fången igen, eller?
+Vem är du?
+Vad har du gjort för att hamna där inne?
+Så, hur är maten där inne?
+Vad var det du sa om blommor?
+Vem skulle vilja sätta dit dig?
+Sheriff Skinntopp är verkligen en tölp, eller hur?
+Vem är sheriffen här omkring?
+Guvernören har blivit kidnappad!
+Om jag släpper ut dig, går du med i min besättning då?
+Du råkar inte ha en fil?
+Kan jag skaffa dig något?
+Håll ut. Jag måste gå.
+Otis
+Mitt namn är Otis.\255\003Eller, jag tror i alla fall det.\255\003Jag har varit här inne så länge att jag knappt minns längre.
+Du måste få ut mig härifrån innan jag helt tappar vettet!\255\003Ser du inte att jag är oskyldig?
+ 
+Men varför sitter du i fängelse, om du är oskyldig?
+Du ser inte värst oskyldig ut, tycker jag.
+Någon satte dit mig!\255\003Jag rörde inte ens de där dumma blommorna!
+Vilka blommor?
+Kan du berätta namnet på de där blommorna igen?
+Vem satte dit dig?
+Hur är maten där inne?
+Vad sa du att du åt där inne?
+De gula Caniche Endormi-blommorna i skogen-\255\003Det är emot lagen att plocka dem.
+Jag vet inte exakt vem^\255\003Jag tror det var en konspiration.\255\003Och om det finns en typ av pirat jag inte gillar^\255\003^Så är det en kons-PIRAT-ion.
+ 
+Det skulle inte du heller om du hade suttit här inne lika länge som jag har.
+Jag har inte gjort något.\255\003Speciellt inte inget mot de där dumma blommorna.
+Det är därför jag är här, på grund av de där dumma blommorna^
+Skoja inte.
+Du menar att du inte har sprungit på den nya sheriffen ännu?\255\003Du är en lyckost.\255\003Det är bäst att undvika Fester Skinntopp.
+ 
+Fester vem?
+Vad är det som är så dåligt med honom då?
+Så säger du bara för att han satte dig i fängelset.
+Jag ska ha det i åtanke. Ses sen.
+Fester Skinntopp är den elakaste mannen på Gruffotumultön\015.\255\003Guvernören håller oftast honom i schack, som tur är.
+Vi brukade ha en rättvis, anständig man som sheriff-\255\003-men han dog nyligen under mystiska omständigheter.
+Om du frågar mig, så tror jag att nya sheriffen hade något med det att göra.
+Jag tycker du har berättat tillräckligt, Otis!
+Hoppsan.
+Nej! Fråga vem som helst^
+Skaffa mig en advokat!\255\003En billig en!
+Visst!\255\003Självklart!\255\003Jag kommer för evigt stå i skuld till min befriare.
+Tills dess, vankar jag av och an.
+Vad?
+Här, titta på den här lappen.
+Har de kidnappat Guvernören?
+Det gör mig riktigt arg.\255\003Jag känner att jag vill sparka på någon.
+Hmmm^\255\003Jag undrar om hon lämnade sitt ställe olåst^
+ 
+Ja^\255\003DU KAN TA MIG UT HÄRIFRÅN!
+Faktiskt, något att mota bort dessa råttor med vore trevligt.
+Jag kan byta det mot den här morotstårtan min faster Tillie gjort.\255\003Jag hatar morotstårta.
+Tror du att jag skulle sitta här inne om jag hade det?\255\003Allt jag har är den här morotstårtan min faster Tillie gjort åt mig.
+DEN kan du få om du ger mig något som kan få bort dessa råttor.\255\003Jag hatar morotstårta.
+Tack så mycket.
+Du vet, det vanliga^\255\003Skulor, grogg, välling^\255\003Råttor, skalbaggar och löss, om jag kan fånga dem.
+Jag har en morotstårta som min faster Tillie har gjort, trots att hon vet att jag avskyr morotstårta.
+Du vet, kocken på baren är en gammal vän, han brukar ibland smuggla in mat åt mig.\255\003Till exempel fläsk. Oftast grisfötter och grisläppar, men då och då^\255\003^Har han med sig någon konstig rumpstek^
+ 
+Gud, vad äckligt. Jag vill inte höra mer.
+Vad var det som var så konstigt med rumpsteken?
+Ja du, det var du som undrade.
+Tja, det var då den enda rumpsteken jag någonsin sett som haft en gripsvans.
+Du, jag gillar att få besök och så,\255\003men jag har inte så mycket mer att säga.\255\003Dessutom börjar min hals bli torr från allt det här pladdrandet.
+Varför går du inte och letar efter någon annan att prata med?\255\003Det är ju inte så att jag är den ENDA piraten kvar på ön, eller nåt.
+Jag har inte mycket mer att säga, sa jag ju.
+Du, jag uppskattar att du vill hålla mig sällskap och så^\255\003Men såvida du inte är en advokat^
+^Eller om du vet något sätt att på något magiskt sätt upplösa det här låset^
+^Så ser jag ingen större anledning till att låta den här konversationen leva vidare.
+Du måste få ut mig härifrån!\255\003Jag är ett samhällets offer!
+För att inte nämna offer av dålig andedräkt.
+Fy!
+Hörru, det är svårt att hålla min andedräkt mintfräsch när det bara finns råttor att käka här inne.
+ 
+Men jag behöver den för att få tag på statyn!
+Ooooh!\255\003Mint-Grogg!\255\003Så uppfriskande!\255\003Tackar.
+Du, den här kanske fungerar mot råttorna!\255\003Tack!
+Här är tårtan.
+Här, ta den här morotstårtan i utbyte.\255\003Min faster Tillie har gjort den.
+Jag har ju redan sagt att jag HATAR morotstårta!
+Jag behöver inte din välgörenhet, kompis.
+Okej, kanske bara en bit.
+Jag vill inte ha något förutom min frihet!
+^Och kanske en halstablett.
+^Och kanske något som får bort dessa råttor.
+ 
+Alltså, snacka om dålig andedräkt!
+Mitt namn är Otis, förresten.
+Om det någonsin finns något som jag skulle kunna göra-
+Ja, det finns faktiskt något du kan göra^\255\003Jag letar efter modiga personer som kan gå med i min besättning och segla iväg tillsammans med mig till Apön\015 för att rädda Guvernören.
+Hon har blivit bortrövad av den förskräcklige piraten LeChuck och hålls fången mot sin vilja någonstans vid hans hemliga gömställe.
+Jag förstår^
+Nåväl, ja, hmmm^
+LeChuck, sa du?\255\003Ja, självfallet. Vi måste segla mot Apön\015 och-
+TITTA BAKOM DIG! EN TREHÖVDAD APA!
+Jag kan inte fatta att jag föll för det där.
+Ett ganska bra trick, dock.
+ 
+Jag hoppas att du inte har tagit den här smutsiga luffaren på allvar.\255\003Han skulle säga vad som helst för att undvika att återgälda samhället för de brott han begått.
+ 
+Jag tycker han verkar oskyldig. Kan du inte släppa ut honom?
+Han ÄR smutsig. Luktar illa gör han också.
+Ursäkta, det här är faktiskt ett privat samtal.
+Kors vad sent det är! Skulle GÄRNA stanna och snattra, men^
+Du borde inte lägga näsan i blöt, främling.\255\003Jag bestämmer vem som är oskyldig och vem som är skyldig häromkring.
+Tack så mycket, alltså.
+Du har då mage som vågar komma till den här stan och döma ut lokalbefolkningen.\255\003Om du inte gillar sättet vi luktar på är du välkommen att lämna när som helst.
+Inte den tonen med mig, tack, makakpojken.\255\003Annars låser jag gladeligen in dig här tillsammans med Otis^\255\003Då lär ni få gott om tid för ert privata samtal.
+Jag förstår.\255\003Du har gott om tid att umgås med kriminella, men inte med de som vill upprätthålla lagen.
+Jag ber om ursäkt.
+Lyssna, jag vet inte vad du håller på med^\255\003Men vad det än är, så är det förmodligen olagligt.\255\003Så glöm det.
+Var du än går på Gruffotumult\015, så håller jag ögonen på dig.\255\003Och om du försöker med några apfasoner, låser jag in dig här inne för alltid.
+Snacka om en sprätt.\255\003Fattar du vad jag har att göra med här?
+Bäst du går innan vi båda hamnar i trubbel.
+Den här muggen är inte till någon nytta längre.
+En tom mugg är inte till mycket nytta här.
+Schyst, en drink!\255\003Jag är riktigt törstig.
+JÖSSES!
+Oj, då.
+Wow.\255\003Och tänk att jag brukade dricka den där sörjan^
+Jag är fri!
+Just, ja! Tackar.
+Vi ses, stolpskott!
+HA HA HA!
+Men^
+Har vi fortfarande en överenskommelse?
+Jag är säker på att han kommer tillbaka^\255\003Han gav mig sitt ord, som den pirat han är.
+Schysst.\255\003Rädda råttan och lämna mig här för att ruttna.\255\003Du är en riktig humanitär, kompis.
+Jag antar att min advokat hade rätt^\255\003Jag borde ha tjallat.
+ 
+gata
+Ooooh! En cirkus.\255\003Jag älskar cirkus!
+ 
+affisch
+Han är avskyvärd, fruktansvärd, gräslig och ska just slå mig igen.
+LeChuck
+"Endast anställda"
+skylt
+Hallå?
+Är det någon här?
+HALLÅ?
+Vet du, hemska saker kan hända en person i en mörk, övergiven gränd som denna.
+Och på den här tiden på kvällen finns det ingen i närheten som kan se det.
+ 
+Jaså? Det var intressant. Vi ses, då.
+Hörde du också något här bak?
+Ja, och hemska saker kan hända \254\001   personer som smyger på folk bakifrån.
+Och varför har du sådan brådska?
+Nej.
+Har du tänkt käfta emot, va?
+Bäst jag tar ditt namn.
+Jag är Kajbrusk Drevskog, och jag är en mäktig pirat.
+Jag är Kajbrusk Drevskog, och jag är ny i stan.
+Jag är Kajbrusk Drevskog, och jag var just på väg.
+Hör på här, Skrevskog-
+Drevskog!\255\003Kajbrusk Drevskog!
+Vad än ditt namn är, lyssna:
+Jag är sheriffen här omkring.\255\003Sheriff Fester Skinntopp.
+Ta det från mig - Det är en dålig tidpunkt att besöka Gruffotumultön\015.\255\003En väldigt DÅLIG tidpunkt.\255\003Mitt råd till dig är att hitta någon annanstans att semestra på.
+Någonstans mer säkert.
+Det känns mycket bättre nu när jag vet att det finns en lagens tjänsteman i krokarna.
+klippa
+valvgång
+dörr
+Jag ska rädda dig, Elaine. Jag lovar.
+Det är min lilla plunderkanin.
+Jag förstår hur LeChuck kunde falla för henne så snabbt.
+Jag förstår hur den där piraten kunde falla för henne så snabbt.
+Återvälj Guvernör Marley.\255\003"När det finns endast en kandidat, finns det endast ett val."
+ 
+affisch
+dödliga pirayapudlar
+Guvernörens herrgård
+Det där är inte kyrkan.
+gränd
+Det där är inte vägen till kyrkan.
+valvport
+Det där är inte kyrkan.
+dörröppning
+Det där är inte kyrkan.
+dörr
+stad
+Det där är inte vägen till kyrkan.
+valvport
+dörr
+Ps
+Pss
+Psss
+Pssss
+Psssst.
+Du där.
+Kom hit.
+Ni har reserverat till klockan halv tre, min herre.\255\003Vänligen återkom då.
+Har ni reserverat?
+Kan jag hjälpa er?
+Jag är här för att plundra Guvernörens herrgård.
+Jag var just på väg till Guvernörens herrgård.
+Jag måste vara på fel plats. Morsning!
+Är ni här för plundringen?
+Ja. Plundring låter roligt, nu när jag är en pirat och allt.
+Absolut inte!
+Bra^\255\003För vi är fullbokade de närmaste fem timmmarna.
+Och har min herre reserverat?
+Reservera?! För plundring?
+Jamen, visst har jag reserverat.
+Tusan, jag har inte reserverat. Borde jag ha ringt i förväg?
+O ja, väldigt populärt när Guvernören är bortrest.\255\003Kaos skulle utbryta om vi inte hade ett system på plats.
+Nu, så^\255\003Såvida ni inte har reserverat, måste ni ge er av.
+Och i vilket namn var det reserverat?
+Drevskog, Kajbrusk Drevskog.
+Ah^ Jag tror det är den där första på toppen av listan.
+Den står förmodligen under "S", som i Skintopp.
+Jag ber om ursäkt^\255\003Men jag ser inte ert namn här^
+Självklart^
+Bra försök^\255\003Men^
+Bra försök^\255\003Men^
+Självklart borde ni ha ringt i förväg.\255\003Detta är ett väldigt populärt ställe.
+Så^
+^Vi är fullbokade de närmaste fem timmarna.
+Men jag tror jag skulle kunna klämma in er^\255\003^Omkring klockan två.
+Passar det?
+Ja, det vore fint.
+Nej tack, jag har en båt att hinna med.
+Strålande^\255\001Då bokar jag in er under "plundring av Guvernörens herrgård för en, klockan halv tre."
+Ring in i förväg nästa gång.
+Skyll dig själv^
+råtta
+Vad kollar DU på?
+män med bristande moral (pirater)
+valvgång
+Jag måste till kyrkan!
+dörr
+karta
+"Gamla Handelsboden Gummikycklingen-med-en-Remskiva-i-mitten^"\255\003"^Vi har tillfredställt era Gummikyckling-med-en-Remskiva-i-mitten-behov i över 50 år."
+skylt
+dörr
+dörr
+dörr
+dörr
+klocka
+Vad kollar DU på?
+Gruffotumult-medborgare
+Kyrkan ligger åt andra hållet!
+valvgång
+grymt spöke
+Här var det visst en del stavfel.
+De är STAVFEL, inte grammatikfel.
+protokoll
+Gruffotumult-medborgare
+Kraaaak!
+Klockan tio.
+Hmm. Fortfarande klockan tio.
+Det verkar som om det ALLTID är klockan tio på den här ön.
+Läskigt!
+Ursäkta mig.
+Har du en inbjudan till bröllopet?
+Jamen visst har jag det.
+Nej, jag är en plankare.
+Nej, men jag har den här dödliga magiska rotsaften.
+Jag verkar ha lämnat den i mina andra byxor.
+Får jag se den, om jag får be?
+Nej.
+Visst, jag har den här i den här seltzerflaskan.
+Öh, jag tror den är i mina andra byxor.
+Adjö, då.
+Inte så snabbt, polarn!
+Du ser då inte värst spöklik ut för mig.\255\003Du är väldigt rosa^
+Det är solbränna.
+Jag lider av ett ovanligt pigmenteringssyndrom.
+Försök att inte ta den här rotsaften för personligt.
+Du LÅTER inte särskilt spökaktigt, heller.\255\003Skulle du kunna jämra dig eller stöna eller skaka kedja eller något?
+aaAAOOOOOOoooooo^
+Mina kedjor håller på att bli avfettade i tvätten.
+Försök att inte ta den här rotsaften för personligt.
+Hörru, du låter väldigt likt min hund.
+Okej då.
+Men var är den där unkna, mustiga, spökliga bortom-graven-lukten?
+Den dränks i din EGNA dödliga stank.
+Jaså, den! Låt mig få ta av mig mina stövlar, bara^
+Det är en ny rotsaftsparfym. Vill du kanske pröva den?
+Akta dig^
+Nej, glöm det.
+Om du verkligen är ett spöke, bevisa det.\255\003Få se om du kan ta av dig huvudet.
+Öh^
+Äh^
+Alltså^
+Menar du huvudet på den här rotsaften?
+Äsch, glöm det.
+Det här är bra grejer!\255\003Akta dig, LeChuck!\255\003Det finns en ny sheriff i stan, och hans namn är-\255\003-Just ja, jag måste till kyrkan!
+Hörru, låt bli min råtta!
+Jag sa, plåga inte råttan!
+Jag tänker inte varna dig igen!\255\003Låt råttan vara!
+Hörrududu!
+Frank, säg åt honom!
+Åh, se vad du nu gjorde!
+ 
+Jag ber om ursäkt för det jag sa om råttor tidigare.
+Ledsen för råttan^
+Nu när det där förskräckliga odjuret är borta kan vi prata.
+Schysst råtta!
+Hur kan du stå ut med att vara så nära den här ohyran?
+Känner ni den där skumma mannen som hänger \255\008  på andra sidan vägen?
+Vet ni var jag kan få tag på en skattkarta i trakten?
+Jag tar en protokollkopia om du betalar mig två åtta-realer.
+Jag är riktigt intresserad av den här sjörövar-grejen.
+Säg mig, är ni pirater?
+Visste ni att Guvernören blivit kidnappad?
+Jag måste rusa nu.
+Såg att du köpte en karta från killen där borta.
+Har du kollat på den ännu?
+Ha ha ha ha ha ha ha ha ha ha ha ha
+Du kanske borde överväga en alternativ källa^
+Sugen på att köpa en karta, va?
+VÅRA kartor är av högsta kvalité, inte som de där dasspapprena som pajasen på andra sidan gatan kränger.
+Nä, skojar bara.
+Det här är faktiskt kopior av protokollet från det allra sista RHS-mötet på Gruffotumultön\015.\255\003Det går inte ens att GE bort dem.
+Vill du ha en?
+ 
+Nej, tack.
+Nej, jag måste bege mig.
+Nej, men jag tar en om du ger mig två åtta-realer.
+Se? Jag sa ju det.
+Okej, det är rättvist.
+Gillar du råttor?
+Ja, jag älskar råttor!
+Nej, jag står inte ut med dem.
+Ja, speciellt i vitvinssås.
+Jag kan inte prata om det just nu. Måste rusa.
+AIEEE! Försvinn!
+Frank, den här pappskallen skrämde bort min råtta!
+De är inte så pjåkiga.
+- pip -
+Låter som om den här killen inte gillar råttor!
+Kom igen, vi strimlar honom!
+ 
+De är väldigt intelligenta djur!
+Ha ha ha ha!
+Mer intelligent än HONOM.
+Det finns faktiskt en lokal skröna om ett gäng råttor som seglade ett skepp ända till den berömda Apön\015.
+Nej, det stämmer inte.
+Det var egentligen ett gäng apor.
+Otroligt!
+Det har jag svårt att tro på.
+Aldrig skulle ett gäng dumma apor kunna bemanna ett skepp!
+Ursäkta mig, jag måste gå nu.
+Men sant.
+Ja, men det är sant.
+Egentligen var de chimpanser och de var INTE dumma.
+När de kom fram sålde de skeppet för en fin slant.\255\003Den enda gången jag sett någon klå gamla Sture i att göra en bra affär.
+Jag trodde det var råttor^
+Nej, vi är en kringresande cirkustrupp.
+Men den här råttan skrämde bort elefanten.
+Men någon idiot skrämde bort vår tränade råtta!
+Håll klaffen!
+Självklart är vi pirater!\255\003Sådana här kläder kan man inte köpa i vilken klädesbutik som helst!
+Vad vill du?
+Vad är det i tunnan?
+Ledsen att jag verbalt misshandlade er råtta.
+Var fick ni tag på den där råttan?
+Ingenting. Vi ses.
+Hur kommer det sig att ni står i det här gatuhörnet och inte \254\008  på något skepp, och plundrar, skövlar byar, härjar och sånt?
+Rom.\255\002
+  Sylt.
+Sylt.\255\002
+  Rom.
+Öh^ Rom och sylt.\255\003Det är en gammal piratfavorit, det vet väl alla.
+Tja, sjöröveri har inte gått så bra för oss^
+Det är några ÖVERNATURLIGT talangfulla pirater i området just nu^
+^Som bedriver sin verksamhet utifrån Apön\015.
+Så vi har försökt hitta alternativa inkomstkällor.\255\003Vi försöker starta upp en cirkus.
+Det gick rätt så bra tills råttan skrämde bort elefanten.
+^Och nu har en tölp skrämd bort råttan!
+Nu har du gjort oss deprimerade.\255\003Gå hem.
+Öh^
+Ja, alltså, klart vi visste det.
+Varför hänger ni bara här istället \254\008  för att göra något åt det?
+Jag ska ge mig efter de där immateriella auktoritetsfigur-napparna. \254\008  Är ni med mig?
+Skulle jag kunna fresta med en drömsemester till Apön\015?
+På grund av en plötslig förändring inom lokalpolitiken,\255\003är jag villig att erbjuda er ett enastående pris för en kryssning till natursköna underlandet^\255\003^Apön\015!
+Och det mest otroliga med detta erbjudande ÄR priset:\255\003Det är helt gratis!\255\003Allt ni behöver göra är att hjälpa mig bemanna skeppet, och denna paradisö kan bli er^\255\003GRATIS!
+(^och vi kanske till och med räddar Guvernören när vi ändå håller på.)
+Öh^
+Tja^
+Guvernören kanske säkert ta hand om sig själv^
+^Och vi är liksom upptagna här^
+- Just det -
+^Och så har vi ju cirkusen att ta hand om^
+^Vi måste hitta elefanten^
+^Hitta råttan^
+JUST DET!
+^Och göra oss av med de här protokollen^
+Jag är ledsen, vi KAN inte åka just nu.
+I tror det är bäst att du går, pojk.
+Ha ha ha ha ha ho ho ha ha ha
+- aak -
+\255\007\034\000
+Ursäkta mig, men har du en-\255\003Jaha, det var bara du igen.
+Jag sa ju att det bara existerade EN ENDA.
+Har du kommit tillbaka för att köpa kartan till den Legendariska Försvunna Skatten av Gruffotumultön\015, va?
+Jag hoppas du tog med tillräckligt med pengar den här gången.
+Jag vill bara ha en karta.
+Min kusin Sven hälsar.
+Kan du säga mig koden igen?
+Glöm det. Jag kan hitta en karta någon annanstans.
+Har du en fil?
+Jag förstår.
+Ska vi slå vad?
+Shhhh!\255\003Knip igen, hörru.\255\003Den där fula sheriffen kanske finns i krokarna.\255\003Nu så^
+Ursäkta mig, men har du en kusin som heter Sven?
+Va?
+Nej, det har jag inte.
+Vad är det för något? Någon sorts kod?
+Nej, men jag hade en gång en frisör som hette Dominique.
+Har du en fil?
+Klart att det är en kod, din idiot.
+Nära nog.
+Glöm det.\255\003God kväll.
+Finansiella filer hos Stures Skeppsvarv?\255\003Personalfiler för Sheriffens departement?
+Jag menar alltså den raspiga, metalliska sortens fil.
+Jaha.
+Låt oss snacka affärer.
+Vill du köpa en karta till den Legendariska Försvunna Skatten av Gruffotumultön\015?
+Endast en existerande.
+Ovanlig.
+Väldigt ovanlig.
+Endast 100 åtta-realer^
+ 
+Nej, tack. Jag har inte tillräckligt med pengar.
+Jag tar den! Den blir en ball present.
+Nej, tack. Jag vill inte ha den.
+Då får du sticka, grabben. Det är dåligt för affärerna att du hänger här.
+Varsågod. Du har gjort ett bra val.
+Försvinn nu.
+Inte tillräckligt med pengar, va?\255\003Kom tillbaka när du är seriös gällande skattjakt, grabben.
+dörr
+spår
+De sover fridfullt.
+Jag tror inte jag tar mig förbi dem.
+Jag går inte nära dem!
+Jag vill inte väcka dem.
+"Låt sovande hundar ligga."
+dödliga pirayapudlar@@@@
+sovande pirayapudlar
+sovande pirayapudlar
+VIKTIGT MEDDELANDE
+Dessa hundar är inte
+döda, de bara
+SOVER.
+ 
+Inga djur blev skadade
+under produktionen av
+detta spel.
+Pirayapudlar äter inte fisk.
+Jag tror inte att de här hundarna är vegetarianer.
+Jag tvivlar på att hundarna vill ha detta.
+dödliga pirayapudlar@@@@
+Vov.
+Bjäbb!
+ 
+stor trädörr
+Sätt igång och öppna den, bara.
+dörr@@@@@@@@@@@@@@@@@@
+handtag
+Den rör sig inte ur fläcken.
+spak
+Den rör sig inte ur fläcken.
+snöre
+dörr
+tunnel
+Det är något här inne jag vill visa dig.
+^Något fruktansvärt.
+Något så hemskt att jag ligger vaken om nätterna bara genom att tänka på det^
+Men det är inte min mening att skrämma upp dig.
+Jag är säker på att en stor, modig kille som du inte har några alls problem att möta detta monster.\255\003Den är trots allt mycket mindre än den best som bet av mig mina händer för så många år sen.
+Låt oss hoppas att du är mycket snabbare än vad jag var.
+Åh, jag kom just ihåg något^\255\003Jag hann aldrig mata honom den här veckan.\255\003Så dumt av mig.
+Du inser, så klart^\255\003^Att den endast blivit hungrigare.
+Jag låter dig öppna sista dörren själv.\255\003Jag ska bara akta mig ur vägen.
+Vänta!
+Fått kalla fötter?
+Nej, jag vet bara inte vad jag ska göra.
+Du ska öppna den där lilla dörren^\255\003^Och, om du är tillräckligt modig^\255\003^Vidröra besten bakom den.
+Jaha, var det allt?
+Okej. Kör på^
+^Fegis.
+^Om du vågar.
+ 
+dörr
+Braaaak!
+Jag kan inte tro det.
+Du är en modig man, trots allt.\255\003Du har mött besten som jag fruktat alla dessa år.\255\003Du hade modet att göra det jag aldrig kunnat göra.
+Jag känner mig som en ynkrygg.\255\003Jag är inte tillräckligt bra att vara med i din besättning.\255\003Jag är inte ens tillräckligt bra att svabba dina däck.
+Åh, kom igen, Köttkrok.
+Åh, kom igen, Herr^
+Köttkrok.
+^Herr Köttkrok.
+Du är en stor, stark, snygg kille med en snackande tatuering.
+Du är en stor, stark, snygg kille med en schyst tatuering-
+Jag kan få den att prata. Vill du se?
+Öh, kanske senare.\255\003Hur som helst^
+Du kan svabba mina däck när som helst!
+Är det säkert?
+Javisst.
+Kan jag fortfarande gå med i din besättning?
+Packa bara dina grejer och möt mig vid hamnen.
+Åh, tack så mycket, tack så mycket!
+Jag kommer inte göra dig besviken.
+Hörru, kanske får jag en chans att visa dig hela mitt tatueringsnummer när vi är ute på havet!
+Wow, det här låter bättre och bättre för var stund.
+Försöker du smita, va?\255\003Jag trodde väl det.
+Du är uppenbart bara en stor fegis.
+En gång en fegis, alltid en fegis.
+Det är jag inte alls!
+Varför går du inte och letar en riktig kapten till vår besättning?
+Jag går, men jag är inte en fegis!\255\003Du ska få se!
+Säkert.
+AAAAAAIIIIIEEEEE!
+ 
+AAAAAAIIIIIEEEEE!
+mordisk bevingad djävul
+Hörru!\255\003Jag gillar inte besökare!\255\003Vem är du?
+Åhåj där, Kapten!\255\003Vad gör du tillbaka här så snart?
+Du trodde inte att jag fegade ur, va?
+Öh^\255\003Nä, självklart inte.\255\003Jag ville bara berätta att^
+^Öh^
+^Jag har ett skepp^
+^Jag har en besättning^
+^allt är helt okej.
+Jamen, det var väl bra.\255\003Så jag antar att vi ses vid hamnen, då?
+Visst^\255\003Ses där.
+Nå?\255\003Har du hittat oss en kapten?
+Nja, inte precis.
+Säg inte att du har kommit tillbaka för att bevisa hur modig du är igen.
+Jag sa ju att jag inte är en fegis.
+Vi får väl se!
+Jag har inte tid att visa dig några fler tatueringstrick, har jag sagt.
+Jag antar att du kommit hit för att invadera mitt lugna hem och förolämpa mig igen, va?
+Du, jag sa ju^\255\003Inga besökare!
+Guvernören har blivit KIDNAPPAD!
+Jag är Bobin Trådsliten. Är du min mor?
+Jag är en pirat, biljardbollen. Vem är du?
+Kan du visa mig den där fräcka tatueringsgrejen igen?
+Vad var ditt namn igen, biljardbollen?
+Ursäkta mig, det stod på skylten att toaletter fanns här?
+Oj då! Jag insåg just att det här är fel hus.
+Nej, din mor var en anka.\255\003Stick härifrån.
+Va? Det är ju befängt!
+Jaså?
+Titta på den här lappen som de lämnade efter sig.
+Titta på den här lappen som de lämnade efter sig.
+Åh, nej.
+Det här är fruktansvärt!
+ 
+Vad ska vi göra?
+Öh^ Jag hoppades på att du skulle ha en idé.
+Vi skulle kunna vänta här på att de kommer tillbaka.
+Vi skulle kunna samla en besättning och segla efter dem.
+Vi skulle kunna bli helt förtvivlade och helt enkelt ge upp?
+Hmmm^ Låt mig få tänka.
+Hmmm^
+Ja, det skulle vi kunna göra.\255\003Men det kanske blir tråkigt här^
+Vilken bra idé!
+Ja, det vore ju en lösning^\255\003Vänta!
+Jag vet!\255\003Vi skulle kunna skaffa ett skepp och besättning och åka och rädda henne!
+Vilken bra idé!
+Om vi bara haft haft en kapten^
+Vad sägs om jag?
+DU?\255\003HA HA HA HA!
+Det var ett roligt skämt.
+Hörru, jag är seriös.
+Verkligen?
+Verkligen.
+Okej, få se om du kan bevisa det.
+Följ med här.
+Nja^\255\003Okej, men bara en sista gång.
+Hörru, kalla mig inte det, har jag sagt.
+Mitt namn är Köttkrok^
+^Och du har fortfarande lite av ett attitydproblem.
+^Och jag tror att du har lite av ett attitydproblem.
+Och du har fortfarande lite av ett hårproblem.
+Jaså? Jag tror att du har lite av ett hårproblem.
+Förlåt. Jag menade inte att kalla dig för biljardboll.
+Det är okej.\255\003Jag har hellre en biljardbollsskalle än en hästsvans.\255\003Ha ha ha!
+Ha ha ha.
+Jag menade att kalla dig kromskalle.
+Du har ganska bra humor.\255\003Vill du se något riktigt roligt?
+Helst inte.
+Som vadå? En bild på hela din flintskalliga familj?
+Ja, snälla visa mig, Herr Kött.
+Åh, kom igen.\255\003Det kommer bara att ta en sekund.
+Men herregud!\255\003Du vet verkligen inte när det är dags att sluta?
+Det gjorde uppenbart inte din barberare heller.
+Förlåt. Jag försökte bara vara rolig.
+Vill du se något roligt?
+Titta här!
+Säg hej, Roger!
+Hej, Roger.
+Ganska häftigt, va?\255\003Jag har ett helt nummer, men jag har inte tid att utföra det hela just nu^\255\003Kanske om vi någon gång hamnar på en lång havsresa tillsammans^\255\003^Men tills dess är jag en väldigt upptagen man, såatteh^
+Ledsen, den där skylten är lite utdaterad.\255\003Jag brukade bedriva en blommande turistverksamhet här.
+Jag hade djurnummer, tatueringsdemonstrationer, souvenirer^
+Men det hände en liten olycka med en av de tränade djuren^\255\003^En av våra gäster blev allvarligt skadad.
+Så stället stänges ned och jag gick i konkurs.\255\003Jag har bott här ensam ända sedan dess^
+Det enda sällskap jag haft är samma best som tilltygade den där otursamma turisten.\255\003Samma best som gjorde mig till eremit.
+Ett monster som, av ren tillfällighet, är identisk med den som attackerade MIG när jag var endast ett barn^
+^Och lämnade mig med dessa krokar till händer^
+^En deformerad man.
+Jösses, nu blev jag alldeles deprimerad.\255\003Tack så mycket, liksom.\255\003Kan du inte bara lämna mig i fred nu?
+Åh, okej.\255\003Ha en fin vistelse på Gruffotumultön\015!
+ 
+Du, din^
+Säg hejdå, Roger.
+Hejdå, Roger.
+trappa
+stig
+Jag har 1 8-real.
+Jag har \255\004\195\000 åtta-realer.
+1 åtta-real
+\255\004\195\000 åtta-realer
+@@@@@ åtta-realer@@
+Jag är inte säker, men jag tror han kanske sover.
+utkiksman
+utkiksman
+Inga spår av Guvernören?
+Inga.\255\003Som jag sa, jag är rädd att vi har sett det sista av henne.
+Lyssna, som jag sa tidigare-\255\003Jag har inte sett någonting.\255\003Om du är orolig för henne, gå och hämta henne.
+Jag är lite upptagen just nu.\255\003Vi får talas vid senare.
+Jag hörde att det skulle bli korvgrillning här.
+Jag letar efter skoj. Sett något sådant?
+Vad är grönt, hårigt och har tusen ben?
+Undrar du någonsin ifall vi bara är karaktärer i en roman?
+Håll utkik! Ha, ha! Fattar du?
+Jisses!
+Åh, det är bara du igen, \255\007\038\000.
+Du skrämde mig halvt till döds.\255\003Jag trodde du var en-
+Strunt samma.\255\003Vad sa du att ditt namn var, nu igen?
+Jag är Kajbrusk Drevskog.
+Faktiskt, mitt namn är Kajbrusk Drevskog.
+Vad tusan är det för fel på "Kajbrusk Drevskog"?
+Kalla mig Plira.
+Jag är här borta.
+Vem är DU?
+Varför är Guvernören orolig över oväntade besökare?
+Jag går och söker lycka och rikedom nu.
+Jag kom till Gruffotumultön\015 eftersom jag vill bli en pirat.
+Ja, du valde rätt ställe för det.\255\003Dock kanske fel tidpunkt.
+För att inte nämna fel namn.\255\003Du har det fånigaste namnet jag hört på länge.
+Det är det enda jag någonsin hört som varit fånigare än "Plira".
+Okej, Plira.
+Du sa just att du hette Majsnusk Drivved, eller nåt sånt.
+KAJBRUSK DREVSKOG.
+Visst, sak samma.
+Va?\255\003Åh.
+Jag är utkiksmannen på Gruffotumultön\015.
+Jag håller utkik över havet efter annalkande stormar och skepp, och rapporterar dem direkt till Guvernören.
+Hon gillar inte oväntade gäster^\255\003Speciellt inte nu.
+Säg mig, vem är du förresten?
+DREVSKOG.
+Vad tusan är det för fel på "Kajbrusk Drevskog"?
+Varför är Guvernören orolig över oväntade besökare?
+Hur kom det sig att du blev utsedd till utkiksman när du \254\008  uppenbarligen är blind som en fladdermus?
+Jag är här borta.
+Jag går och söker lycka och rikedom nu.
+Det är snarare de VÄNTADE gästerna vi är oroliga över.\255\003En särskild piratkapten^\255\003En död sådan, men det gör honom inte mindre farlig för det.
+Passa dig.\255\003Jag blev handplockad av Sheriff Skinntopp!
+Va?\255\003Åh.
+Just, ja.
+Var det inte det jag sa?
+Inget, om du vill bli skoförsäljare.\255\003Om du vill bli pirat, pojk, så lyd mitt råd:\255\003Byt ditt namn.
+Kanske något i stil med "Hemskskägg" eller "Sexfingrade Petter".
+ 
+Lycka till.
+Hejsan!\255\003Mitt namn är Kajbrusk Drevskog,\255\001och jag vill bli pirat!
+Jisses!\255\003Smyg inte på mig på det där viset!
+Öh^\255\003Jag står här borta.
+Jaha!\255\003Då så, Drivved-
+DREVSKOG.\255\003Kajbrusk DREVSKOG.
+Jag förstår.\255\003Du vill alltså bli pirat?\255\003Du liknar mer en golvinspektör, tycker jag.
+Men om du är seriös gällande sjöröveri, gå och tala med piratledarna.\255\003Du finner dem i Scumm-baren.
+Oj, tack så mycket!\255\003Jag gör så.\255\003Adjö, då.\255\003Då ger jag mig av mot lycka och rikedom!
+Lycka till.
+Öh^\255\003Var sa du att de där piratledarna fanns, nu igen?
+I SCUMM-BAREN.
+Just, ja.\255\003Tack.
+ 
+Samtidigt^\255\002
+ 
+Djupt under Apön befinner sig spökpiraten LeChucks skepp, förankrat i en flod av lava.\255\002
+ 
+Kapten LeChuck^ Herrn^ Jag^
+Aah^\255\003Det finns inget bättre än helvetets heta vindar som blåser en i ansiktet.
+Nej, herrn^\255\003Inget alls^\255\003Eh^\255\003Herrn^\255\003Jag^
+Det är dagar som denna som gör en glad att vara död.
+O ja, herrn^ Glad att vara död^
+För du är väl glad att vara död, ELLER HUR?
+O ja, herrn.\255\003Jag känner mig så lyckosam att du angrep mitt skepp och mördade mig och samtliga ombord^\255\003Ja, herrn^\255\003Lyckosam.
+Skönt att höra.\255\003Vad var det nu du störde mig för?
+Ja^ Jo, herrn^ Du förstår, vi kan ha ett problem på Gruffotumultön\015.
+PROBLEM?!\255\003Vilket problem kan det möjligtvis tänkas vara?!\255\003Jag har fått de där fjolliga piraterna så rädda för havet att de är till och med rädda för att ta ett bad!
+Jo^\255\003Det tycks finnas en ny pirat i stan.\255\003Eller, snarare, en wannabe-pirat.
+Ung.\255\003Oerfaren.\255\003Förmodligen inget att oroa sig för.\255\003Vet inte varför jag besvärade dig för det.\255\003Jag tar hand om honom själv.
+Vänta!\255\003Jag tar hand om det här personligen.
+Mina planer är alltför viktiga för att sabbas av amatörer.
+Ja, herrn.
+ 
+Samtidigt^\255\002
+ 
+Efter att ha just återvänt från Gruffotumult, återvänder LeChuck och hans besättning till deras gamla gömställe vid de underjordiska floderna av Apön och släpper ankare.
+ 
+Kapten, herrn^
+Jag bara kom förbi för att gratulera er för ett lyckat kidnappningsuppdrag.
+Kapten?
+Kapten? Mår ni bra?
+ALDRIG MÅTT BÄTTRE!
+Och hur mår vår fånge?
+Ja, fången.\255\003Vi har haft lite problem^
+PROBLEM?!
+Inget att oroa sig för, herrn^\255\003Allt är under kontroll.
+Hon rymde några gånger^\255\003Men vi har låst in henne i briggen.\255\003Igen kommer in eller ut därifrån.
+För din skull hoppas jag inte det.
+Efter åratal av planer som nästan raserades av min död, tänker jag inte ta några chanser nu.
+Ni tog hand om Herr Drevskog, då?
+Kajbrusk Drevskog kommer inte vara något problem.\255\003Just denna stund befinner han sig sex meter under vattnet^\255\003Förmodligen uppsvullen som en övergödd gris.
+Hans ögon uppätna av krabbor.\255\003Fiskar som nafsar på hans fingrar.
+Det får en att önska att man var där för att se det.
+Ah^ Ja, herrn^\255\003(Blä^)\255\003Visst önskar man det.
+Gå nu och kolla till roten.\255\003Se till att den är ordentligt inlåst.
+Aj, aj, kapten.
+ 
+Mörk och olycksbådande.
+grotta
+Mörk och olycksbådande.
+grotta
+grotta
+grotta
+Mörk och olycksbådande.
+grotta
+Jag rör det helst inte.
+hjärna
+Jag rör det helst inte.
+hjärta
+Jag rör det helst inte.
+hjärta
+Jag rör det helst inte.
+ögon
+Jag rör det helst inte.
+ögon
+Jag rör det helst inte.
+ansikte
+Jag rör det helst inte.
+ögonglob
+Jag rör det helst inte.
+huvuden
+Jag rör det helst inte.
+huvuden
+Jag rör det helst inte.
+kluster av ögonglober
+Jag rör det helst inte.
+blodiga händer
+Jag rör det helst inte.
+stor näsa
+Jag rör det helst inte.
+stor näsa
+Usch. Jag hatar svamp.
+Jag rör det helst inte.
+svamp
+Usch. Jag hatar svamp.
+Jag rör det helst inte.
+svamp
+Äckligt.
+Urk.
+Läskigt.
+Helvetiskt.
+Vedervärdigt.
+Vidrigt.
+Så motbjudande.
+Jag tror jag kommer bli illamående om jag tvingas se på mer av den här sortens grejer.
+Jisses.
+Konstig.
+Blä.
+Det här påminner mig om något jag såg i en mardröm en gång.
+Ser nästan lika hemsk ut som den luktar.
+Otäck.
+Den är hemsk.
+Avskyvärd.
+Skrämmande.
+Meningslös och morbid.
+Den här får verkligen mitt skinn att krypa.
+Otroligt obehaglig.
+Motbjudande, men trots det känner jag mig lockad till den.
+Den är var inte så pjåkig, faktiskt.
+Hmmm^ Vet du, jag börjar faktiskt gilla några av de här sakerna.
+Läcker!
+Cool!
+Grymt!
+Om jag inte tar mig ut härifrån snart, kommer jag att bli galen.
+Det ser ut att vara ett hopprep.
+rep
+rep
+lapp
+djungel
+Han ser inte ut att må så bra.
+Usch.
+man med ohälsosamt utseende
+hängande lik
+Herman Tandröta
+Jag tror att den är full av den där motbjudande sörjan som pirater dricker.
+Jag tror jag har tillräckligt redan.
+SÅ mycket vill jag inte ha!
+tunna
+dörr
+bord
+Det är något slags kött, eller någon köttliknande substans^
+köttbit@@@@@@@@@@
+Någon har kokat sylta i denna.
+kastrull
+Jag tror att den där fågeln skulle hacka handen av mig^
+fisk med smaktillsats
+Den är förvillande lik en sill.
+fisk@@@@@@@@@@@@@@@
+dörr
+Den är kokande het.
+Hmm. Stuvad köttbit.
+Hmm. Stuvad fisk.
+gryta@@@@@
+Plankan sitter fast.
+Det är inget lagerblad, men alla kockar använder substitut.
+kryddig gryta
+Jag tror inte att den behöver både kött OCH fisk.
+kött i gryta
+fisk i gryta
+Jag vill inte lägga i den där.
+stuvad köttbit
+stuvad fisk
+kryddig gryta
+gryta
+Aj!\255\003Fick den!
+Wow!\255\003Det frätte rakt igenom muggen!
+mugg med grogg
+Den här sörjan fräter rakt igenom muggen!
+smältande mugg
+nära-döden-mugg
+tennklump
+De är båda tomma.
+Jag kan inte få ut något från den där muggen.\255\003Det är inte ens mycket till mugg längre.
+Jag kan inte hälla i någonting i den där muggen!
+mugg med grogg
+tennklump
+Inte kan den där hålla den här sörjan!
+Inte kan den där hålla den här sörjan!
+kryddat kött
+Fy för nedskräpning. Verkar vass, dock.
+trasig flaska
+stege
+Verkar vass.
+bågfil
+Rostig, men vass.
+rostig kniv
+Den ser mer ut som en makalös dörrstopp.
+makalös staty
+VÄLDIGT vass.
+sylvass sax
+Vass och farlig.
+dödlig köttyxa
+Tung och vass.
+yxa
+Den är vass. Bäst jag är försiktig.
+svärd
+Jag kan inte nå den, jag är fastbunden i den här dumma statyn!
+Jag antar att jag kommer att behöva ett svärd.\255\003Det här duger.
+Kors, jag vet inte hur länge till jag kan hålla andan.
+Hörru, Nick, jag har just begått ett brott!
+Har det något att göra med den där stora kniven du har där?
+Jajamen!\255\003Vad ska jag göra med den?
+Gör dig av med den!
+Jag kastar i den i vattnet!
+Nej, gör inte det!
+Varför inte? Jag behöver dumpa den!
+Den kanske spolar upp någonstans!
+Spela roll, MINA fingeravtryck kommer inte att vara på den!\255\003Jag kastar i den!
+^Nä, förresten. Jag kanske behöver den.
+Ses.
+Ses.
+dörr
+stig
+stig
+"Kapten Smilfinks Muskelbergsgym för Pirater"\255\003"Priser:"\255\003"Svärdsträning - 30 åtta-realer"\255\003"Kanonskjutning - 160 åtta-realer (kanonkulor ingår ej)"\255\003"Änterhake - 130 åtta-realer (dragg ingår ej)"
+ 
+skylt
+Han är hemsk och okänslig och kommer strax slå mig igen.
+LeChuck
+Jag tror jag knackar.\255\003Det vore oartigt av mig annars.
+Ingen hemma.
+Vad vill du, din mesiga lilla\255\001ryggradslösa mask?
+Vad vill du?
+Jaha, det är bara du.
+Kan du träna mig att bli bättre än Svärdmästaren?
+Kan du göra mig till den bästa fäktaren på Gruffotumult\015?
+Kan man få komma in? Det är lite kyligt här ute.
+Vet du var Svärdmästaren bor?
+Öh^ Skulle du kunna släcka den där cigarren?
+Vad sa du?
+Jag sa att det är lite kyligt här ute!
+Hmmm^\255\003Du har rätt. Jag kanske blir förkyld.
+Glöm det, grabben.\255\003Hon skulle kapa av dig huvudet på direkten.\255\003Såvida du inte får lite träning först, det vill säga^
+Det är inte bra för din hälsa, och det luktar förskräckligt.
+Visst, jag släcker den gärna^
+^i ditt ansikte!
+Öh^\255\003Bäst jag ger mig av istället.
+Bra idé.
+Du menar, förutom Svärdmästaren?
+Jag menar bättre än allihopa. Jag vill vara den BÄSTA.
+Bättre än Svärdmästaren?
+Du?
+Ha ha ha!\255\003Du kan aldrig bli ens hälften så bra svärdskämpe som Carla.\255\003Även med timmar av hårt arbete och blod, svett och tårar.
+Jag minns när jag stred vid Carlas sida under slaget vid Port Royal^
+^Det lokala gendarmeriet hade trängt in oss i ett hörn!
+Det såg ut som det var kört för oss, men sen sa hon-
+-Ledsen, jag råkade avvika från ämnet^
+Du har helt enkelt inte det som krävs.
+Jag har visst det som krävs!
+Det har jag visst!
+Jag antar att du har rätt.
+Du borde verkligen sluta röka, vet du.
+Det har du inte alls!
+Vad jag egentligen borde göra är att tvinga dig äta den här cigarillen.
+Jag gillar din anda. Jag ska göra vad jag kan.\255\003Men det är klart^\255\003^Det kommer att kosta dig.
+Såg du min skylt?\255\003Jag brukar vanligtvis ta 30 åtta-realer för att STORT jobb som detta.
+Hur mycket har du?
+Vad ANNAT har du?
+Jag har 30 åtta-realer.
+Jag hoppades på att du kunde göra det gratis.
+Jag tror jag väntar med det. Tack ändå.
+Allt jag har är den här döda kycklingen.
+Det räcker och blir över.
+Då trodde du fel.
+Visst, förbli en ryggradslös fläck av spindelspott.
+Det är väl inte en sån där gummikyckling\255\001med en remskiva i mitten, va?\255\003Jag har redan en sådan.
+Få se ditt svärd.
+Okej, kolla in.
+Jag antar att jag glömde att köpa ett.
+Jag vill inte visa det för dig.
+Allt jag har är den här dödliga kycklingen.
+Ja, det här var fint.
+Då kör vi igång.
+Jag föreslår att du drar din sorgliga bak\255\001ned till butiken och köper ett.\255\003Jag lånar föga brukligt ut svärd\255\001till elever.
+Ja, att svinga runt en gummi-\255\001-kyckling med en stor remskiva i\255\001metall kan vara ganska farligt^\255\003^MEN DET ÄR INGET SVÄRD!
+Skyll dig själv.
+Det vore bäst, tycker jag.
+Okej, din mask^\255\003Vad sägs om att du drar ditt svärd och visar vad du kan göra med det.
+Pojk!\255\003Du slåss som en mjölkbonde!
+Jag brukar vanligtvis inte ödlsa min tid med ohyra som du.\255\003Men eftersom den här LeChuck-grejen har krampat mina affärer, ser jag inga andra alternativ^\255\003Jag behöver pengarna.
+Ja^\255\003Det här kommer att kräva speciella åtgärder, förstår jag.
+Jag vill bara att du ska veta^\255\003Jag gör inte det här för vem som helst.\255\003Det är bara därför att jag känner den där speciella^\255\003^Elev/mentor/åtta-realer-\255\001-vänskapsbandet^\255\003^Som jag går så här långt.
+Jag ska låta dig gå upp mot^
+MASKINEN.\255\002
+ 
+ 
+Maskin?\255\003Kommer det här att göra ont?
+Jisses!
+Attackera mig. Var inte orolig, du kan inte skada mig.
+Timmar senare^
+Du börjar få kläm på det.
+Flera timmar senare^
+Inte illa. Du har en bra form.
+Nu ska jag lära dig sanningen om svärdstrider.
+Svärdstrider är lite som att älska.\255\003Det är inte alltid vad du gör som räknas, utan vad du säger.
+Vilken dåraktig pirat som helst kan svinga runt en vass bit metall i hopp om att skära något^\255\003Men proffsen^
+De vet när de ska hugga sin motståndare med en förolämpning^\255\003En som får dem att tappa garden.
+Du förstår, grabben, din tunga måste vara dubbelt så vass som ditt svärd.
+Ska vi kanske pröva ett par förolämpningar?
+Okej^\255\003Tänk dig detta:\255\003Vi är mitt uppe i en strid^\255\003Precis som Carla och jag var vid Port Royal^\255\003^Plötsligt blir det ett avbrott i striden och jag säger till dig^
+"Du slåss som en mjölkbonde."\255\003Då svarar du med^?
+Jaså?!
+Det är din morsa också.
+Den som sa det, han var det!
+Du måste tänka på någon annan, jag är ingen bonde.
+Vi har mycket jobb att utföra här, förstår jag.
+Du borde ha svarat med något i stil med^\255\003"Så passande. Du slåss som en ko."
+Du förstår^\255\003Det är snabba repliker som denna som vinner striderna.
+Låt oss pröva en annan.
+Tänk dig detta:\255\003Du står upptryckt mot en vägg^\255\003Mitt svärd har just skurit två sår i ditt ansikte.\255\003Jag säger^
+"Snart kommer min sabel klä ut dig till ett köttspett!"
+Då svarar du med^?
+Jaså?!
+Det är din morsa också.
+Den som sa det, han var det!
+Så passande. Du slåss som en ko.
+Jag inser att vi har stora trubbel här.
+Nej! Nej! Nej!\255\003Det där var ju svaret till den föregående förolämpningen.\255\003Det blir ju helt obegripligt när det används här!
+Suck.
+Det rätta svaret till^\255\003"Snart kommer min sabel klä ut dig till ett köttspett!"^\255\003Vore något i stil med^
+"Bäst du slutar vifta med den som en dammvippa då."
+Förstår du?\255\003Rakbladsvass replik!
+Jag föreslår att du nu ger dig ut och lär dig några förolämpningar.
+Det känns som om jag har blivit lurad.\255\003Jag är säker på att du känner något liknande också.
+Avancera, stöt, återhämtning, parera, riposte.
+Håll koll på fötterna.
+Nej! Slå först, sen gör du utfall.
+Använd din styrka mot motståndarens svaghet.
+Avstånd, avstånd!
+Det står "Jag besegrade Svärdmästaren" på den.
+Jag tror jag behåller den i oanvänt skick.\255\003Den kan bli värdefull någon dag.
+t-shirt med 100% bomull
+Du!
+Jag tänker stoppa dig från att gifta dig med Guvenören.
+Snälla, döda mig inte!
+HÄR får du, ditt odöda odjur!
+Jag kom just ihåg att jag har en tandläkartid.
+Hur planerar du att göra det?
+Ge mig en enda anledning till att inte döda dig.
+VAD försöker du ge mig? Försöker du muta mig?
+Du kommer behöva en tandläkare när jag är klar med dig!
+Guvernören!
+Guvernören!
+Guvernören?
+Vad är det som pågår?
+Åh, Kajbrusk, din galna dåre!\255\003Jag är imponerad över att du kom för att rädda mig, men det var verkligen inte nödvändigt.\255\003Jag hade väl hand om situationen.
+Tyvärr tvingade din ankomst mig att visa min hand lite tidigt.
+ 
+Hur lyckades du rymma?
+Jag trodde LeChuck skulle gifta sig med dig.
+Om du är här, vem är då i den där klänningen?
+Hur^\255\003Vem^\255\003Men^\255\003Vad^\255\003Jag^\255\003Öh^
+Det var enkelt.\255\003LeChuck är en idiot,
+Hörru!
+Och många av hans besättningsmän var vänner till mig medan de levde.
+Ja, det trodde även jag!
+Ja, det trodde även han!\255\003Men jag arrangerade en liten överraskning till då det var dags att kyssa bruden.
+Va?
+Skräm dem inte!\255\003De har min spök-zappande rotsaftsflaska!
+Jaha! Jag hämtar den.
+Hoppsan^
+Snyggt jobbat, Kajbrusk.\255\003Nu måste jag jaga efter dem för att hämta tillbaka min voodoo-rotsaftsflaska.
+Men^\255\003Jag^\255\003Öh^\255\003Du^
+ 
+Att du vågar komma hit och konfrontera mig!\255\003Jag kan inte fatta din dristighet!
+Tja, jag kan inte fatta din dumhet.
+Jag var ju tvungen att stoppa bröllopet!
+Snälla, döda mig inte!
+HÄR får du, ditt odöda odjur!
+Jag kom just ihåg att jag har en tandläkartid.
+Jaså?
+Tja, jag kan inte fatta din slarvighet.
+Tja, jag kan inte fatta din rörlighet.
+Tja, jag kan inte fatta din skröplighet.
+Tja, jag kan inte fatta din ohygglighet.
+Tja, jag kan inte fatta din vidrighet.
+Tja, jag kan inte fatta din beredvillighet.
+Tja, jag kan inte fatta din virilitet.
+Tja, jag kan inte fatta din lycksalighet.
+Tja, jag kan inte fatta din validitet.
+Jag kommer ändå att gifta mig med henne!\255\003Hur har DU tänkt stoppa mig?
+Jag klubbar ned dig med en gummikyckling.
+Jag pytsar dig med min kladdiga seltzerflaska.
+Jag erbjuder en muta åt din maka.
+Jag använder mitt spjut och min magiska hjälm.
+Jag måste gå, jag står dubbelparkerad.
+Hah!\255\003Byte för min brud, va?
+Många har försökt med det och dött på vägen.
+Ge mig en enda anledning till att inte döda dig.
+Det vore inte snällt.
+Jag exploderar om någon försöker döda mig.
+Jag har en fru och tre barn.
+Vad sägs om DENNA anledning?
+Det där hörde jag!
+Va?
+Jag har tröttnat på dig.
+Du kommer aldrig hota hederliga, handfasta pirater igen, din svällande säck av^\255\003^Av^\255\003^Av något som börjar på "s"!
+Öh^\255\003Sakta i backarna, kompis^\255\003Jag bara skojade, du vet?\255\003Vi kan klara upp det här som gentlemän^
+Åh, nej!\255\003Den har FASTNAT!\255\003Måste vara fickludd.
+ 
+Öh^\255\003Du^\255\003Låt oss inte vara förhastade^
+ 
+ 
+Den ser likadan ut som den på andra sidan.
+mast
+Jag tror inte det lär ta mig någonstans.
+Hmmm^ Jag tror den lär hålla för min vikt^
+kabel
+kabel
+kabel
+kabel
+Den ser likadan ut som den på andra sidan.
+mast
+dörr
+stig
+Skrikig, men på ett lekfullt sätt.
+skylt
+Sjabbigt.
+hus
+ 
+Wow! Den fungerar åt båda hållen.\255\003Snacka om funktionell kyckling.
+ 
+ 
+Vad vill'ru, unkna landkrabba?
+Att stoppa en pirat kan va' hälsovådligt.
+Flytta på're, annars hugger jag mig fram!
+Bäst för'e att det här är viktigt.
+Fin kväll vi har, eller hur?
+Varför pratar ni pirater så konstigt?
+Har du någonsin märkt att de här vägarna ser likadana ut?
+Mitt namn är Kajbrusk Drevskog. Förbered dig att dö!
+Du råkar inte ha några åtta-realer^
+Ledsen om jag besvärade dig. Jag ska lämna dig i fred.
+Jag hoppas verkli'en att'ru hade nå' viktigare att stoppa mig för?
+Piratjargong!\255\003Så här snackade alla förr i tiden.\255\003Kom igen Kajbrusk, spela med.
+Du har rätt! Nu när du nämner det, det gör de.\255\003Vi är förmodligen bara trötta.
+^Jag kan låna.
+Jag behöver köpa lite minttabletter.
+Skoja inte.
+Stick, din tiggande byracka, innan jag hugger dig i småbitar.
+Jag lånar inte ut mina pengar tillnågon, särskilt inte till landkrabbor som du.
+Tigga är ovärdigt. Du borde gå och stjäla dem som en riktig pirat.
+Jag gav just min sista åtta-real till en pirat-wannabe där borta.\255\003Han behövde verkligen köpa lite minttabletter.
+utomhus
+utomhus
+utomhus
+utomhus
+ 
+Ja, den där duger till hjälm!
+Det där är ingen hjälm.
+EKO
+eko
+Fettucini-bröderna
+Fettucini-bröderna
+Vässla!
+Vivel!
+Skurk!
+Smilfink!
+Slarver!
+Lagbrytare!
+Hockeyfrilla!
+Hirsfrilla!
+Pennhuvud!
+Halvhuvud!
+Osthuvud!
+Harpya!
+Va?
+Hoppa in i kanonen, bara!
+Din mamma bär armétofflor!
+Dra inte in vår mamma i det här! Hoppa in i kanonen!
+Du är en kyckling!
+Du är en död kyckling!
+Då är du en död kyckling med en remskiva i mitten!
+Va?
+Hoppa in i kanonen, bara.
+Nej, DU får hoppa in i kanonen!
+Nej, DU får hoppa in i kanonen!
+Den grundläggande teorin stämmer.
+Vi behöver bara ändra riktningen lite.
+Jag vill prova härnäst!
+Nej, JAG vill prova härnäst!
+Nej, jag!
+Nej, JAG!
+Slöfock!
+Klant!
+Buse!
+Snobb!
+Jag skulle gärna kliva in i kanonen, men krutet gör så att jag nyser.
+Ja, jag kan då inte göra det, jag gjorde illa handen när jag tämjde lejonen förra veckan.
+Det där lilla skrapsåret kan knappast jämföras med min kroniska allergi. Hoppa in i kanonen.
+Du har inga allergier, din bluffare. DU får hoppa in i kanonen.
+Nej, DU får hoppa in i kanonen!
+Nej, DU får hoppa in i kanonen!
+Slöfock!
+Klant!
+Buse!
+Snobb!
+^Harkel^
+Har det här stället en toalett?
+Jag säljer dessa fina jackor.
+Kan jag få låna trampolinen?
+Varför har ni klätt er i de där fåniga utstyrslarna?
+Hej igen.
+Redo att göra kanontricket?
+Säg oss, grabben^ Skulle du vilja få en chans-
+-En helt unik chans-
+-Att utföra en otrolig bedrift-
+-En dödsföraktande bedrift-
+-Nja, kanske inte helt dödsföraktande-
+-En farlig bedrift-
+-Nä, inte alls farlig-
+-En enkel bedrift-
+-Men spännande!-
+-Tillsammans med De Otroliga-
+-Äventyrslystna, Akrobatiska-
+-Och Ytterst Välkända-
+-Fabulösa, Flygande-
+-Fettucini-bröderna!
+De är vi, det.
+Min bror Alfredo^
+^Och min bror Knut.
+Låter det bra?
+Bra.
+Det är enkelt, egentligen.
+Ser du den där kanonen?
+Allt du behöver göra-
+-Är att kliva in i kanonen-
+-Och vi skjuter ut dig-
+-Tvärs över rummet-
+-Väldigt säkert, faktiskt-
+-Så, vad säger du?
+ 
+Okej, jag gör det.
+Hur mycket vill ni betala mig?
+Glöm det!
+Vi betalar dig \255\004\100\000 åtta-realer.
+Vad sägs om \255\004\100\000 åtta-realer?
+Okej, det låter bra.
+Aldrig i livet!
+Har du en hjälm?
+Öh^ Nä, jag har ingen hjälm. Borde jag ha en?
+Det är väl klart jag har en hjälm. Jag är väl ingen idiot, heller.
+Få se.
+Vi vill vara säkra-
+-På att den är säker-
+-Vi vill ju inte att du gör dig illa-
+-Icke, sa Nicke!
+Ingen hjälm?
+Ja, du måste ha en hjälm-
+-Man kan inte göra kanontricket utan en hjälm-
+-Icke, sa Nicke!
+Gå och skaffa en hjälm, sen kan vi utföra tricket.
+ 
+Nu kan vi utföra tricket.
+Kom och ställ dig här, grabben.
+Nu så, ta på dig hjälmen-
+-Och kliv in i kanonen-
+-Så tar vi hand om resten.
+ 
+Den fungerar!
+Jag är så lättad!
+Hörru^
+Är du okej?
+?rom nim ud rÄ .niboB rä gaJ
+        ?mläjh nim rä raV
+Jag är Bobin. Är du min mor?
+Var är min hjälm?
+Han är okej!
+Hurra! Vi är besparade en pinsam och finansiellt krävande rättegång!
+Här är dina pengar, herrn.
+Bara en liten kompensation för din assistans.
+ 
+ 
+\255\005\001\064
+Det där är ingen hjälm.
+De där galna Spagetti-bröderna är fortfarande där inne.
+Jag tror det pågår något där inne.
+cirkustält
+stig
+Jag borde vara försiktig så jag inte skär mig.
+trasigt fönster
+dörr
+En ovärdelig Mingvas!
+vas
+Det finns inte tid för att läsa nu.
+böcker
+Den är vacker.
+makalös staty
+Jag har fortfarande ingen fil.
+Jag tänker inte gå tillbaka in dit!
+gapande hål
+Jag låste in sheriffen där inne!
+dörr
+dörr
+Det står att sorkar inte kommer i närheten av en om man har på sig det här medlet.
+sorkmedel
+Jag tror det är någon slags religiös text.
+Stilmanualen@@
+De är i jak-storlek och täckta med dräggel. JAG kommer definitivt inte tugga på dem.
+vaxläppar
+Det finns inga häftklammer att ta bort.
+Jag slår vad om att den här kommer till användning.
+häftklammersborttagare
+Jag känner inte igen mannen, men det där ser ut som hunden från baren.
+Jag känner inte igen mannen, men han har en snygg hatt.
+målning
+tung stol
+sheriff
+enorm jak@@@@@@@@@@@@@@@@@@
+röd knapp
+grälsjuka noshörningar
+sork@@@@@@@@@@
+strimlare
+tungt beväpnad clown
+Den här behöver jag.
+Bäst jag lämnar den här.
+Hypnotisera
+Nej!\255\003Inte den röda knappen!
+Det är en stor, ful, hårig jak som har på sig ett par vaxläppar.
+enormt läskig jak
+Den rör sig inte ur fläcken.
+Den rör sig inte ur fläcken.
+Usch!
+^Sorkar!
+en annan sork
+sorkhord
+lustig liten man
+Den är vacker!
+lås
+Jag kan inte öppna det.
+Oj då!
+strimlare
+stilfull konfetti
+Jippi!
+Kasta
+eld
+noshörningstånaglar
+lås@@@
+Men jag är inte färdig med dig än!
+Oj då.
+Trodde du verkligen att du skulle lyckas smita härifrån med Guden med Många Händer?
+Lyssna, jag kan förklara^
+Det kan jag med:
+Du förgiftade Guvernörens pudlar^
+De bara sover!
+^Bröt dig in i hennes hus^
+Dörren var olåst!
+^Och stal en av hennes mest värdefulla konstverk!
+Nej, du har fått allt om bakfoten!
+Jaså?
+ 
+Nåväl, låt oss höra din förklaring då.
+Hon sa att jag kunde få den!
+Jag skulle bara låna den!
+Den hör hemma i ett museum!
+Piratledarna tvingade mig att göra det!
+Jag skulle bara ta med den på en liten promenad.
+Ha!
+Vad pågår här?
+Jag ertappade den här ligisten när han försökte smita iväg med din staty, Guvernören.
+Han sa att du gav den åt honom!
+Det är sant. Det gjorde jag.
+Han sa att han bara skulle låna den!
+Det är sant. Jag lånade ut den till honom.
+Han säger att den hör hemma i ett museum!
+Han har rätt. Det gör den.
+Han säger att piratledarna tvingade honom till att göra det!
+Då är han inte den första anständiga personen de lyckats vilseleda!
+Han säger att han skulle ta med den på en promenad.
+Ja men, det var väl snällt av honom.
+Va?
+Du hörde mig, Fester.\255\003Den egentliga frågan är, hur tog han sig in här medan du var på vakt?
+Jag^ Öh^
+Du kan lämna oss, Fester.\255\003Jag kan ta hand om det här.
+Hmpf!
+Jag tar hand om dig senare.
+Jag ber om ursäkt för honom.\255\003Han är ny.\255\003Jag är Guvernör Marley^
+ 
+Jag måste vara galen!
+Jag har filen^
+Det borde hålla honom för stunden!\255\003Om jag bara hade en fil så kunde jag hämta statyn!
+Pust!\255\003Det var nära ögat.\255\003Jag fick åtminstone statyn.
+Det här ser ut som ett jobb för Fester Skinntopp!
+Vart tror du att du är på väg, Skevhult?
+Jag ska låsa in den här statyn i mitt kassaskåp.
+Det är inte för sent för oss att bli sams och vara vänner.
+Ursäkta mig, herr Skinntopp, men du är blockerar dörren.
+Stick, Fester.
+Jaså?\255\003Jag vet ett ännu säkrare ställe att sätta den. Vad sägs om Davey Jones kista? Även känt som^\255\003Havets botten!
+Visst^\255\003Det är inte heller försent för mig att döda dig och ändå hinna till happy hour.
+Jag tror du behöver kyla ned dig lite.
+Ge hit ditt svärd.
+Oj, då.
+stig
+stig
+Ser jag ut som en sork?
+troll
+troll
+INGEN SKALL PASSERA!
+Åh, vad gott! Förvillelse-sill!
+Passera.
+Hur vågar du förolämpa mig med sådan ynklig summa!
+Det där kommer säkerligen skapa uppmärksamhet^\255\003^Och den är helt värdelös^\255\003^Men det är inte vad jag vill ha.
+Den är ganska värdelös.\255\003Men det är inte vad jag vill ha.
+Jag vill ha något som avleder uppmärksamhet från saker och ting som är VÄLDIGT viktiga.
+Kanske något mer salt?
+Jag blir hungrig av att vänta på dig.\255\003Kanske något att äta?
+STOPP!
+Du måste betala tull!
+Du får inte passera förrän du betalat tull!
+Flytta på dig, troll. Jag är en mäktig pirat.
+Åh, snälla, kan jag inte få passera?
+Hur mycket kostar tullen?
+Hur mycket kostade tullen, nu igen?
+Borde du inte ha ätit mig vid det här laget?
+Titta bakom dig! En mus!
+Oj, förlåt. Jag får ta långa vägen runt.
+Jösses, du låter som en fjant.\255\003Jag gillar inte fjantar.
+Det där går jag inte på!\255\003Kila vidare, din nedriga sjösnigel!
+Jag är inte hungrig.
+Ha!
+Du är ingen pirat!\255\003Till och med stans avdankade fyllo skulle utan problem vinna över dig i förolämpningar!
+Jaså?
+Jag kan vinna över alla i förolämpningar, din hjärnlösa golem!
+Håll klaffen, din stora, svarta, snattrande smutsgris!
+Jag går och tar reda på om han kan det. God dag.
+Visst!\255\003Du vet, du skulle behövt en lektion eller två om det där är det bästa du kan komma på.
+Inte över mig, din minst-lika-hjärnlösa lilla handdocka!
+Jag ägde en gång en hund som var smartare än dig.\255\003Där FICK du, stoppa in DEN i din repertoar!
+Öh^\255\003Äääääh^\255\003Vilken klaff, din knölpåk?
+Heh^
+Vad är det som är så bra med den?
+Tja, vad har du för något?
+Lite halvhärsket kött?
+En kastrull?
+En gummikyckling med en remskiva i mitten?
+Bråka inte med mig, troll. Jag är en mäktig pirat!
+30 åtta-realer?
+\255\004\195\000 åtta-realer?
+En åtta-real?
+Inget viktigt.
+Glöm det, jag måste gå nu.
+Visst.\255\003Försvinn.
+Jag vill ha något som drar till sig uppmärksamhet, men som inte har någon egentlig betydelse.
+Boxershorts gjorda av pysselpapper?
+Ett apkoppel med tre halsband?
+En gummikyckling med en remskiva i mitten?
+Mitt gamla nedärvda, mosstäckta sidobord?
+Jag ska försöka hitta något sådant. Hejdå.
+Var inte fånig.
+Du får tre försök att ge mig vad jag vill ha. Sen^\255\003Äter jag upp dig!
+Det ser ut som en gammal övergiven campingplats.
+campingplats
+Vilken ljuvlig blomma.
+sten och blomma
+Kusligt.
+ben
+Kära nån, vilken ovanligt starkt gul färg de har.
+Samma gamla röda blommor som finns över hela skogen.
+Jag har redan en.
+Jag tror inte att strosa runt i skogen och plocka upp blommor är en bra praxis i att vara pirat.
+blommor
+Bara en vanlig gammal stubbe.
+stubbe
+Det ser ut som en vanlig gammal stubbe med samma röda blommor som växer överallt i skogen.
+blommor och stubbe
+"FARA: Öppen ravin."
+skylt
+Jag tänker inte gå in i den här labyrintartade skogen utan en karta eller en guide eller något.
+stig
+stig
+stig
+stig
+Den är slående gul.
+gula kronblad
+Jag tänker inte gå in i den här labyrintartade skogen utan en karta eller en guide eller något.
+Den verkar vara fylld med någon slags kolsyrad vätska.
+rotsaft
+Han är stor, ful, elak och ska precis slå mig igen.
+LeChuck
+Jag borde kanske köpa den här^
+Det där kallar jag ett fint transportmedel.
+båt
+"Jag har sålt ett skepp! Kan ni fatta det?\255\003Jag sticker iväg på en lång semester och sätter sprätt på en stackars idiots pengar! Arrivederci, baby!"\255\003"-Sture"
+"VÄLKOMMEN TILL STURES BEGAGNADE TRANSPORTMEDEL!"\255\003"Jag håller just nu på att resa världen runt i jakt på de finaste begagnade marina transportmedlen."\255\003"Kika runt lite, så är jag strax tillbaka!"\255\003"-Sture"
+ 
+Bäst jag låter bli.
+skylt
+dörr
+Jag borde kanske köpa den här^
+Söt, men liten.
+båt
+stig
+Jag borde kanske köpa den här^
+Det ser ut som en sån där välkonstruerad importbåt.
+båt
+Jag borde kanske köpa den här^
+Trist, trist, trist.
+båt
+"STURES BEGAGNADE TRANSPORTMEDEL"\255\003"Jag håller inte truten förrän jag gett dig en bra affär!"\255\001      "-Sture"
+visitkort
+Den ser inte mycket ut för världen, men den är min.
+Jag är förvånad att den här flyter fortfarande.
+båt@@@@@@@@@@
+Jag borde kanske köpa den här^\255\003Näh.
+Ah, ett renoveringsprojekt.
+båt
+Grogg^\255\003Grogg Light^\255\003Cherry Grogg^\255\003Grogg Classic^\255\003Koffeinfri Grogg^\255\003Och rotsaft.
+ 
+Åtta-realer är den föredragna lokala valutan.
+Det måste finnas ett mer hederligt sätt att få tag på lite fickpengar.
+groggmaskin
+Jag önskar att jag kunde köpa den här.
+Flott.
+båt
+åtta-realer
+åtta-realer
+"När du sätter segel mot bra priser, blåser alla vindarna mot Stures!"\255\003"(VARNING: Innehåller stark magnet som kan störa ut andra navigationsinstrument.)"
+ 
+Jag är inte säker, men jag tror den pekar mot Gruffotumultön\015.
+Den pekar mot Stures.
+magnetkompass
+Muller
+Muller
+Muller
+Hmpf.
+Inget.
+Morsning!
+Jag visste att du skulle komma tillbaka!\255\003Jag visste att du inte skulle kunna släppa tanken på den där lilla skönheten!\255\003Häng med, vi tar en till titt på henne!
+ 
+Härligt att se dig igen!\255\003Jag visste att du skulle komma tillbaka!\255\003Alla kommer tillbaka!\255\003Och vet du VARFÖR de kommer tillbaka?
+Jag är Sture, från Stures Begagnade Transportmedel^\255\003^Och jag skulle ge min högra arm för att kunna erbjuda dig ett bra pris.
+Vilken sorts farkost är du ute efter?
+Stor? 
+Liten? 
+Snabb? 
+Långsam? 
+Det du vill ha, det har jag.
+Och om jag inte har det, skaffar jag det.
+Jag vill ge dig ett pris som DU kan vara nöjd med.
+Eftersom om inte DU är nöjd, så är inte JAG nöjd.
+Men jag VET att du kommer att gå här ifrån nöjd.\255\003Hur jag vet det?
+Titta bara på alla dessa skepp!
+Jag har något för alla!
+ 
+Häng med och kika lite!
+Så vad mer kan jag visa dig?
+Så säg mig^\255\003Vad är du intresserad av att titta på idag?
+Låt mig få se på det bästa skeppet du har.
+Öh^ Skulle jag kunna få titta på den där röda igen?
+Något som inte är för dyrt, men är byggt för att hålla.
+Öh^ Skulle jag kunna få titta på den där vikingabåten igen?
+Jag har inte riktigt så mycket att spendera.
+Öh^ Skulle jag kunna få titta på den där billiga igen?
+Den där spexigt blåa brevid ditt kontor ser fin ut.
+Öh^ Hur mycket vill du ha för ditt skepp?
+Jag skulle vilja ha lite mer betänketid, faktiskt.
+Hörru, så trevligt att träffa en man som uppskattar kvalitet!
+Prisvärd kvalitet?\255\003Hörru, det är mitt motto!
+Oroa dig inte!\255\003Varje skepp jag säljer är prisvärt!\255\003Men om du letar efter ett riktigt kap^
+Då har jag båten JUST för dig!
+Jag visste det! Jag visste det!\255\003Du kan helt enkelt inte släppa tanken på henne, eller hur?
+Visst, visst.\255\003Du är uppenbart en utbildad kille som vill göra ett utbildat val.
+Visst!\255\003Nemas problemas!\255\003När allting kommer omkring,\255\003så har jag inget bättre för mig än att släpa min röv fram och tillbaka över den här hamnen för att visa killar som dig samma skepp om och om igen hela dagen lång!
+Varför inte? Jag har hela dagen på mig!
+Häng med här.
+Det här^
+Det här är ett skepp byggt för en kung!\255\003Jag menar, vi snackar femton paradhytter, med en öppen spis i varje.\255\003Vi snackar två pooler - en inomhus, en utomhus.
+Vi snackar roterande balsal.\255\003Vi snackar mastkorg med golvvärme.\255\003Vi snackar 60 meter vattenburen dekadens.\255\003Och allt för ett väldigt lågt pris.
+Appropå pris^
+Här har vi ett skepp^
+^som definitivt förtjänar en andra titt.
+Jag ser att du är en kille utan krusiduller.\255\003Men jag kan också se att kvalitet betyder mycket för dig.\255\003Jag menar, titta bara på sättet du klär dig.
+Rustikt. Precis som den här sötnosen.\255\003Hon kommer från ett land långt uppe i norr^\255\003^Där haven är lika oförlåtande som männen är tuffa och-
+-Förresten, du råkar inte komma därifrån, va?\255\003Du ser liksom ut att ha en nordisk kvalitet^
+Hur som helst, vi snackar riktigt prisvärt här^
+Kan inte släppa blicken från henne, va?
+Denna här är den berömda "Sjöapan".\255\003- Det enda skeppet som någonsin klarat sig till Apön\015^\255\003^Och som återvänt med någon överlevande ombord.
+Eller, NÅGOT, borde jag säga.\255\003Du förstår, de tidigare ägarna av detta skepp var två äventyrliga pirater.\255\003De satte av, liksom många andra, att hitta den legendariska Apöns Hemlighet\015.
+Och, liksom många andra, försvann de för alltid.\255\003Deras öde - ett mysterium.\255\003Nästan lika mystiskt som när detta skepp återvände till Gruffotumultön\015 utan en enda människa ombord.
+Vissa påstår att den seglades tillbaka av en besättning chimpanser.
+Chimpanser? Det finns väl inga chimpanser i Karibiska Havet!
+Äh, håll klaffen. Det gör det till en bra skröna.
+Hursom, den här skönheten är min nu^
+Det vill säga, tills dess att någon ger mig ett bud.
+Svårt att hålla sig borta från ett bra mysterium, eller hur?
+Som jag sa, den är inte till salu!\255\003Jösses, vad du är irriterande^\255\003Men det är jag också, eller hur?
+Det är klart den gör.\255\003Den är min.\255\003Och den är inte till salu.
+Vad ANNAT kan jag visa dig?
+Hur mycket är du villig att spendera?
+Låt oss prata pengar - DINA pengar.
+Hur mycket hade du tänkt spendera idag?
+Vilken prisklass hade du i tankarna?
+Pengar är inget problem!
+Jag hade faktiskt hoppats på att få en på kredit.
+Alltså^ Inte mer än \255\004\195\000 åtta-realer.
+Jag har inga pengar, om jag ska vara ärlig.
+Allt jag har är den här gummikycklingen.
+Jag har ett kreditlån jag fick från butiksinnehavaren. Godtar du den?
+Å andra sidan, det här kanske inte är skeppet för mig.
+Det beror på hur lite du har. Vilket är^?
+Ledsen, grabben.
+Jag varken lånar eller lånar ut.
+Det är gamle Stures filosofi, helt enkelt.
+Om du har ett jobb, kan butiksinnehavaren i stan säkert ge dig ett lån.
+Då har vi något att prata om.
+Det är klart, såvida du inte redan har något annat sätt att finiansera köpet på^?
+Inga cash?\255\003Inga problem!
+Jag tror vi snackar om två helt olika skepp här.\255\003Du har uppenbarligen inte hållit koll på skeppmarknaden på ett bra tag.
+Det är tur det här skeppet inte har öron, min vän.\255\003Eftersom om hon hade haft det, så hade hon gett dig en örfil.
+Lyssna här^\255\003Det här skeppet har ett väldigt rimligt pris^\255\003Men inte SÅ rimligt.
+Jag tror inte du har kontanterna för den här transaktionen heller.\255\003Men du har väl NÅGON form av betalningsmedel^\255\003Visst?
+Jag tvivlar på att du bär på tillräckligt med kontanter för den här transaktionen.
+Du råkar inte ha någon ANNAN form av betalningsmedel, eller?
+Är det en sån där gummikyckling med en remskiva i mitten?\255\003Jag har redan en sån.
+Skulle gärna vilja det.\255\003Verkligen.\255\003VANLIGTVIS skulle jag ha gjort det.\255\003Men inte för den summa som den här skönheten kommer att kosta dig.
+Kanske något av de andra skeppen är mer i din prisklass.
+Självfallet!\255\003Krediter är alltid godtagbara här hos Stures^\255\003Det spelar ingen roll om du haft skuldproblem tidigare^
+Skillsmässoförlikning^
+Personlig konkurs^
+Kroniskt spelberoende, kanske^\255\003Jag menar, vem är jag att döma, eller hur?
+Om butiksinnehavaren litar på dig tillräckligt att ge dig ett kreditlån^\255\003^Borde det betyda att du är en hederlig man med fast inkomst, eller hur?
+Öh^ Precis.
+Åh tusan, också. Men jag fattar.\255\003Det är inget fel med att vara velig.\255\003Även om det är slöseri med min tid.
+Okej, men jag har fem andra killar som ska kika på den här skönheten idag.\255\003Räkna inte med att den kommer vara kvar när du har ändrat dig.
+Så klart den inte är!\255\003Du letar efter en mycket större båt, märker jag.
+Okej, men jag säger dig, jag har en känsla^\255\003^Att du kommer att gå härifrån idag med ett helt nytt begagnat transportmedel!
+Visst, visst. Fundera på det.\255\003Jag vill inte att du ska känna dig pressad eller något.
+Hejdå, då.
+Har jag gett dig mitt visitkort?\255\003Här.\255\003Bäst jag ger dig ett till, bara utifall att.
+Nej, nej, nej. Jag har flera, faktiskt.
+Skyll dig själv.\255\003Glöm inte mitt namn, bara:\255\003STURE!
+Oroa dig inte. Det ska jag inte.
+Tackar.
+Jag glömde ge dig mitt visitkort.
+^Och här är något annat att minnas mig med.
+Ett kompass?
+Ett extra starkt magnetiskt kompass-
+Med en bild på dig^
+Precis!\255\003Den pekar alltid direkt tillbaka hit, så om du letar efter ett bra pris, så vet du var du ska gå!
+Jag kommer att vara kvar precis här när du kommer tillbaka,\255\003men jag kan inte garantera att något av dessa skepp kommer att vara det!
+Visst.
+De säljer som smör idag!
+Jajamen^\255\003Kan knappt hålla något i lager.
+Han kommer tillbaka.
+Låt oss komma till skott, då.
+Väldigt snart kommer du ha gett mig ett seriöst bud, vet du.
+Jag vet att du vill ha det^\255\003^Du vet att du vill ha det^\255\003^Och jag vet att du vet att jag vill sälja det, så^
+Jag kommer att få hem en ny skeppning av skepp nästa vecka, så jag sitter lite på pottan just nu.\255\003Jag MÅSTE ha fått sålt den här sötnosen, även om det kommer att kosta skjortan för mig.
+Säg mig bara, vad krävs för att du ska segla iväg i detta skepp^\255\003IDAG?
+Du inser väl att de görs inte på det här viset längre?
+Du kan säga sanningen till mig, kompis.\255\003Det är frugan, va?\255\003Du är rädd vad hon ska säga när du kommer hem med ett nytt skepp.\255\003Var inte en sån mes!
+Stå upp mot henne!\255\003Hon kommer att respektera dig för det.\255\003Och när hon ser det här skeppet^\255\003^Så kommer hon ÄLSKA dig för det.\255\003Tro mig.
+Jag förstår inte. Jag TRODDE du var intresserad av det här skeppet?
+Jag skulle vilja låta dig ta den på en tur runt hamnen, men vårt försäkringsbolag tillåter inte det.
+Jag är på din sida, kompis.\255\003Det är chefen som är en riktig girigbuk.
+Du kanske inte har insett faktumet att jag är den enda båtförsäljaren på hela ön.
+Jag tänker bara på min unges utbildningskassa, här.
+Låt oss snacka tillval.
+Jag skulle vilja ge dig ett bud.
+Nå, hur mycket tycker du den är värd?
+Glöm det. Jag behöver inte den här båten i alla fall.
+Tillval?\255\003Vill du snacka tillval?\255\003Strålande! Den här skönheten är FULL av tillval!\255\003Till exempel^
+Berättade jag om hyttventilsavimmarna?
+Berättade jag om låsningsfria ankaret?
+Berättade jag om det kuggstångsdrivna rodret?
+Berättade jag om segelskyddet av velour?
+Berättade jag om sjöfartsmätaren?
+Berättade jag om hissen som är gjord av trä från bourgognefat?
+Berättade jag om ytterpanelen gjord av låtsasträ?
+Kors, Sture, det låter användbart.
+Jag tror jag kan leva utan det där särkilda skräpet.
+Nog om tillval, nu.
+Och väl värt pengarna, också.
+Det är därför det redan är inkluderat i priset!
+Jag visste att du skulle till slut se saker och ting på mitt sätt.
+Okej, men skyll inte på mig om du kör in i ett isberg eller nåt.
+Visst, kasta säkerheten i sjön.
+Tja, jag antar att den lär flyta utan den^\255\003^Just så pass.
+Ja du, resa lätt, det fattar jag, visst.\255\003Det är klart, myteri är ett fult ord^
+Wow, vet din fru att du är en sån snåljåp?
+Ja, jag antar att det ÄR ganska dekadent, eller hur?
+Okej, men jag säger dig:\255\003Havstulpaner HATAR låtsasträ.
+Okej, var var vi^
+Men vänta, det finns mer!
+Strålande!
+Hur mycket?
+Jag skulle vilja betala 2000 åtta-realer.
+Jag vill ändå bara betala 2000.
+Hur låter 3000 åtta-realer?
+Låter 3000 något bättre nu?
+Okej, okej. 4000 åtta-realer.
+Har jag bjudit 4000 åtta-realer redan?
+Okej! 5000! Men det är mitt sista bud!
+5000!  Och det är mitt SISTA bud.
+Faktiskt så vill jag se dig våndas lite mer.
+Visst. Du!\255\003Det är väl mitt jobb, eller?
+Det är fortfarande inte tillräckligt med pengar.\255\003Inflation fungerar åt andra hållet, vet du.
+Visst, jag antar att vi kan börja i botten.\255\003Jag har hela dagen.
+Så ska det se ut^\255\003^Fast lite mer, då.
+Jag tror vi jobbar i fel riktning, här.
+Jag vet att du kan försöka lite mer än så.
+TVÅTUSEN YNKA ÅTTA-REALER?!
+Tretusen åtta-realer?!
+Fyratusen åtta-realer?!
+Femtusen åtta-realer?!?
+Du kan segla iväg i den här sötnosen IDAG, för endast \255\004\203\000 åtta-realer.\255\003Hur låter det?
+Som du vill.\255\003Var på det viset.\255\003Som om jag bryr mig.
+Nämen, vänta lite nu!
+Gå inte iväg sur, nu.
+Jag är säker på att vi kan komma överens om något.
+Nja, du kanske har rätt^
+Ledsen, Sture. Jag drar nu.
+Det är klart jag är.\255\003Nu så, var var vi?\255\003Just ja.
+Okej! Okej!\255\003Det tar död på mig, men okej då!
+Och jag som trodde att jag skulle kunna ge mina barn julklappar i år^
+Ta det bara härifrån.
+Jag är GLAD att bli av med det.
+Just ja, hade du det där lånet från butiksinnehavaren på dig?
+Tackar.
+Och här är något annat att minnas mig med.
+Ett kompass?
+Ett extra starkt magnetiskt kompass-
+Med en bild på dig^
+Precis!\255\003Den pekar alltid direkt tillbaka hit, så om du letar efter ett bra pris, så vet du var du ska gå!
+Jag måste visa de här siffrorna för min chef^ Han kommer tro att jag är galen, men jag kan nog övertala honom.
+Möt mig vid hamnen med din besättning.\255\003Jag tar med mig skeppet och papprena.
+Jag vill bara säga att det känns som att vi verkligen lärde känna varandra idag.\255\003Jag menar, jag kände verkligen att vi bondade.\255\003Och det säger jag inte till vem som helst!
+Tack för en bra affär.\255\003Verkligen.
+(Lättlurade stackare.)
+Ses vid hamnen, och glöm inte din besättning.\255\003Alla tre av dem.
+ 
+Sjöapan
+dörr
+låda full av svärd
+Norbert
+Hubert
+sandsäck
+slagpåse
+stig
+Det ser ut som hon mediterar.
+Jag tror inte det vore klokt.
+Svärdmästaren
+Hur vågar du närma dig Svärdmästaren utan lov^
+Som jag definitivt inte gett dig.
+Hur vågar du närma dig Svärdmästaren utan-
+Jaha, det är du igen.
+ 
+Ursäkta mig, jag måste tala med dig.
+Jag är Kajbrusk Drevskog och har kommit för att döda dig.
+Hej, jag säljer dessa fina läderjackor.
+Jag är tillbaka, gissa om du är i trubbel den här gången.
+OK, jag tror jag har fattat det den här gången.
+Jag återvänder från ett nyligt mord!
+Hej, kommer du ihåg mig?
+Jag tvivlar på det.\255\003Den som kommer hit är redo för en strid.
+Låt oss vara ärliga mot varandra: Du är här för att visa dig värdig för Piratledarna, i hopp om att bli lika omoraliska som de är.
+Jajamen, huvudet på spiken^ Kors, vad du är smart.
+ 
+Men eftersom du inte har något svärd^\255\003^Så tvivlar jag at du är verkligen seriös.
+Jag kan se på ditt sarkastiska ansiksuttryck att du har blivit fullärd av Kapten Smilfink.
+Jag har också läst på sportsidorna i Gruffotumultbladet att du inte vunnit en enda strid.
+Det här vore inget annat än bortkastad tid för min del.
+Jag har också läst på sportsidorna i Gruffotumultbladet att du endast vunnit en enda strid.
+Knappt tillräckligt för att ödsla min tid.
+Jag har också läst på sportsidorna i Gruffotumultbladet att du endast vunnit \255\004\026\001 strider.
+Knappt tillräckligt för att ödsla min tid.
+Låt oss få detta överstökat.
+Vad fick du för slutbetyg i Kapten Smilfinks fäktningskurs?
+Öh^\255\003Betyg?\255\003Kurs?
+Du menar alltså att du kommit hit för att ta dig an Gruffotumultöns Svärdsmästare\015^\255\003^Möjligtvis den bästa svärdskämpen på hela Karibiska Havet^\255\003^Utan en enda lektion i fäktningens ädla konst?
+Japp.
+Hur hade du tänkt försvara dig själv?
+Alltså^\255\003Ingen aning.
+Jag förstår^\255\003Uppenbarligen inte med din sylvassa slagfärdighet.\255\003Jag råder dig att söka upp Kapten Smilfink och få dig lite ordentlig träning.
+Det vore knappast etiskt, sportsligt eller ens intressant att slåss mot någon så oerfaren som dig.\255\003Så stick.
+Jag har redan sagt, jag tänker inte slåss mot dig förrän du fått lite träning.
+Inget slår ärlighet.
+Har du en i storlek medium?
+Så klart du inte har!\255\003Eftersom du egentligen inte är en jackförsäljare!
+Du har redan fått t-shirten^
+Vad vill du nu?
+Kanske vore bättre att lämna dig i fred.
+Bra idé.
+Jag vill förudmjuka dig i fäktning igen.
+Jag vill att vi blir sams och vänner.
+Guvernören har blivit KIDNAPPAD!
+Kanske vore bättre att lämna dig i fred.
+Ha!\255\003Jag bara lät dig vinna eftersom jag var less på att du hängde här hela tiden.\255\003Jag trodde du skulle hålla dig borta, men jag antar att jag hade fel.
+ 
+Jag vill att du går och lämnar mig i fred.
+Va? Det är ju löjligt.
+Vad är detta?
+Åh nej.
+Det här ser illa ut. Väldigt illa.
+Jag ska skaffa ett skepp och besättning för att åka och rädda henne.
+Hmmm^\255\003Jag har en känsla av att jag kommer att ångra det här, men räkna med mig.
+Vi ses vid hamnen.
+ 
+Bra idé.
+Jag hoppas du är nöjd.\255\003Du kan gå tillbaka och skryta för alla dina vänner om hur du besegrade Svärdmästaren.
+Du kommer att behöva bevis^\255\003Här, den här borde övertyga dem.
+Jag hoppas att det här har lärt dig en läxa.\255\003STICK!
+Bäst jag stannar här borta och tjuvlyssnar.
+Hej igen, Carla.
+Jag trodde jag bad dig att dra åt pipsvängen.
+Det råkar vara så att jag är här i affärer.\255\003Du förstår, den här grabben kom in i min butik^
+Säkert, din kladdiga gamla kåtbock^\255\003Du hittar på vilken ursäkt som helst bara för att komma hit ut och besvära mig.
+Ja, jag antar det.
+Lägg av med det. Jag är less på det.\255\003Dunsta och kom inte tillbaka ut hit igen.\255\003Någon kanske följer efter dig, och då blir jag ännu en i mängden av turistattraktioner på Gruffotumultön\015.
+Skyll dig själv, raring.
+Den där grabben fortsätter att fråga efter dig, Carla^
+Lyssna^\255\003Om du kommer hit en gång till så kapar jag av huvudet på dig och spottar ned i nacken på dig^\255\003Förstått?
+Jag älskar när du pratar på det där viset.
+Visst.\255\003STICK NU.
+Vad är detta?
+Åh, nej.
+Det här ser illa ut. Väldigt illa.
+Jag ska skaffa ett skepp och besättning för att åka och rädda henne.
+Hmmm^\255\003Jag har en känsla av att jag kommer att ångra det här, men räkna med mig.
+Vi ses vid hamnen.
+ 
+Jag vill inte\255\001ha den där.
+  DANSA APDANSEN!
+Bak!     Två-tre-fyr!
+Vänster! Två-tre-fyr!
+Höger!   Två-tre-fyr!
+Vänster! Två-tre-fyr!
+Höger!   Två-tre-fyr!
+Bak!     Två-tre-fyr!
+Höger!   Två-tre-fyr!
+Vänster! Två-tre-fyr!
+Bak!      Cha-cha-cha!
+Jag behöver inte titta på en karta just nu.
+Jag tror jag hittar runt hamnen\255\001utan att använda den där.
+Jag vill inte fläka fram den här inne^\255\003Någon kanske stjäl den.
+Jag behöver inte titta på en karta just nu.
+Jag vill inte att den blir blöt.
+Jag behöver inte titta på en karta just nu.
+Jag tror jag har blivit lurad!\255\003Det här är ingen karta!\255\003Det ser ut som^
+^danslektioner!
+Hmmm^\255\003Det ser ut som ett stort plustecken.\255\003Vad kan det möjligen betyda?
+ 
+Jag är inte dum nog att göra det där två gånger.
+Jag tror att en riktig spade vore bättre.
+X@@@
+skogsstig
+"Den Legendariska Försvunna Skatten av Gruffotumultön\015\255\003"Denna noggrant reproducerade del av Gruffotumultöns\015 historia har glatt tusentals blivande pirater och deras familjer i generationer."
+"Kom ihåg det finns fler pirater på ön,\255\003SÅ TA INTE ALL SKATT."\255\003"Lämna kvar lite till nästa besökare."
+ 
+plakat
+"Jag hittade Skatten på Gruffotumultön\015 och allt jag fick var den här dumma t-shirten!"
+Den passar inte.\255\003Så klart.
+t-shirt
+"Här finner du skatter av otänkbara rikedomar^"\255\003"Du får helt enkelt gräva upp den för att tro det."\255\003"(Finansierat av Gruffotumultöns\015 Handelskammare.)"
+ 
+markering
+Det här borde inte ta allt för lång tid.
+Timmar passerar^
+Jag tror jag träffade något!
+Häftigt!
+Det är en t-shirt!
+Inte min storlek, men den var fin i alla fall.
+Jag antar att jag bör lägga tillbaka all den här jorden nu.
+Fler timmar passerar^
+ 
+aphuvud
+grotta
+Jag visste väl att det fanns svampar i helvetet.
+ 
+Det där är det näst största örat jag någonsin sett^\255\003^Också det smutsigaste.\255\003Usch.
+gigantiskt apöra
+Definitivt den näst största aphuvud jag någonsin sett!
+Det finns ingenstans att stoppa in den it.
+gigantiskt aphuvud
+staty
+staty
+staty
+Vilket billigt massproducerat turistskräp.\255\003På botten står det "Skapad av Citronhuvud".
+Jag tvivlar att någon kommer att sakna det här skräpet.
+Där får du, din billiga skräphög.
+fjantig liten staty
+staty
+staty
+staty
+staty
+staty
+apinhägnad
+Det ser ut som en helig staty av någon sort.
+Den här är alldeles för tung för att lyftas upp^\255\003För att inte tala om att bära runt den på denna gudsförgätna ö utan anledning.
+De här är alldeles för tunga för att flyttas.\255\003Varför skulle jag dessutom vara så dum att jag stör en helig dyrkansplats för ett gäng människoätande huvudjägare?
+grotta
+Det är det där spöklika spökskeppet jag såg segla iväg med Guvernören!
+spökskepp
+spökskepp
+spökskepp
+Han är ganska läskig.
+spöke
+SKRI!\255\003Du skrämde mig halvt till döds!
+Knasigt väder vi har, va?
+Smaka på rotsaft, din onda ande!
+Vart tog skeppet vägen?
+Kan du snälla sluta göra så där med ditt huvud?
+Det är alltid så här nere.
+Vänta!
+Om det är spöken du är ute efter, så kan jag berätta var de andra är!
+Du kommer aldrig att få reda på var det tagit vägen^
+Visst.
+Berätta var spökskeppet är.
+Jag tror jag zappar dig i alla fall.
+Snälla! Jag har en fru och tre barn!
+Vill du inte veta var LeChuck och de andra spökena är?
+Vad har jag någonsin gjort dig?
+Men jag är ett SNÄLLT spöke!\255\003På hedersord.
+Om jag berättar, lovar du att inte göra mig illa?
+Okej, jag lovar.
+Inga löften, spöke.
+Jag kommer inte att lova att undvika att avstå \254\008  från att skada dig.
+Okej.
+Inga berättelser heller.
+Va?
+De åkte alla till bröllopet.
+Vilket bröllop?
+Var är bröllopet?
+Jag måste åka efter dem!
+Jag ger upp. Jag är less på att jaga dem överallt.
+Varför är DU fortfarande här?
+LeChuck ska gifta sig med Guvernören av Gruffotumultön\015.
+VA?\255\003Men hur ska de kunna^
+Det finns en ljuvlig kyrka på Gruffotumultön\015.\255\003De är på väg dit.
+LeChuck ska gifta sig med Guvernören!
+Gifta sig med-
+Gruffotumultön\015?\255\003Åh, nej!
+Mitt huvud föll ned i lavan, jag var tvungen att hoppa i efter det^\255\003^Och när jag simmat i land var de borta!
+Det var synd. Jag ville verkligen närvara på bröllopet.
+Jag måste stoppa det där bröllopet!
+Va?\255\003Du kan inte ge upp nu!\255\003Vad för slags hjälte är du, egentligen?
+Du har rätt!
+Hej då!
+Wow!
+Herman Tandröta
+Kom igen, vi måste åka!
+LeChuck smiter iväg med din Guvernör igen!
+Bob!
+Vad gör du här?
+Jag missade båten till bröllopet.
+Hörru!\255\003Inga problem!\255\003Vi kan ta mitt!\255\003Kom så åker vi!
+Hörni^
+Vi måste skaffa fram ett skepp först.
+Hur kom ni in hit utan ett huvud?
+Vad hände med ditt skepp?
+Det är på verkstaden.
+Jag står inte med på försäkringen och får därför inte köra det.
+Min besättning stal det och seglade till Ipanema för att skaffa solbränna.
+Jag liksom sänkte det med en sten för ett tag sen.
+\255\005\100\000
+Jaha.
+Det är okej.\255\003Vi kan ta mitt.
+Har du ett skepp?
+Om du har ett skepp, varför väntar du då på att bli räddad?
+Kan ni ta med mig till Gruffotumultön\015?
+Hur kom du in hit utan ett huvud?
+Jäpp.
+Jag menar, om man är strandsatt, så MÅSTE man ju bli räddad, för tusan.
+Så lyder reglerna.
+Jag kan låna dig mitt skepp, om du lovar att rädda mig med det.
+Okej.
+Jag har ett huvud.
+Kom, så åker vi.
+Där är du!
+Vi har letat överallt efter dig.
+Vi måste ta oss tillbaka till Gruffotumultön\015!
+Hur kom ni hit utan att använda huvudet?
+Känner ni den här lufsiga, genomskinliga skuggan?
+Skoja inte.
+Ja, vi fick slut på solskyddsmedel.
+Va?
+Öh^\255\003Alltså, jag menar, det vill säga, ni verkar inte ha ett huvud och-
+VA?!
+Heh, öh^\255\003Glöm det.
+Den med det halkiga greppet på sitt huvud?
+Du måste komma över den här fixering kring huvuden, Drevskog.
+Visst, han är en gammal piratkompis.\255\003Jag säger att vi ger honom skjuts.
+Tack, Otis.
+Kom igen, så drar vi.
+Ses, Bob.
+Hörni^
+Bob!
+Hej, Bob!
+Hej, gänget!
+Hör du, Bob, du ser lite blek ut^
+Så klart att jag är blek.\255\003Jag är död, trots allt.
+Död?\255\003Hur gick det till?
+På det vanliga viset:\255\003Man är ute på plundring,\255\003ett spökskepp dyker upp,\255\003LeChuck dödar alla i besättningen,\255\003skriver sedan upp oss på SITT skepp.\255\003Ni vet.
+Kors, det var synd.\255\003Kanske vill du följa med oss på vår jakt efter den perfekta solbrännan?
+Det vore trevligt, men jag försöker haffa skjuts till ett bröllop på Gruffotumultön.\255\003\015.
+Vi var ändå på väg dit.\255\003Du kan haka på.
+Strålande!
+ 
+ 
+Det där var verkligen enklare än resan TILL Apön\015.
+Jag undrar var Tandröta tagit vägen NU?\255\003Nu måste jag stoppa bröllopet alldeles själv!
+Jag önskar bara att de där tjommarna inte vore så ivriga i att få tag på solskyddsmedel.\255\003Nu måste jag stoppa bröllopet själv!
+En lång vandring, en kort rodd och en kort promenad senare^
+ 
+Han sover.
+Jag vill inte behöva väcka honom såvida jag inte har sån där antispök-brygd att försvara mig med.
+spökvakt
+Det är stort. Det är låst.
+Jag kan inte nå det. Det där stora spöket är i vägen.
+lås
+Men du! Jag slår vad om att Guvernören är där inne!
+Jag kan inte nå den. Det där stora spöket är i vägen.
+brigg
+dörr
+Jippi, ännu fler inventarier.
+Det är självlysande spökverktyg.
+spökverktyg
+ 
+z
+zz
+zzz
+zzzz
+zzzzz
+zzzzzz
+zzzzzzz
+zzzzzzz
+zzzzzzzz
+Den här nyckeln verkar inte passa där.
+Det är en stor, spöklik nyckel.
+nyckel@@@@@@@
+dörr
+Det ser ut som Apön\015.
+karta
+kista
+kista
+Det ligger några små, slingrande blå hårstrån på den.
+Blä. Nej, tack.
+Kaptenens säng
+Det ser ut som den där läskiga typen jag såg på övre däck.
+Jag tror jag stannar på den här sidan av rummet, där det är säkert.
+bild
+Arrr^ Vadan detta oljud?
+Vem vågar äntra Spökpiraten LeChucks hytt?
+Vinden knarrar inte på detta vis!
+Var rädd för ert liv, ni som stiger på!
+Måste vara vinden.
+Skeppet låter konstigt på dessa vatten.
+Konstiga platser - konstiga ljud.
+Var rädd.
+Det är bara en öppning, det finns ingen dörr.
+passage
+Det är bara en öppning, det finns ingen dörr.
+stege
+Den är redan öppen.
+Det finns inget sätt att stänga den.
+Det är en flaska med spökgrogg.
+Jag tror jag hellre sparar det.
+krus med grogg
+Det ser ut som en flaska full av grogg.
+Jag kan inte ta den från honom.
+flaska
+Det ser ut som om han sover djupt.
+sovande spökbesättning
+Även spökens fötter luktar.
+sovande spökbesättning
+Den är redan öppen.
+Det är ett fat av kokfett.
+Blä, mina händer blev alldeles nedgeggade.
+Jag har tagit tillräckligt.\255\003Jag försöker dra ned på mättade fetter.
+kokfett
+Blä, mina händer blev alldeles nedgeggade.
+Jag har lagt tillräckligt med fett på det.
+Det här borde få dörren att sluta knarra.
+dörr
+Jag tror inte att det där gör så att jag kan slippa förbi.
+Det skulle nog bara få det igenklibbat.
+fettklump
+Det är en tom tallrik.
+Jag tänker inte plocka upp den^\255\003^Den är täckt av råttdreggel.
+Jag tror att de här råttorna har fått tillräckligt.
+Jag tror inte det är en bra idé.
+tallrik
+Den ser full ut.
+råtta
+Den ser full ut.
+råtta
+Det är den största spökråtta jag någonsin sett.
+Jag häller bara ned det i den här tallriken.
+Jag tror inte han vill ha det där.
+Jag går inte i närheten av den där monsterråttan.
+råtta
+stege
+Jisses! Jag hatar råttor!
+Äckligt! Kolla på hur de äter!
+spökgrisar
+De ser ut som höns.
+spökhöna
+De ser ut som höns.
+spökhöna
+De ser ut som höns.
+spökhöna
+Jag kan inte hitta något kittlig ställe på hans kropp.
+Det är en fjäder.
+Det är en fjäder från en spökhöna.
+spökfjäder
+Jag tar bara den här gamla roten och smiter.
+Det är en tom voodoo-antirot-låda.
+Jag ser inget särskilt.\255\003Förutom den där stora, självlysande voodoo-antiroten inuti.
+Det här borde fungera^
+ 
+Jag kan inte ta mig in i den.\255\003Den är igenspikad, igenkedjad, igenbultad, igenlimmad och igensvetsad.
+Den är redan öppen.
+självlysande låda
+passage
+Den har ett nyckelhål.
+Den är ordentligt låst, måste finnas något viktigt där nere.
+Den är låst.
+lucka
+Den är vriden och torkad och ser inte alls särskilt imponerande ut.
+Den verkar vara fylld med någon sorts kolsyrad vätska.
+Jag tror inte att den är särskilt användbar i dess nuvarande form.
+Inte nu.
+voodoorot@@@@@@@@@@@@@@@@
+Klonk!
+Bang!
+Duns!
+Knak!
+Snäpp!
+K
+Kl
+Klu
+Kluu
+Kluuu
+Kluuuc
+Kluuuck
+ 
+Allt jag fick var en fjäder.
+dörr
+KNA
+KNAA
+KNAAA
+KNAAAA
+KNAAAAA
+KNAAAAAR
+KNAAAAAARR
+Vad var det?!
+knarrande dörr@@@
+dörr@@@@@@@@@@@@@@@@@
+lucka
+Vilken söt liten spökhund!
+Bäst att lämna honom i fred.
+spökhund
+Vilken fylleslusk!
+Bäst jag låter honom vara.
+avsmullet spöke
+grotta
+Det står: "VERKTYG OCH BRIGG"\255\003"HÅLL ER BORTA"
+skylt
+dörr
+knarrig dörr
+dörr
+Jisses!
+Ööh^
+Ni råkar inte ha en rot jag kan låna?
+Jag har kommit för att förhöra fången.
+Ursäkta mig, är det här pooldäcket?
+Jag tror jag ska kila vidare.
+utgång
+utgång
+^Om det bland er finns någon som känner till något skäl till att dessa två^\255\003^Öh^\255\003^Personer ej bör enas i saligt äktenskap^\255\003^Tala nu, eller tig för evigt.
+ 
+Brudgummen är ingen gentleman!
+Brudgummen är ingen människa!
+Elaine!
+STOPPA BRÖLLOPET!
+Hallå! Vem där?
+ 
+Urk!
+Flämt!\255\003Harkel!
+Aiiieeee!
+Repris
+ 
+PANG
+TJOFF
+Kul att se dig, grabben!\255\003Hur mår skeppet?
+Om du är intresserad av att byta upp dig, så kan jag ge dig ett bra pris för det.
+Halloj, kompis!
+Bara av att titta på dig så kan jag se att du är en berest man.
+En man med öga för kvalitet.
+En man som vet ett kap när han-
+Blimp-Kamera\015
+ 
+KABOOM
+ 
+Hej^
+Jisses!\255\003Smyg inte på mig på det där viset!
+Förlåt.
+Det är okej.
+Åhåj där, främling.\255\003Ny i stan?
+Hej, trevligt att se dig igen.
+Oj då, det ser ut som om min grogg börjar bli avslagen, så du får ursäkta mig.
+Så, vad var ditt namn, förresten?
+Mitt namn är Kajbrusk Drevskog. Jag är ny i stan.
+Är du en pirat? Får jag vara med i din besättning?
+Vem är det som bestämmer här?
+Jag vill tala med ledarna över piraterna.
+Var kan jag hitta Guvernören?
+Trevligt att pratas vid.
+Jo, jag är en pirat.\255\003Men jag är tyvärr inte kapten.
+Jo, den här ön har en guvernör^\255\003Men vi pirater har våra egna ledare.
+Jag vill prata med ledarna över piraterna.
+Var kan jag hitta öns Guvernör?
+Det var ju trevligt. Adjö.
+Ursäkta mig.
+Kajbrusk Drevskog?
+Ha ha ha!\255\003Det var det fånigaste namnet jag någonsin hört!
+Jag vet inte^ Jag gillar "Kajbrusk" på sätt och vis.
+Jaha, vad är DITT namn då?
+Ja, det är ett ganska dumt namn, eller hur?
+Jag känner mig kränkt. Adjö.
+Men det är ju inte ens ett namn!
+Mitt namn är Skäggkam Bottenfälling.
+Det är okej.\255\003Mitt är Skäggkam Bottenfälling.
+Tråkigt att du blev sur.
+Känn dig som hemma.
+Du borde gå och prata med piraterna som ser viktiga ut som sitter i rummet bredvid.\255\003De bestämmer i princip häromkring.
+De kan berätta för dig var du bör gå och vad du bör göra.
+ 
+Guvernör Marley?\255\003Hennes herrgård ligger på andra sidan stan.
+Men pirater är inte välkomna där på samma sätt som de brukade vara.
+ 
+Varför inte?
+Jag är välkommen var jag än går.
+Jag tror jag går dit med detsamma. Morsning.
+Om du säger det, så.
+Se bara till att du aktar dig för vakthundarna!
+Okej, men akta dig för de där vakthundarna!
+Du förstår, senast hon hade en pirat över på middag förälskade han sig i henne.\255\003Det har gjort saker och ting obekväma för allihopa.
+ 
+Hur så?
+Vem var den här piraten?
+Det var väl synd. Nåväl, vi ses.
+Det var ingen annan än den fruktansvärda piraten LeChuck.
+Det finns en lång historia om vad som hände sen^\255\003Men jag tror inte på ett ord av den.
+Estevan där borta vid andra bordet kan berätta allt om det.\255\003Han tar det hela väldigt seriöst.
+VÄLDIGT seriöst.
+ 
+Så vad för dig hit till Gruffotumultön\015, förresten?
+Jag vill bli pirat!
+Jag söker lycka och rikedom.
+Ingen aning.
+Det angår dig inte. Adjö.
+Jaså?
+Jaså, det har du, säger du?
+Jag förmodar att det inte var solen som lockade.\255\003Jag tror du behöver lite guidning.
+Ursäkta mig, herr Hemlighetsfull.
+Trevligt att talas vid.
+Ha så kul på Gruffotumultön\015.
+ 
+Min grogg håller på att bli avslagen, så du får ursäkta mig.
+Den är rostig.\255\003Jag tror inte att den kommer att fungera.
+kanon
+Det finns tre hål i den.
+kanonkula
+Svart och explosivt, precis som jag gillar det.
+Jag har tillräckligt.
+krut
+Svart och explosivt, precis som jag gillar det.
+handfull krut
+Bra, starka grejer.
+rep
+Det är ett tjusigt förstoringsglas i det.
+förstoringsglas
+Inget att kolla på här.
+VARNING:
+Objekt i kikare kan vara längre ifrån än vad de verkar.
+Mina fötter ser större ut genom den här.
+kikare
+stig
+Stigen slutar här.
+Herman Tandröta
+Schysst kikare. Den ser precis ut som-
+Förresten, var ÄR min kikare?\255\003Typiskt.
+Jag är bokstavligen borta fem minuter och redan har någon kommit in hit och dumpat krut över hela golvet.
+Naturligtvis tror jag inte att DU hade något med det att göra.\255\003Det är säkert bara en tillfällighet att du började stryka omkring här inne precis efter att någon MYSTISK person skitade ned mitt fina, rena golv.
+Hej!\255\003Jag stör mig inte alls över faktumet att du bara spatserade in hit utan att bemöda dig med att knacka på.
+ 
+Vad glor du på?
+Vad nu då?
+Du, hela den här LeChuck-historien har fått mig att bli riktigt skakis.\255\003Så om du ursäktar mig^
+Får jag presentera mig^ Namnet var Kajbrusk.
+Vad hände mellan LeChuck och Guvernören?
+Kan du berätta historien bakom den här LeChuck-snubben?
+Vem är den här piraten som besvärar Guvernören?
+Varför är inte pirater välkomna vid Guvernörens hus?
+Säger namnet "LeChuck" dig något?
+Ursäkta mig, jag letar efter pilkastningstavlan.
+Var kan jag få tag på en drink?
+Vad har hänt med ditt öga?
+Ledsen att störa. Hejdå.
+Det var så att jag höll på att stoppa in min kontaktlins när-\255\003Vänta lite!\255\003Det angår inte dig!
+ 
+Pilkastningstavla?\255\003En sån finns inte längre.
+Det hände en hemsk olycka.\255\003Sprit och pilkastning är ingen bra kombination.
+ 
+En drink?\255\003Du kan vänta på att kocken uppmärksammar dig^\255\003^Men det kan ta hela dagen.
+Hitta bara en mugg och smyg in i köket.
+Det är så vi alla gör.
+ 
+Ja, än sen?
+LeChuck?
+På grund av LeChuck!
+LeChuck?
+Han är killen som åkte hem till Guvernören på middag och ville aldrig lämna.
+Han föll för henne direkt, och hon bad honom att gå och dö.
+Så då gjorde han det.\255\003Det var då allt gick åt skogen.
+ 
+Så vad är det som är så läskigt med den här LeChuck-snubben?
+På vilket sätt gick allt åt skogen?
+Hur dog han?
+Låter läskigt. Jag måste gå.
+LeChuck var en fruktansvärd pirat.
+Han försökte imponera på Guvernören genom att segla iväg för att hitta Apöns Hemlighet\015.\255\003Men en mystisk storm dök upp och sänkte hans skepp och lämnade inga överlevande.
+Vi trodde att det var slutet för den fruktansvärde piraten LeChuck.
+Vi hade fel.
+ 
+Vad hände sen?
+Vad ÄR Apöns Hemlighet\015?
+Jag älskar den där historien. Vi ses.
+Bara LeChuck vet.
+Men det var inte slutet på historien-
+Han seglar fortfarande vattnet mellan här och Apön\015.\255\003Hans spökskepp är havets oheliga fasa.
+Det är därför vi är alla här inne och inte ute och sjörövar.
+ 
+Okej.
+Aye.
+Aye, på dig själv.
+Fin hatt.
+Så, berätta om LOOM.
+Jösses, vilken uppenbar säljpitch.
+Trevligt att talas vid.
+Menar du det senaste mästerverket från fantasyförfattaren Brian Moriarty\015 från Lucasfilm\015?
+Det är ett extraordinärt äventyr med ett förtrollande gränssnitt^
+Med hänförande, högupplösta, 3D-landskap^\255\003Ett sofistikerat soundtrack samt musikaliska effekter.
+För att inte nämna de detaljerade animationerna och specialeffekterna,\255\003den eleganta peka-och-klicka-kontrollen av karaktärer, objekt och magiska trollformler.
+Men vänta, det finns mer!
+Loom\015 har ingen tråkig textinmatning, kartritning eller inventariehantering.\255\003Och till skillnad från många äventyrsspel idag så är det enkelt för nybörjare.\255\003En ledande speltidning säger att det är "Förtrollande^ Mångfacetterat^ Fänglsande."
+Bli först att äga det!\255\003Gå ut och köp Loom\015 idag!
+Förlåt, jag kan verkligen gå igång på vissa ämnen.
+Aye.
+Den heter "Stå på egna ben i Skattjakt."
+pamflett
+Den heter "Att kasta sig huvudstupa in i Navigering."
+flygblad
+Den heter "Armbåga dig genom en Armada."
+broschyr
+hamn
+hamn
+Han är grym och elak och ska strax slå mig igen.
+LeChuck
+"Lystring, pirater av Gruffotumult:"\255\003"Er guvernör lever och mår bra och står vid min sida där hon alltid var ämnad att vara."
+"Om ni försöker hitta oss kommer ni endast finna ett fruktansvärt öde."
+"Med vänliga hälsningar, Kapten LeChuck."
+ 
+lapp
+Hörru! Det var bra att du dök upp till slut.
+Tio personer har erbjudit sig att köpa den här skönheten av mig medan jag stått här och väntat på dig.
+Men jag sa, "ALDRIG"\255\003"Jag känner en kille som förälskat sig i det här skeppet, och det skulle krossa hans hjärta att förlora det."\255\003Visst har jag rätt?
+Det är klart jag har!
+Jag menar, kolla bara på henne!
+Elegant^\255\003Aerodynamisk^
+En flytande, halvstupanstäckt skönhet.
+Jag tror vi har ett speciellt ögonblick här.
+Jag har ångrat mig.
+Jag kan inte ge upp henne.
+Du kan få tillbaka dina pengar.
+Hur kunde jag sälja något så kärt?
+Men å andra sidan, en affär är en affär, eller hur?
+Så är det.
+Vi hörs.
+Lycka till.
+Slit henne med hälsan.
+Jag drar nu.
+Oj, då! Jag glömde nästan att ge dig den här gratislitteraturen om sjöfarande.
+Min gåva till dig. Kom bara ihåg var du fick dem ifrån.
+STURES!
+Kanske borde jag ha skaffat den där utökade garantin i alla fall.
+Hej, länge sen sist.
+ 
+Otis! Jag trodde att jag aldrig skulle få se dig igen!
+Din oärliga lilla råtta! Du lurade mig.
+Har du kommit för att gå med i min besättning?
+Din faster Tillie är kass på att baka morotstårta.
+Kom igen, var inte bitter.
+Jag är här för att hjälpa. Inte bara på grund av pengarna.
+Hörru, jag missar aldrig chansen till att haffa ett par enkla stålar.
+Pengar?
+Ja, visst får vi betalt för detta?
+Gosse, snacka om en kass attityd.
+Kul att du kunde hänga på, Carla.
+Är det sant det jag hörde om dig och butiksinnehavaren?
+Så passande. Du slåss som en ko.
+Du visste aldrig när du skulle använda den där.
+Börja inte nu, va?
+Så vad gör det där vattenfyllda vraket där ute?
+Hur ska vi kunna få hit vårt skepp med den där skräphögen i vägen?
+Var är skeppsgossen?
+Jag behöver honom att åka hem till mig och plocka upp mina väskor.
+Vad är det som händer här?
+Var är vårt skepp?
+Var är vår besättning.
+Det här kommer inte att bli så lätt som jag trodde.
+Det där var ju inte så svårt.
+Allt jag behöver göra nu är att få ut de är fiskarna ur mina byxor.
+Allt jag behöver göra nu är att visa den här dumma statyn för piratledarna och-
+Du lever!
+Guvernören!
+Nämen, du kan ju prata!\255\003Vem hade kunnat tro det?
+Vad gör DU här?\255\003Kommit för att avsluta jobbet?
+Nej, jag har kommit hit för att rädda ditt liv.\255\003Fester agerade inte på mina order när han kastade i dig där.
+Kom du hit ned för att rädda mig?
+Jag trodde inte ens att du gillade mig.
+Ja, vårt första möte blev lite taffligt^\255\003Du hade lite svårigheter med att bygga fullständiga meningar.\255\003Men det är klart, det har de flesta av mina medborgare svårigheter med.
+Men jag är inte en av dina medborgare^
+^Jag är bara en lösdrivare, en nolla, en pirat-wannabe.
+Vem hade fått reda på, eller ens brytt sig, om du lät mig drunka?
+Jag skulle det, Kajbrusk.
+Åh, Guvernören^
+Åh, Drevskog^
+Åh, Elaine!
+Åh, Kajbrusk!
+Kärleksmuffin!
+Sockertopp!
+Honungsmelon!
+Plundrarkanin!
+Kyss mig!
+Nej! Vi borde inte!
+Va?
+Inte här, där alla kan se oss.
+Varför? Skäms du över mig?
+Nej, nej, inte alls^\255\003Det är bara det att många av dessa pirater har uppvaktat mig.
+Och för att undvika att såra deras känslor, så har jag alltid sagt att min far tvingade mig att lova att aldrig bli förälskad i en pirat.
+Om de ser oss tillsammans, vet de att jag ljugit.
+Okej, vi går hem till dig.
+Okej.
+Men avsluta dina prövningar först.\255\003Jag vill inte att du är^\255\003^Disträ.
+Men^
+Jag känner ett plötsligt iver att avsluta prövningarna^\255\003^Snabbt.
+ 
+utkiksman
+Vad var det där?
+Jag är så förvirrad.
+Hörru, varför står du bara och hänger här för?
+Guvernören har blivit kidnappad!
+Va? Av vem?
+LeChuck har tagit henne ombord på skeppet som just seglade iväg.
+Han hittade ensam när hon kom hit ned för att rädda dig.
+Jag är rädd att vi har sett det sista av henne.
+ 
+Så vad gjorde du under tiden? Sov?
+Var tog de vägen?
+Varför tror du inte att vi kommer se henne igen?
+Jag ska skaffa en besättning och skepp och åka och rädda henne!
+Du, jag är en utkiksman, inte en livvakt.
+Det kommer inte att bli enkelt, vet du.
+LeChuck har tagit Guvernören tillbaka till sitt gömställe på Apön\015.\255\003Jag är rädd för att ingen pirat på den här ön är tillräckligt modiga att följa efter honom dit.
+Men du, lycka till.
+Just ja, jag glömde nästan^
+De lämnade den här lappen.
+Du kan fåden, men jag tror inte du kommer att gilla vad som står på den.
+Åh, Guvernören^\255\003Varför riskerade du ditt liv för min skull?
+Kanske brydde du dig mer om mig än vad jag trodde^
+^Precis som jag nu inser hur mycket jag bryr mig om dig.
+Det är mitt fel att Guvernören har hamnat i detta trubbel, men jag svär att jag ska få henne ur det^\255\003Även om jag behöver segla till Apön\015 själv för att rädda henne!
+ 
+Jisses!
+Hörru!
+ 
+Sakta i backarna!
+ 
+Skulle jag kunna intressera er av lite rotsaft, herrn?
+Jag säljer det här fina munvattnet.
+Vill du se ett häftigt trick?
+Svep DET HÄR, ditt kryp!
+Rotsaft?\255\003Åh, boj!\255\003JAG ÄLSKAR rotsaft!
+Har den mintsmak?\255\003Jag gillar bara den mintiga sorten.
+Oj då, ja!\255\003JAG ÄLSKAR trolleritrick!\255\003Innefattar det en duva?
+Illaluktande grogg att svepa?\255\003Härligt!
+ 
+Coolt!
+Kyrkan är åt det andra hållet!
+Det här är slutet på resan för dig, min lilla pantalongbärande vän.
+Dina bråkmakande dagar på Gruffotumultön\015 är över.
+Mina planer för Guvernören är alldeles för viktiga^\255\003Och alldeles för nära slutfasen^
+^För att riskera att en låtsas-pirat som du hamnar i vägen.
+Adjö, Herr Kryddhylla, eller Hängfejs, eller vad nu ditt namn är.
+ 
+Hmmm^\255\003Det verkar som om det här faktiskt kommer att bli en ganska bra dag, ändå.
+VÄGBESKRIVNING TILL APÖN!
+ 
+Förvärm kastrull till 230 grader
+Lägg i följande ingredienser:
+ 
+   1 kanelstång
+   4 mintlöv
+   1 människoskalle (pressad)
+   1 skvätt bläckfisksbläck
+   2 dl apblod
+   1 levande kyckling
+   3 nypor svavel
+   1 eller fler av följande:
+    pyridoxin hydroklorin,
+    zinkoxid, natriumfluorescein,
+    tiaminmononitrat och betahydroxisyra.
+ 
+Låt bubbla på låg flamma tills det tjocknar.
+4 portioner.
+by
+utkiksplats
+korsning
+glänta
+strand
+bro
+ljus@@@@@@@@@@@@@
+hus
+ö
+ 
+Svärdmästaren
+cirkus
+båtförsäljare
+Genomrutten pirat
+Stinkande pirat
+Bloodtörstig pirat
+Ful pirat
+\255\005\001\064
+Spelare förlorade
+Spelare vann
+Jag ger upp! Du vinner!
+Jag ger upp! Du vinner!
+FARBROR! FARBROR!
+Sablar! Snyggt drag.
+Var tog mitt svärd vägen?
+Titta bakom dig^ en trehövdad apa!
+Okej, du vinner.
+Wow! Du är tillräckligt bra att möta Svärdmästaren.
+Jag ger upp! Du vinner!
+Jag sa: "\255\007\032\000"
+Spelare svarar: \255\007\033\000
+Spelare förolämpar med \255\004\240\000
+Spelare förolämpar: \255\007\032\000
+Kollar svar för piratnivå \255\004\012\001
+Svarar till spelarens standardförolämpning
+Vilken amatör-förolämpning!
+HA! Var det det bästa du kunde komma på?
+Hur är det fatt?\255\003Just gått ut fäktningsskolan?
+Jag är förolämpad över att du ens försökte använda den förolämpningen på mig!
+Använde Svärdmästarens förolämpning
+Orättvist, du använder ju Svärdmästarens förolämpningar.
+slumpmässigt nummer är \255\004\100\000
+Fick ett svar
+Använder standardsvar
+Pirate using reply \255\004\241\000 for insult \255\004\240\000
+\255\007\033\000
+Pirat svarar: \255\007\033\000
+Letar...
+Återanvänder förolämpning \255\004\105\000
+Pirat förolämpar med förolämpning \255\004\240\000
+\255\007\032\000
+Pirat förolämpar: \255\007\032\000
+ 
+Bäst du är på HUGGET, din tiggande byracka!
+Snart kommer min sabel klä ut dig till ett köttspett!
+Min näsduk kommer att torka upp ditt blod!
+Folk faller vid mina fötter när de ser mig komma.
+Jag ägde en gång en hund som var smartare än dig.
+Du får mig att vilja spy.
+Aldrig har mitt blod spillts, och lär aldrig göra det!
+Du slåss som en mjölkbonde.
+Jag fick det här ärret i ansiktet under en våldsam kamp!
+Har du slutat bära blöja ännu?
+Jag hörde du var en föraktlig orm.
+Du är ingen match för min hjärna, din dåre.
+Du har hyfs som en tiggare.
+Jag tänker inte sitta här och ta din fräckhet!
+Det finns inga ord som beskriver hur vidrig du är.
+Jag har talat med apor artigare än dig.
+Nu är det ett SKARPT läge, grabben.
+Min tunga är vassare än något svärd.
+Mitt namn är fruktat i varje smutsiga hörn på denna ö!
+De visaste av mina fiender springer iväg vid första anblick!
+Endast en gång har jag mött en sådan fegis!
+Om din bror liknar dig, är det bättre att äkta ett svin.
+Ingen lär någonsin att se MIG slåss så dåligt som du gör.
+Jag kommer att mjölka varenda droppe blod från din kropp!
+Min senaste strid slutade med mina händer täckta av blod.
+Jag hoppas du har en båt redo för en snabb flykt.
+Mitt svärd är känt över hela Karibiska Havet!
+Jag har skicklighet likt en mästerlig svärdsman!
+Varenda ord du yttrar är dumt.
+Du, min herre, är som en böld i baken.
+Det finns inga smarta drag som kan hjälpa dig nu.
+Nu vet jag vad smuts och dumhet verkligen är.
+Jag ser vanligtvis personer som dig avsmullna på bargolv.
+Jösses vad du är ful!
+Vilken idiot!
+Och du kallar dig själv pirat!
+Jag ger upp, du vinner!
+ 
+Tur jag har fäktning som min SPETSKOMPETENS.
+Bäst du slutar vifta med den som en dammvippa då.
+Så du fick det där jobbet som städare, trots allt.
+Även INNAN de känner lukten av din andedräkt?
+Han måste ha lärt dig allt du kan.
+Du får mig att tro att någon redan gjort det.
+Springer du SÅ snabbt?
+Så passande. Du slåss som en ko.
+Jag hoppas du lärt dig att inte peta näsan.
+Hur så, ville du låna en?
+Synd att ingen hört något om DIG alls.
+Ja, jag skulle råka illa ut om du någonsin använde den.
+Jag ville försäkra mig om att du var bekväm omkring mig.
+Har dina hemorrojder börjat blomma upp igen?
+Jo, det finns det. Du har bara aldrig lärt dig dem.
+Vad kul att du fick gå på din familjeåterträff, ändå!
+Jaså?
+Den som sa det, han var det!
+O, jag är alldeles skakis!
+Öh^ Kan du upprepa det där, jag hörde inte riktigt?
+Jag ger upp, du vinner!
+in set-replies
+-------------
+förlorade svärd
+Pirat id \255\004\000\064 är felaktig
+förolämpning \255\004\000\064 är känd
+antal förolämpningar i listan är \255\004\052\001
+svar \255\004\000\064 är känt
+antal svar i listan är \255\004\053\001
+Du vinner!
+Du fick 800 av 800 poäng.
+Apöns Hemlighet
+Med Spiffy som hunden i baren
+Ytterligare design
+Noah Falstein
+ 
+Ytterligare ytterligare design
+Alla andra hos Lucasfilm Games
+ 
+Svärdstrids-förolämpningar
+Orson Scott Card (Eng) och Tobias Hellgren (Sve)
+ 
+Sista-minuten-assistans
+Tami Borowick och Ron Baldwin
+ 
+Ytterligare grafik
+Avril Harrison, Jim McLeod
+och Gary Winnick
+Gästfilmsregissör
+Hal Barwood
+ 
+Skottsäkring
+Kerner Complex
+ 
+Chokladlager-övervakning
+Andrea Siegel and Alexa Eurich
+Disponent hos Lucasfilm Games
+Steve Arnold
+ 
+Verkställande direktör
+Doug Glen
+ 
+Operativ chef
+David Fox
+ 
+Marknadschef
+Stacey Lamiero
+ 
+Public Relations
+Betsy Irion
+ 
+Grafikavdelningschef
+Gary Winnick
+Biträdande marknadschef
+Kelly Flock
+ 
+Tillverkningskoordinator
+Meredith Cahill
+ 
+Produktsupport
+Brandy Wilson (arbetsledare)
+Liz Nagy och Carla Green
+ 
+Biträdande producenter
+James Wood och Carol Traylor
+ 
+Administrativ support
+Wendy Bertram, Alexa Eurich, Paula Hendricksen,
+Debbie Ratto, Andrea Siegel och Lisa Star
+Ytterligare testning
+Lisa Star, Tami Borowick, Michael Stemmle,
+Tony Hsieh, Wallace Poulter, Ron Baldwin,
+Wendy Clark, Sam Chan, Frank Toriello,
+och John Sinclair
+Sam och Max medv. med tillstånd av Steve Purcell
+Cobb\015 och Mås\015 medv. med tillstånd av LOOM\015
+Soundtrack ej tillgängligt på kassett eller LP
+Bok inte heller tillgänglig
+The Secret of Monkey Island
+En Lucasfilm Games Produktion
+TM & (c) 1990 LucasArts Entertainment Company.
+Alla rättigheter förbehållna.
+Stäng av din dator och gå och lägg dig!
+Du vet, LeChuck var en bisarr, motbjudande, ormliknande, läbbig typ, men det finns en sak man kan säga om honom^
+Vad då?
+Han ser fin ut när han exploderar mot natthimlen.
+Ja, det är väldigt romantiskt.
+Kan jag bjuda dig på en rotsaft?
+Visst.
+Jag är faktiskt lite less på rotsaft.
+Det finns mer hos Stures-
+Medan jag var inuti maskinen borta vid Stures-
+Kors, jag hoppas Sture är okej^
+Jag önskar att min besättning hade kunnat se det här^
+Vet du, jag hade helt glömt bort Herman Tandröta!
+Det finns åtminstone en sak jag lärt mig från allt detta^
+Vad är det?
+Hur man hanterar frustration, besvikelse, \254\008  och irriterande cynism.
+Hur man hanterar frustration, besvikelse, \254\008  och irriterande cynism.
+Det är inte storleken på skeppet^
+Betala aldrig mer än 200 spänn för ett datorspel.
+Det låter som om något min make skulle ha sagt.
+Va?
+Ja, jag har hört den förut.
+Ett vad?
+Jag vet inte. Jag vet inte riktigt varför jag sa det där.
+Vet ni, jag kan inte skaka av mig känslan att det var Kajbrusk som på något sätt var skyldig till att den där stora stenen sänkte skeppet^
+Ja.\255\003Så fort vi hittar ett sätt att ta oss från den här ön så ska vi ta oss ett litet snack med Herr Drevskog^
+Först måste vi komma ut ur den här hyddan.
+Då ska vi se var min piratkompis tog vägen.
+Jag hoppas han inte åkte utan mig^
+\255\005\001\064
+VÄNTA!
+Innan vi börjar^
+Låt oss ha ett kort historieprov.
+Tryck på ENTER för att fortsätta^\255\002
+På något sätt verkar det där inte stämma.
+Jisses! Inte riktigt.
+Det är tyvärr inte svaret jag har här.
+När var den här pirat hängd i \255\007\033\000?
+Antigua
+Barbados
+Jamaica
+Montserrat
+Nebraska
+St.\250Kitts
+Tortuga
+Skriv in ditt svar: XXXX
+ 
+ 
+\255\007\048\000\255\002
+\255\007\047\000
+\255\007\047\000
+ 
+\255\007\046\000
+ 
+track-b-size = \255\004\074\000
+track-b-size = \255\004\074\000
+klarade kopieringsskydd 2
+Spelet kräver Monkey Island CD-skiva i CD-ROM-läsaren!
+ 
+ 
+ 
+ 
+ 
+ 
+Genom ett modigt ledarskap av Kapten Slev- Öh^ - Drevskog, är Sjöapan äntligen på väg.
+Oförfärade över deras brist på navigationsinstrument och expertis, börjar besättningen planera deras resa.\255\002
+ 
