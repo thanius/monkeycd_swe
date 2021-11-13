@@ -1,4 +1,6 @@
-# Apöns Hemlighet version 1.0 - En svensk fanöversättning av The Secret of Monkey Island™
+<img src="logo.png">
+
+# En svensk fanöversättning av The Secret of Monkey Island™
 
 ### OM PATCHEN
 
