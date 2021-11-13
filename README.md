@@ -22,7 +22,7 @@ Rekommenderad hastighet är **120 eller över**, då svenskan innehåller mer te
 Om du redan påbörjat spelet och vill fortsätta på gammal sparfil: Låt oss hoppas på det bästa!
 
 #### GÖR SÅ HÄR:
-1. **Ladda hem en IPS-patchare**, till exempel **Lunar IPS** eller **Floating IPS**
+1. **Ladda hem en BPS-patchare**, till exempel **Floating IPS**
 2. **Kopiera MONKEY.000 och MONKEY.001** (alternativt MONKEY1.000 och MONKEY1.001
 beroende på vilken utgåva av spelet du har) från skivan till hårddisken
 3. **Öppna upp respektive patchfil i patchprogrammet och uppdatera originalfilerna**
