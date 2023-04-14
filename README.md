@@ -5,7 +5,7 @@
 ### OM PATCHEN
 
 Detta är den inofficiella översättningen av spelet till Svenska.
-Patchen är i dagsläget endast till för att appliceras mot CD-ROM Talkie-versionen.
+Patchen är i dagsläget endast till för att appliceras mot CD-ROM-versionen.
 
 Jag rekommenderar att ni spelar det patchade spelet via **ScummVM 2.0 (eller senare)** där man kan justera texthastigheten.
 Rekommenderad hastighet är **120 eller över**, då svenskan innehåller mer text än det engelska manuset.
